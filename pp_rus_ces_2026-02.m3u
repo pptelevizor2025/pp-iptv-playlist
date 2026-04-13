@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="Общие",Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+
+#EXTINF:-1 group-title="Общие" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+
+#EXTINF:-1 group-title="Общие" tvg-logo="https://iptvx.one/picons/tvcentr.png",ТВ Центр
+http://5.188.221.43:8080/play/tv-centr
+
+#EXTINF:-1 group-title="Общие",Рен ТВ
+http://185.46.16.239:8000/REN_TV
+
+#EXTINF:-1 group-title="Общие",ТНТ
+http://185.46.16.239:8000/TNT
+
+#EXTINF:-1 group-title="Общие",СТС
+http://5.188.221.43:8080/play/sts
+
+#EXTINF:-1 group-title="Новости" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+#EXTINF:-1 group-title="Новости",РБК
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="CT1.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/512px-%C4%8CT1_logo_2012.svg.png" group-title="General",ČT 1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT24.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/512px-%C4%8CT24_logo.png" group-title="News",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/512px-%C4%8CT2_logo_2012.svg.png" group-title="Documentary",ČT 2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/512px-%C4%8CT_sport_logo.png" group-title="Sports",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prima.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/512px-Prima_2013.png" group-title="General",Prima (1080p)
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
