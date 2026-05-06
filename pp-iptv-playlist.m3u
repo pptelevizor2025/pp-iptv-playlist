@@ -1,112 +1,104 @@
-#EXTM3U url-tvg="https://teleguide.info/download/new3/xmltv.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://epg.it999.ru/epg.xml.gz,https://epg.112114.xyz/pp.xml"
+#EXTM3U
 
 ########## CHANNEL ONE RUSSIA ##########
-#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="RU",Первый канал (1080p)
+#EXTINF:-1 group-title="RU",Первый канал (1080p)
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ChannelOneEurope.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="RU",Первый канал Европа
+#EXTINF:-1 group-title="RU",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
 
 ########## RUSSIA 1 ##########
-#EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="RU",Россия 1 (1080p)
+#EXTINF:-1 group-title="RU",Россия 1 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia1Plus6.ru" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="RU",Россия 1 (+6) (576p)
+#EXTINF:-1 group-title="RU",Россия 1 (+6) (576p)
 http://31.148.48.15/Rossiya_1/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia1Arhangelsk.ru" tvg-logo="https://i.imgur.com/0YEahxs.png" group-title="RU",Россия 1 HD (Архангельск) (1080p)
+#EXTINF:-1 group-title="RU",Россия 1 HD (Архангельск) (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
 
 ########## NTV ##########
-#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="RU",NTV HD (1080p)
+#EXTINF:-1 group-title="RU",NTV HD (1080p)
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
 
-#EXTINF:-1 tvg-id="NTVPlus4.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="RU",НТВ (+4) (576p)
+#EXTINF:-1 group-title="RU",НТВ (+4) (576p)
 http://31.148.48.15/NTV/index.m3u8
 
 ########## TNT ##########
-#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="RU",ТНТ (+4) (576p)
+#EXTINF:-1 group-title="RU",ТНТ (+4) (576p)
 http://31.148.48.15/TNT/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="RU",ТНТ International (480p)
+#EXTINF:-1 group-title="RU",ТНТ International (480p)
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
-#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="RU",ТНТ4 (576p)
+#EXTINF:-1 group-title="RU",ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
 
 ########## STS ##########
-#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="RU",СТС (+4) (576p)
+#EXTINF:-1 group-title="RU",СТС (+4) (576p)
 http://31.148.48.15/STS/index.m3u8
 
-#EXTINF:-1 tvg-id="STSInternational.ru" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="RU",СТС International (720p)
+#EXTINF:-1 group-title="RU",СТС International (720p)
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 
-
 ########## CCTV ##########
-#EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="CN",CCTV+ 1
+#EXTINF:-1 group-title="CN",CCTV+ 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="CN",CCTV+ 2
+#EXTINF:-1 group-title="CN",CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="CN",CCTV-4 America
+#EXTINF:-1 group-title="CN",CCTV-4 America
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="CN",CCTV-4 Europe
+#EXTINF:-1 group-title="CN",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="CN",CCTV-5+
+#EXTINF:-1 group-title="CN",CCTV-5+
 http://69.30.246.194/live/cctv5p.m3u8
 
-#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="CN",CCTV-9
+#EXTINF:-1 group-title="CN",CCTV-9
 https://xykt-fix.github.io/Y77.m3u8
 
-#EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="CN",CCTV-10
+#EXTINF:-1 group-title="CN",CCTV-10
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13.cn" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="CN",CCTV-13
+#EXTINF:-1 group-title="CN",CCTV-13
 https://cdn3.163189.xyz/163189/cctv13
 
-#EXTINF:-1 tvg-id="CCTV16.cn" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="CN",CCTV-16
+#EXTINF:-1 group-title="CN",CCTV-16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 
-
 ########## HUNAN TV ##########
-#EXTINF:-1 tvg-id="HunanTV.cn" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="CN",Hunan TV
+#EXTINF:-1 group-title="CN",Hunan TV
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
-
 ########## DRAGON TV ##########
-#EXTINF:-1 tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="CN",Dragon TV (东方卫视)
+#EXTINF:-1 group-title="CN",Dragon TV (东方卫视)
 http://118.81.195.79:9003/hls/23/index.m3u8
 
-
 ########## ZHEJIANG TV ##########
-#EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="CN",Zhejiang TV International
+#EXTINF:-1 group-title="CN",Zhejiang TV International
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 
-
 ########## BEIJING TV ##########
-#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="CN",Beijing TV (北京衛視)
+#EXTINF:-1 group-title="CN",Beijing TV (北京衛視)
 http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 
-
 ########## ČESKÁ TELEVIZE ##########
-#EXTINF:-1 tvg-id="CT1.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="CZ",ČT 1
+#EXTINF:-1 group-title="CZ",ČT 1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="CZ",ČT 2
+#EXTINF:-1 group-title="CZ",ČT 2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CT24.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png" group-title="CZ",ČT24 (1080p)
+#EXTINF:-1 group-title="CZ",ČT24 (1080p)
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 
-
 ########## PRIMA ##########
-#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" group-title="CZ",Prima (1080p)
+#EXTINF:-1 group-title="CZ",Prima (1080p)
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 
-
 ########## BARRANDOV ##########
-#EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png" group-title="CZ",Kino Barrandov (720p)
+#EXTINF:-1 group-title="CZ",Kino Barrandov (720p)
 http://83.167.253.107/hdmi1_ext
