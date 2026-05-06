@@ -98,7 +98,3 @@ http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 ########## PRIMA ##########
 #EXTINF:-1 group-title="CZ",Prima (1080p)
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
-
-########## BARRANDOV ##########
-#EXTINF:-1 group-title="CZ",Kino Barrandov (720p)
-http://83.167.253.107/hdmi1_ext
