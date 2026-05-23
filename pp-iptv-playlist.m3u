@@ -23,11 +23,23 @@ http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="Čínske",Hunan TV
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
-#EXTINF:-1 group-title="Čínske",CGTN
+#EXTINF:-1 group-title="Čínske",CGTN Documentary
+https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
+
+#EXTINF:-1 group-title="Čínske",CGTN English
 https://dash3.antik.sk/live/test_cgtn/playlist.m3u8
 
-#EXTINF:-1 group-title="Čínske",CGTN Documentary
-https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:-1 group-title="Čínske",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Čínske",CGTN French
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Čínske",CGTN Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Čínske",CGTN Russian
+https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 
 ### Ruské kanály ###
 
@@ -36,9 +48,6 @@ http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия 1 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",Россия 1 HD (Архангельск) (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",НТВ HD (1080p)
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https
@@ -60,6 +69,9 @@ http://31.148.48.15/STS/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",СТС International (720p)
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+
+#EXTINF:-1 group-title="Ruské",CGTN Russian
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 ### Bieloruské kanály ###
 
@@ -138,6 +150,9 @@ http://187.190.55.136:5501/udp/225.1.1.101:5101
 
 #EXTINF:-1 group-title="Španielske",Aragon TV Internacional
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 group-title="Španielske",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 
 ### Španielske latinskoamerické kanály ###
 
@@ -414,3 +429,67 @@ https://dash3.antik.sk/live/test_rebel/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV SK",Relax
 https://dash3.antik.sk/live/test_relax/playlist.m3u8
+
+### Slovenské kanály – zoradené podľa témy / obsahu ###
+
+########## STV + FILMY / SERIÁLY ##########
+
+#EXTINF:-1 group-title="Slovenské",STV 1
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Slovenské",Markiza Klasik
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+
+#EXTINF:-1 group-title="Slovenské",Markiza Krimi
+https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
+
+#EXTINF:-1 group-title="Slovenské",Skvelé TV
+https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
+
+
+########## DETSKÉ / RODINNÉ ##########
+
+#EXTINF:-1 group-title="Slovenské",Duck TV
+https://dash2.antik.sk/live/duck_tv/index.m3u8
+
+#EXTINF:-1 group-title="Slovenské",Duck TV Plus
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+
+#EXTINF:-1 group-title="Slovenské",TV Piánko
+https://dash2.antik.sk/live/test_pianko/playlist.m3u8
+
+#EXTINF:-1 group-title="Slovenské",RiK TV
+https://dash3.antik.sk/live/rik_atk/index.m3u8
+
+
+########## SPRAVODAJSTVO / VEREJNÉ ##########
+
+#EXTINF:-1 group-title="Slovenské",TV NRSR
+https://dash3.antik.sk/live/test_nrsr/playlist.m3u8
+
+#EXTINF:-1 group-title="Slovenské",Doktor TV
+https://dash3.antik.sk/live/tv_doktor/index.m3u8
+
+#EXTINF:-1 group-title="Slovenské",PARK TV
+https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Slovenské",Kanal 1
+https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
+
+
+########## ŠPORT / AUTO-MOTO ##########
+
+#EXTINF:-1 group-title="Slovenské",Turbo TV
+https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+
+
+########## HUDBA / ZÁBAVA ##########
+
+#EXTINF:-1 group-title="Slovenské",Šláger Premium
+https://dash3.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Slovenské",Šláger Muzika
+https://dash2.antik.sk/live/test_slagr_2_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Slovenské",Tanečné súťaže
+https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
