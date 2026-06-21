@@ -1,6 +1,6 @@
 #EXTM3U
 
-### Čínske kanály ###
+### 1 - Čínske kanály ###
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
@@ -43,6 +43,356 @@ https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Russian
 https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+
+
+### 2 - Slovenské kanály ###
+
+#EXTINF:-1 group-title="2 - Slovenské",Jojko
+http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Rik TV
+https://dash2.antik.sk/live/rik_atk/index.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",RiK TV (Alt.) 
+http://88.212.15.19/live/test_rik/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Turbo TV
+https://dash2.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Jednotka STV 1
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Dvojka STV 2
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",RTVS Šport
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",RTVS:24
+http://88.212.15.19/live/test_trojka_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",TA3
+http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Markiza
+http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Markiza Krimi
+http://88.212.15.19/live/test_markiza_krimi_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Markiza Krimi (Alt.)
+https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Markiza Klasik
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Dajto
+http://88.212.15.19/live/test_dajto_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Doma
+http://88.212.15.19/live/test_doma_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",JOJ
+http://88.212.15.19/live/test_joj_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",JOJ Cinema
+http://88.212.15.19/live/test_joj_cinema_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",JOJ Family
+http://88.212.15.19/live/test_joj_family_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",JOJ Krimi
+http://88.212.15.19/live/test_wau_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",JOJ Plus
+http://88.212.15.19/live/test_pluska_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",JOJ Svet
+http://88.212.15.19/live/test_joj_svet/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",JOJ Šport
+http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Kanal 1
+https://dash2.antik.sk/live/test_upnetwork/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",PARK TV
+https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Skvelé TV
+https://dash2.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Arena Sport 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Arena Sport 2
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",TV Paprika
+http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",TV Doktor
+https://dash2.antik.sk/live/tv_doktor/index.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",TV Doktor (Alt.)
+https://live.tvdoktor.sk/high/index.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Folklorika Tv
+http://88.212.15.19/live/test_folklorika_atktv/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",SENZI
+http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Šláger Premium
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Šláger Muzika
+https://dash2.antik.sk/live/test_slagr_2_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Tanečné súťaže
+https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Tanečné súťaže (Alt.)
+http://88.212.15.19/live/tanecnesutaze/index.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",NR SR
+https://dash2.antik.sk/live/test_nrsr/playlist.m3u8
+
+
+### 3 - České kanály ###
+
+#EXTINF:-1 group-title="3 - České",ČT1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT 2 FHD
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT :D/art
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT24
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT 24 FHD
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT Sport FHD
+http://88.212.15.19/live/ct_sport_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",CNN Prima News
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",TV Barrandov
+http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Kino Barrandov
+http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Barrandov Krimi
+https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Barrandov Krimi (Alt.)
+http://88.212.15.19/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Action
+http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Cinema
+http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Fun
+http://88.212.15.19/live/nova_fun_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Krimi
+http://88.212.15.19/live/nova_gold_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova HD
+http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Lady
+http://88.212.15.19/live/test_nova_lady_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima COOL
+http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima COOL SK
+http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima KRIMI
+http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima love SK
+http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima Show
+http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima Star
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima ZOOM
+http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima ZOOM HD
+http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Seznam.cz TV
+http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko
+http://88.212.15.19/live/test_ocko/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko Black (Alt.)
+http://88.212.15.19/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko Expres
+http://88.212.15.19/live/test_ocko_expres/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko Star
+http://88.212.15.19/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Šlágr Premium
+http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",A11 HD
+https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",REBEL
+https://dash2.antik.sk/live/test_rebel/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",RELAX
+https://dash2.antik.sk/live/test_relax/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",AMC
+http://185.98.209.11:81/amc/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",ARENASPORT 2
+http://185.98.209.11:81/arenasport2/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",AXN
+http://185.98.209.11:81/axn/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",AXN Black
+http://185.98.209.11:81/axn_black/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",docubox
+http://185.98.209.11:81/docubox/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",filmbox HD
+http://185.98.209.11:81/filmbox/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",minimax
+http://185.98.209.11:81/minimax/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",cinemax
+http://185.98.211.8:81/cinemax/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",fightbox
+http://185.98.211.8:81/fightbox/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",hbo2 HD
+http://185.98.211.8:81/hbo2/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",hbo3 HD
+http://185.98.211.8:81/hbo3/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",history HD
+http://185.98.211.8:81/history/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",spektrum
+http://185.98.211.8:81/spektrum/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",sport2
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",viasat_explore
+http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",viasat_history HD
+http://185.98.211.8:81/viasat_history/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",AMC
+http://88.212.15.19/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Animal Planet
+http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",AXN
+http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",AXN Black
+http://88.212.15.19/live/test_black/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",AXN White
+http://88.212.15.19/live/test_white/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Cinemax
+http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Cinemax 2
+http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Crime and Investigation
+http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",CS History
+http://88.212.15.19/live/test_cs_history_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",CS Mystery
+http://88.212.15.19/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Discovery
+http://88.212.15.19/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Disney Channel
+http://88.212.15.19/live/test_disney/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Disney Junior
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Duck tv
+http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Film+
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Filmbox
+http://88.212.15.19/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Filmbox Extra
+http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Filmbox Family
+http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Filmbox Premium
+http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",FilmBox Stars
+http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Fishing and Hunting
+http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",HBO
+http://88.212.15.19/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",HBO 2
+http://88.212.15.19/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",HBO 3
+http://88.212.15.19/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",History
+http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ID
+http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Jim Jam.cz
+http://88.212.15.19/live/test_jim_jam/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Lala TV
+http://88.212.15.19/live/test_lala_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Love Nature
+http://88.212.15.19/live/test_lovenature/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Minimax
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",National Geographic
+http://88.212.15.19/live/test_ngc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nick Jr.
+http://88.212.15.19/live/test_nick_jr/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nicktoons
+http://88.212.15.19/live/test_nicktoons/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Spark
+http://88.212.15.19/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Spektrum
+http://88.212.15.19/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Spektrum Home
+http://88.212.15.19/live/test_home_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Sport 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",TLC
+http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Travel Channel
+http://88.212.15.19/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nat Geo Wild
+http://88.212.15.29/live/test_ngw/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",360 TuneBox
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Duck tv
+https://dash2.antik.sk/live/duck_tv/index.m3u8
+#EXTINF:-1 group-title="3 - České",Duck tv plus
+https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",FilmBox Arthouse
+https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",360 TuneBox
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+
+### 4 - Kamery ###
+#EXTINF:-1 group-title="4 - Kamery",Bociany
+https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso - Námestie MS
+https://stream.profi-net.sk/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Rajecké Teplice
+https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Skalnaté pleso Tatry
+http://stream.profi-net.sk:1935/tmr//STREAM29.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Tatranská Lomnica štart
+http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Zjazdovka Tatry
+http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Zjazdovka Tatry
+http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso (pohľad na Móryho vyhliadku)
+http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Štrbské pleso nové jazero
+http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Štrbské pleso námestie
+http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+
 
 ### Ruské kanály ###
 
@@ -97,6 +447,7 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 group-title="Ruské",CGTN Russian
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
+
 ### Bieloruské kanály ###
 
 #EXTINF:-1 group-title="Bieloruské",Беларусь 24
@@ -114,25 +465,6 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bieloruské",Беларусь 5 (Sport)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
-### České kanály ###
-
-#EXTINF:-1 group-title="České",ČT 1
-http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
-
-#EXTINF:-1 group-title="České",ČT 2
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-
-#EXTINF:-1 group-title="České",ČT24
-http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="České",Prima
-http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
-
-#EXTINF:-1 group-title="České",Nova
-http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
-
-#EXTINF:-1 group-title="České",Barrandov Krimi
-http://88.212.15.19/live/test_barrandov_plus_atk_1200/playlist.m3u8
 
 ### Maďarské kanály ###
 
@@ -157,24 +489,14 @@ http://46.149.191.217:9005/play/a01q
 #EXTINF:-1 group-title="Maďarské",Sport 1
 http://46.149.191.217:9005/play/a017
 
-### Indonézske kanály ###
-
-#EXTINF:-1 group-title="Indonézske",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske",Trans7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonézske",Rodja TV
-https://rodjatv.com/rodjatv/live.m3u8
-
-#EXTINF:-1 group-title="Indonézske",Al-Bahjah TV
-https://edge.medcom.id/live-edge/smil:albahjahtv.smil/playlist.m3u8
 
 ### Španielske kanály ###
+
+#EXTINF:-1 group-title="Španielske",TVE Internacional Europe
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+
+#EXTINF:-1 group-title="Španielske",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
 #EXTINF:-1 group-title="Španielske",Antena 3 Internacional
 http://187.190.55.136:5501/udp/225.1.1.101:5101
@@ -221,6 +543,31 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
 #EXTINF:-1 group-title="Talianske",Radio Norba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
+
+
+### Kazachstan ###
+
+#EXTINF:-1 group-title="Kazachstan",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+
+#EXTINF:-1 group-title="Kazachstan",Alau TV
+https://otv.wotom.net/alau/stream.m3u8
+
+#EXTINF:-1 group-title="Kazachstan",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kazachstan",МТРК
+http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+
+#EXTINF:-1 group-title="Kazachstan",Новое телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+
+
+### Rôzne ###
+
+#EXTINF:-1 group-title="Rôzne",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
 
 ### Antik TV ###
 
@@ -460,84 +807,3 @@ https://dash3.antik.sk/live/test_rebel/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Relax
 https://dash3.antik.sk/live/test_relax/playlist.m3u8
-
-### Slovenské kanály – zoradené podľa témy / obsahu ###
-
-########## STV + FILMY / SERIÁLY ##########
-
-#EXTINF:-1 group-title="2 - Slovenské",STV 1
-http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Markiza Klasik
-https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Markiza Krimi
-https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Skvelé TV
-https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
-
-
-########## DETSKÉ / RODINNÉ ##########
-
-#EXTINF:-1 group-title="2 - Slovenské",RiK TV
-https://dash3.antik.sk/live/rik_atk/index.m3u8
-
-
-########## SPRAVODAJSTVO / VEREJNÉ ##########
-
-#EXTINF:-1 group-title="2 - Slovenské",TV NRSR
-https://dash3.antik.sk/live/test_nrsr/playlist.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Doktor TV
-https://dash3.antik.sk/live/tv_doktor/index.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",PARK TV
-https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Kanal 1
-https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
-
-
-########## ŠPORT / AUTO-MOTO ##########
-
-#EXTINF:-1 group-title="2 - Slovenské",Turbo TV
-https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
-
-
-########## HUDBA / ZÁBAVA ##########
-
-#EXTINF:-1 group-title="2 - Slovenské",Šláger Premium
-https://dash3.antik.sk/live/test_slager_premium_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Šláger Muzika
-https://dash2.antik.sk/live/test_slagr_2_atk/playlist.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Tanečné súťaže
-https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
-
-### Kazachstan ###
-
-# ===== HLAVNÉ KAZACHSTAN KANÁLY =====
-
-#EXTINF:-1 group-title="Kazachstan",Qazaqstan International
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-
-# ===== RUSKO/KAZACH BILINGVÁLNE =====
-
-#EXTINF:-1 group-title="Kazachstan",Alau TV
-https://otv.wotom.net/alau/stream.m3u8
-
-#EXTINF:-1 group-title="Kazachstan",Abai TV
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kazachstan",МТРК
-http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-
-#EXTINF:-1 group-title="Kazachstan",Новое телевидение
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-
-### Rôzne ###
-
-#EXTINF:-1 group-title="Rôzne",Love Nature
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
