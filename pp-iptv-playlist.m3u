@@ -20,29 +20,27 @@ https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 group-title="1 - Čínske",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",8TV (Malajzia)
-http://cdn6.163189.xyz/163189/8tv
-
 #EXTINF:-1 group-title="1 - Čínske",China Travel
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Documentary
-https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
+https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN English
-https://dash3.antik.sk/live/test_cgtn/playlist.m3u8
-
-#EXTINF:-1 group-title="1 - Čínske",CGTN Spanish
-https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
-
-#EXTINF:-1 group-title="1 - Čínske",CGTN French
-https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
-
-#EXTINF:-1 group-title="1 - Čínske",CGTN Arabic
-https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Russian
-https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+https://dash2.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CGTN Spanish
+https://dash2.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CGTN French
+https://dash2.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CGTN Arabic
+https://dash2.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+
 
 
 ### 2 - Slovenské kanály ###
@@ -165,151 +163,86 @@ http://88.212.15.19/live/tanecnesutaze/index.m3u8
 https://dash2.antik.sk/live/test_nrsr/playlist.m3u8
 
 
+
 ### 3 - České kanály ###
 
-#EXTINF:-1 group-title="3 - České",ČT1
-http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",ČT 2 FHD
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",ČT :D/art
-http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",ČT24
-http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",ČT 24 FHD
-https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",ČT sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",ČT Sport FHD
-http://88.212.15.19/live/ct_sport_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",CNN Prima News
-http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",TV Barrandov
-http://88.212.15.19/live/test_barrandov/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Kino Barrandov
-http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Barrandov Krimi
-https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Barrandov Krimi (Alt.)
-http://88.212.15.19/live/test_barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Nova Action
-http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Nova Cinema
-http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Nova Fun
-http://88.212.15.19/live/nova_fun_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Nova Krimi
-http://88.212.15.19/live/nova_gold_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Nova HD
-http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Nova Lady
-http://88.212.15.19/live/test_nova_lady_hevc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Prima
-http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Prima COOL
-http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Prima COOL SK
-http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Prima KRIMI
-http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Prima love SK
-http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Prima Show
-http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Prima Star
-http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Prima ZOOM
-http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Prima ZOOM HD
-http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Seznam.cz TV
-http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Óčko
-http://88.212.15.19/live/test_ocko/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Óčko Black
-https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Óčko Black (Alt.)
-http://88.212.15.19/live/test_ocko_black/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Óčko Expres
-http://88.212.15.19/live/test_ocko_expres/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Óčko Star
-http://88.212.15.19/live/test_ocko_star/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Šlágr Premium
-http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",A11 HD
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",REBEL
-https://dash2.antik.sk/live/test_rebel/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",RELAX
-https://dash2.antik.sk/live/test_relax/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",AMC
-http://185.98.209.11:81/amc/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",ARENASPORT 2
-http://185.98.209.11:81/arenasport2/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",AXN
-http://185.98.209.11:81/axn/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",AXN Black
-http://185.98.209.11:81/axn_black/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",docubox
-http://185.98.209.11:81/docubox/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",filmbox HD
-http://185.98.209.11:81/filmbox/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",minimax
-http://185.98.209.11:81/minimax/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",cinemax
-http://185.98.211.8:81/cinemax/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",fightbox
-http://185.98.211.8:81/fightbox/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",hbo2 HD
-http://185.98.211.8:81/hbo2/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",hbo3 HD
-http://185.98.211.8:81/hbo3/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",history HD
-http://185.98.211.8:81/history/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",spektrum
-http://185.98.211.8:81/spektrum/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",sport2
-http://185.98.211.8:81/sport2/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",viasat_explore
-http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",viasat_history HD
-http://185.98.211.8:81/viasat_history/index.m3u8?token=test
 #EXTINF:-1 group-title="3 - České",AMC
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Animal Planet
 http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ARENASPORT 2
+http://185.98.209.11:81/arenasport2/index.m3u8?token=test
 #EXTINF:-1 group-title="3 - České",AXN
 http://88.212.15.19/live/test_axn/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",AXN Black
 http://88.212.15.19/live/test_black/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",AXN White
 http://88.212.15.19/live/test_white/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Barrandov Krimi
+https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Barrandov Krimi (Alt.)
+http://88.212.15.19/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Barrandov Kino
+http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Barrandov TV
+http://88.212.15.19/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Cinemax
 http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Cinemax 2
 http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",CNN Prima News
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Crime and Investigation
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",CS History
 http://88.212.15.19/live/test_cs_history_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",CS Mystery
 http://88.212.15.19/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT 1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT 2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT 24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT 24 (Alt.)
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT ART
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT Sport
+http://88.212.15.19/live/ct_sport_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",ČT Sport (Alt.)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Discovery
 http://88.212.15.19/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Disney Channel
 http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Duck tv
+#EXTINF:-1 group-title="3 - České",DocuBox
+http://185.98.209.11:81/docubox/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",Duck TV
+https://dash2.antik.sk/live/duck_tv/index.m3u8
+#EXTINF:-1 group-title="3 - České",Duck TV (Alt.)
 http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Duck TV plus
+https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",FightBox
+http://185.98.211.8:81/fightbox/index.m3u8?token=test
 #EXTINF:-1 group-title="3 - České",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Filmbox
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Filmbox Extra
+#EXTINF:-1 group-title="3 - České",Filmbox HD (Alt.)
+http://185.98.209.11:81/filmbox/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",FilmBox Arthouse
+https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",FilmBox Extra
 http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Filmbox Family
+#EXTINF:-1 group-title="3 - České",FilmBox Family
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Filmbox Premium
+#EXTINF:-1 group-title="3 - České",FilmBox Premium
 http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",FilmBox Stars
 http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
@@ -319,10 +252,16 @@ http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
 http://88.212.15.19/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",HBO 2
 http://88.212.15.19/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",HBO 2 HD (Alt.)
+http://185.98.211.8:81/hbo2/index.m3u8?token=test
 #EXTINF:-1 group-title="3 - České",HBO 3
 http://88.212.15.19/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",HBO 3 HD (Alt.)
+http://185.98.211.8:81/hbo3/index.m3u8?token=test
 #EXTINF:-1 group-title="3 - České",History
 http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",History HD (Alt.)
+http://185.98.211.8:81/history/index.m3u8?token=test
 #EXTINF:-1 group-title="3 - České",ID
 http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Jim Jam.cz
@@ -333,6 +272,10 @@ http://88.212.15.19/live/test_lala_25p/playlist.m3u8
 http://88.212.15.19/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Minimax
 http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Minimax (Alt.)
+http://185.98.209.11:81/minimax/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",Nat Geo Wild
+http://88.212.15.29/live/test_ngw/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",National Geographic
 http://88.212.15.19/live/test_ngc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Nick Jr.
@@ -341,9 +284,57 @@ http://88.212.15.19/live/test_nick_jr/playlist.m3u8
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Nicktoons
 http://88.212.15.19/live/test_nicktoons/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Action
+http://88.212.15.19/live/nova_action_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Cinema
+http://88.212.15.19/live/nova_cinema_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Fun
+http://88.212.15.19/live/nova_fun_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova HD
+http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Krimi
+http://88.212.15.19/live/nova_gold_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Lady
+http://88.212.15.19/live/test_nova_lady_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko
+http://88.212.15.19/live/test_ocko/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko Black (Alt.)
+http://88.212.15.19/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko Expres
+http://88.212.15.19/live/test_ocko_expres/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko Star
+http://88.212.15.19/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima COOL
+http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima COOL SK
+http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima KRIMI
+http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima LOVE SK
+http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima SHOW
+http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima STAR
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima ZOOM
+http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima ZOOM HD (Alt.)
+http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",REBEL
+https://dash2.antik.sk/live/test_rebel/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",RELAX
+https://dash2.antik.sk/live/test_relax/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Seznam.cz TV
+http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Spark
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Spektrum
+http://185.98.211.8:81/spektrum/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",Spektrum (Alt.)
 http://88.212.15.19/live/test_spektrum/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Spektrum Home
 http://88.212.15.19/live/test_home_hevc/playlist.m3u8
@@ -351,27 +342,23 @@ http://88.212.15.19/live/test_home_hevc/playlist.m3u8
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Sport 2 (Alt.)
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",Šlágr Premium
+http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Travel Channel
 http://88.212.15.19/live/test_travel_channel_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Nat Geo Wild
-http://88.212.15.29/live/test_ngw/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",360 TuneBox
-https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Duck tv
-https://dash2.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:-1 group-title="3 - České",Duck tv plus
-https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",FilmBox Arthouse
-https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",360 TuneBox
-https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Tom & Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Viasat Explore
+http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",Viasat History HD
+http://185.98.211.8:81/viasat_history/index.m3u8?token=test
+
 
 
 ### 4 - Kamery ###
+
 #EXTINF:-1 group-title="4 - Kamery",Bociany
 https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso - Námestie MS
@@ -392,6 +379,7 @@ http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Štrbské pleso námestie
 http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+
 
 
 ### Ruské kanály ###
@@ -448,6 +436,7 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 
+
 ### Bieloruské kanály ###
 
 #EXTINF:-1 group-title="Bieloruské",Беларусь 24
@@ -466,6 +455,7 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
 
+
 ### Maďarské kanály ###
 
 #EXTINF:-1 group-title="Maďarské",M2
@@ -477,17 +467,18 @@ http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="Maďarské",RTL
 http://46.149.191.217:9005/play/a018
 
-#EXTINF:-1 group-title="Maďarské",RTL Három
-http://46.149.191.217:9005/play/a01t
-
 #EXTINF:-1 group-title="Maďarské",RTL Kettő
 http://46.149.191.217:9005/play/a01r
+
+#EXTINF:-1 group-title="Maďarské",RTL Három
+http://46.149.191.217:9005/play/a01t
 
 #EXTINF:-1 group-title="Maďarské",TV2
 http://46.149.191.217:9005/play/a01q
 
 #EXTINF:-1 group-title="Maďarské",Sport 1
 http://46.149.191.217:9005/play/a017
+
 
 
 ### Španielske kanály ###
@@ -505,7 +496,7 @@ http://187.190.55.136:5501/udp/225.1.1.101:5101
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 group-title="Španielske",CGTN Spanish
-https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+https://dash2.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 
 ### Španielske latinskoamerické kanály ###
 
@@ -514,6 +505,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 group-title="Španielske latinskoamerické",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+
 
 ### Talianske kanály ###
 
@@ -545,6 +538,7 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 
 
+
 ### Kazachstan ###
 
 #EXTINF:-1 group-title="Kazachstan",Qazaqstan International
@@ -563,58 +557,53 @@ http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 
 
-### Rôzne ###
-
-#EXTINF:-1 group-title="Rôzne",Love Nature
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-
 
 ### Antik TV ###
 
 #EXTINF:-1 group-title="Antik TV",Kanal 1
-https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
+https://dash2.antik.sk/live/test_upnetwork/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",RiK TV
-https://dash3.antik.sk/live/rik_atk/index.m3u8
+https://dash2.antik.sk/live/rik_atk/index.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Turbo TV
-https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+https://dash2.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Tanečné súťaže
 https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Šláger Premium
-https://dash3.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Šláger Muzika
 https://dash2.antik.sk/live/test_slagr_2_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Skvelé TV
-https://dash3.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
+https://dash2.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Chilli TV
 https://dash2.antik.sk/live/chilli_tv/index.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV NRSR
-https://dash3.antik.sk/live/test_nrsr/playlist.m3u8
+https://dash2.antik.sk/live/test_nrsr/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",ČT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Barrandov Krimi
-https://dash3.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",A11
-https://dash3.antik.sk/live/test_regionalni_tv/playlist.m3u8
+https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV Piánko
 https://dash2.antik.sk/live/test_pianko/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",SuperYacht TV
-https://dash3.antik.sk/live/test_superyacht/playlist.m3u8
+https://dash2.antik.sk/live/test_superyacht/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Doktor TV
-https://dash3.antik.sk/live/tv_doktor/index.m3u8
+https://dash2.antik.sk/live/tv_doktor/index.m3u8
 
 #EXTINF:-1 group-title="Antik TV",PARK TV
 https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
@@ -632,7 +621,7 @@ https://dash2.antik.sk/live/lingotoons/index.m3u8
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Duck TV Plus
-https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Mestská TV Košice
 https://dash2.antik.sk/live/test_mtv_kosice/playlist.m3u8
@@ -641,13 +630,13 @@ https://dash2.antik.sk/live/test_mtv_kosice/playlist.m3u8
 https://dash2.antik.sk/live/test_roznava/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Mestská TV Vranov
-https://dash3.antik.sk/live/test_mtv_vranov/playlist.m3u8
+https://dash2.antik.sk/live/test_mtv_vranov/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Miestna TV Trebišov
-https://dash3.antik.sk/live/test_trebisov/playlist.m3u8
+https://dash2.antik.sk/live/test_trebisov/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",HNTV
-https://dash3.antik.sk/live/test_hntv/playlist.m3u8
+https://dash2.antik.sk/live/test_hntv/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",BTV
 https://dash2.antik.sk/live/test_btv/playlist.m3u8
@@ -656,7 +645,7 @@ https://dash2.antik.sk/live/test_btv/playlist.m3u8
 https://dash2.antik.sk/live/test_moldava/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV9
-https://dash3.antik.sk/live/test_tv9/playlist.m3u8
+https://dash2.antik.sk/live/test_tv9/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV7
 https://dash2.antik.sk/live/test_tv7/playlist.m3u8
@@ -665,7 +654,7 @@ https://dash2.antik.sk/live/test_tv7/playlist.m3u8
 https://dash2.antik.sk/live/test_csrtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV SEN
-https://dash3.antik.sk/live/test_tv_sen_atktv/playlist.m3u8
+https://dash2.antik.sk/live/test_tv_sen_atktv/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV Ružinov
 https://dash2.antik.sk/live/test_ruzinov/playlist.m3u8
@@ -674,7 +663,7 @@ https://dash2.antik.sk/live/test_ruzinov/playlist.m3u8
 https://dash2.antik.sk/live/test_severka/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV Romana
-https://dash3.antik.sk/live/test_romana/playlist.m3u8
+https://dash2.antik.sk/live/test_romana/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV Bratislava
 https://dash2.antik.sk/live/test_batv/playlist.m3u8
@@ -692,28 +681,28 @@ https://dash2.antik.sk/live/test_vega/playlist.m3u8
 https://dash2.antik.sk/live/test_panorama/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",ATV Žiar
-https://dash3.antik.sk/live/test_atv_ziar/playlist.m3u8
+https://dash2.antik.sk/live/test_atv_ziar/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV Zemplín
 https://dash2.antik.sk/live/test_zemplin/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV Poprad
-https://dash3.antik.sk/live/test_poprad/playlist.m3u8
+https://dash2.antik.sk/live/test_poprad/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV Reduta
-https://dash3.antik.sk/live/tv_reduta/playlist.m3u8
+https://dash2.antik.sk/live/tv_reduta/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Mestská TV Partizánske
 https://dash2.antik.sk/live/test_partizanske/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV Považie
-https://dash3.antik.sk/live/test_povazie/playlist.m3u8
+https://dash2.antik.sk/live/test_povazie/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Mestská TV Trnava
-https://dash3.antik.sk/live/test_trnava/playlist.m3u8
+https://dash2.antik.sk/live/test_trnava/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",CETV
-https://dash3.antik.sk/live/test_central/playlist.m3u8
+https://dash2.antik.sk/live/test_central/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV Mistral
 https://dash2.antik.sk/live/test_mistral_atktv/playlist.m3u8
@@ -734,19 +723,19 @@ https://dash2.antik.sk/live/test_vita/playlist.m3u8
 https://dash2.antik.sk/live/test_osem/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Regio TV
-https://dash3.antik.sk/live/test_regio_tv/playlist.m3u8
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TV LocAll
-https://dash3.antik.sk/live/test_locall/playlist.m3u8
+https://dash2.antik.sk/live/test_locall/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Polar TV
-https://dash3.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+https://dash2.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TVP World
-https://dash3.antik.sk/live/test_tvp_world/playlist.m3u8
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TVP Info
-https://dash3.antik.sk/live/test_tvp_info/playlist.m3u8
+https://dash2.antik.sk/live/test_tvp_info/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
@@ -755,7 +744,7 @@ https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Espreso TV
-https://dash3.antik.sk/live/test_espresso/playlist.m3u8
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Current Time
 https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
@@ -764,19 +753,19 @@ https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_armenia/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Euronews
-https://dash3.antik.sk/live/test_euronews/playlist.m3u8
+https://dash2.antik.sk/live/test_euronews/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",NHK World Japan
-https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+https://dash2.antik.sk/live/test_nhk/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Arirang TV
 https://dash2.antik.sk/live/test_arirang/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",TRT World
-https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Al Jazeera English
-https://dash3.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Al Jazeera
 https://dash2.antik.sk/live/test_aljazeera/playlist.m3u8
@@ -785,7 +774,7 @@ https://dash2.antik.sk/live/test_aljazeera/playlist.m3u8
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",France24 English
-https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+https://dash2.antik.sk/live/test_france24_eng/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",France24
 https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
@@ -794,16 +783,16 @@ https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Rai 3
-https://dash3.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",CGTN
-https://dash3.antik.sk/live/test_cgtn/playlist.m3u8
+https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",CGTN Documentary
 https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Rebel
-https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Relax
-https://dash3.antik.sk/live/test_relax/playlist.m3u8
+https://dash2.antik.sk/live/test_relax/playlist.m3u8
