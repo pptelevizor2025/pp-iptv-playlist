@@ -358,7 +358,11 @@ http://185.98.211.8:81/viasat_history/index.m3u8?token=test
 ### 4 - Kamery ###
 
 #EXTINF:-1 group-title="4 - Kamery",Bociany
-https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/chunklist.m3u8
+https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Kuvikov balkón
+https://kukaj.profi-net.sk/live/KUVIKCIFER2.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Kuvikova obývačka
+https://kukaj.profi-net.sk/live/KUVIKCIFER1.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso - Námestie MS
 https://stream.profi-net.sk/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Rajecké Teplice
