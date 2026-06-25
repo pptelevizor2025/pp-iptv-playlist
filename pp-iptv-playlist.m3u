@@ -272,7 +272,7 @@ http://88.212.15.19/live/test_lovenature/playlist.m3u8
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Minimax (Alt.)
 http://185.98.209.11:81/minimax/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",Nat Geo Wild
+#EXTINF:-1 group-title="3 - České",National Geographic Wild
 http://88.212.15.29/live/test_ngw/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",National Geographic
 http://88.212.15.19/live/test_ngc/playlist.m3u8
