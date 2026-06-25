@@ -132,7 +132,7 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 group-title="2 - Slovenské",Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
-#EXTINF:-1 group-title="2 - Slovenské",TV Paprika
+#EXTINF:-1 group-title="2 - Slovenské",TV Paprika (SK/CZ)
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",TV Doktor
