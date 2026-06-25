@@ -117,6 +117,9 @@ http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
 #EXTINF:-1 group-title="2 - Slovenské",Kanal 1
 https://dash2.antik.sk/live/test_upnetwork/playlist.m3u8
 
+#EXTINF:-1 group-title="2 - Slovenské",Kanal 1 (Alt.)
+http://88.212.15.19/live/test_upnetwork/playlist.m3u8
+
 #EXTINF:-1 group-title="2 - Slovenské",PARK TV
 https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
 
@@ -128,9 +131,6 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Sporty TV
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
@@ -330,8 +330,6 @@ https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Seznam.cz TV
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Spark
-http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Spektrum
 http://185.98.211.8:81/spektrum/index.m3u8?token=test
 #EXTINF:-1 group-title="3 - České",Spektrum (Alt.)
@@ -344,6 +342,8 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Sport 2 (Alt.)
 http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:-1 group-title="3 - České",Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1 group-title="3 - České",Šlágr Premium
 http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",TLC
