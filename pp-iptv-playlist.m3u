@@ -329,9 +329,9 @@ https://dash2.antik.sk/live/test_relax/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Seznam.cz TV
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Spektrum
-http://185.98.211.8:81/spektrum/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",Spektrum (Alt.)
 http://88.212.15.19/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Spektrum (Alt.)
+http://185.98.211.8:81/spektrum/index.m3u8?token=test
 #EXTINF:-1 group-title="3 - České",Spektrum Home
 http://88.212.15.19/live/test_home_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Sport 1
