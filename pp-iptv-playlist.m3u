@@ -186,6 +186,10 @@ http://88.212.15.19/live/test_barrandov_plus_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Barrandov TV
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Cartoon Network
+https://dash4.antik.sk/live/test_cartoon_network_tizen/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Cartoonito
+https://dash4.antik.sk/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Cinemax
 http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Cinemax 2
@@ -272,10 +276,10 @@ http://88.212.15.19/live/test_lovenature/playlist.m3u8
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Minimax (Alt.)
 http://185.98.209.11:81/minimax/index.m3u8?token=test
-#EXTINF:-1 group-title="3 - České",National Geographic Wild
-http://88.212.15.29/live/test_ngw/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",National Geographic
 http://88.212.15.19/live/test_ngc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",National Geographic Wild
+http://88.212.15.29/live/test_ngw/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Nick Jr.
 http://88.212.15.19/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Nickelodeon
@@ -357,49 +361,80 @@ http://185.98.211.8:81/viasat_history/index.m3u8?token=test
 
 ### 4 - Kamery ###
 
-#EXTINF:-1 group-title="4 - Kamery",Bociany
-https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Kuvikov balkón
 https://kukaj.profi-net.sk/live/KUVIKCIFER2.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Kuvikova obývačka
 https://kukaj.profi-net.sk/live/KUVIKCIFER1.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso - Námestie MS
+
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Bešeňová
+https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Vavrišovo
+https://kukaj.profi-net.sk/live/BOCIANY_VAVRISOVO.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Kluknava
+https://kukaj.profi-net.sk/live/BOCIANY_KLUKNAVA.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Brzotín
+https://kukaj.profi-net.sk/live/BOCIANY_BRZOTIN.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Mníchova Lehota
+https://kukaj.profi-net.sk/live/BOCIANY_MNICHOVALEHOTA.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Vikartovce
+https://kukaj.profi-net.sk/live/BOCIANY_VIKARTOVCE.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Smrečany
+https://kukaj.profi-net.sk/live/BOCIANY_SMRECANY.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Dolný Štál
+https://kukaj.profi-net.sk/live/BOCIANY_DOLNYSTAL.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Partizánska Ľupča
+https://kukaj.profi-net.sk/live/BOCIANY_LUPCA.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Bociany - Spišské Bystré
+https://kukaj.profi-net.sk/live/BOCIANY_SPISSKEBYSTRE.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="4 - Kamery",Kŕmidlo Likavka
+https://kukaj.profi-net.sk/live/BUDKALIKAVKA.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Drozd Maty
+https://kukaj.profi-net.sk/live/DROZD.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Piťkov apartmán
+https://kukaj.profi-net.sk/live/BUDKALS.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Apartmán SSD 2
+https://kukaj.profi-net.sk/live/SOKOLSSD2.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Apartmán 1 Modrá
+https://kukaj.profi-net.sk/live/DRAVCE_MODRA1.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Apartmán 5 Modrá
+https://kukaj.profi-net.sk/live/DRAVCE_MODRA5.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso Námestie MS
 https://stream.profi-net.sk/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Rajecké Teplice
-https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso (pohľad na Móryho vyhliadku)
+http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Skalnaté pleso Tatry
 http://stream.profi-net.sk:1935/tmr//STREAM29.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Tatranská Lomnica štart
 http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Zjazdovka Tatry
+#EXTINF:-1 group-title="4 - Kamery",Zjazdovka Tatry 1
 http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Zjazdovka Tatry
+#EXTINF:-1 group-title="4 - Kamery",Zjazdovka Tatry 2
 http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso (pohľad na Móryho vyhliadku)
-http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Štrbské pleso nové jazero
-http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Štrbské pleso námestie
-http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Rajecké Teplice
+https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 
 
 
 ### Ruské kanály ###
+
+#EXTINF:-1 group-title="Ruské",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Россия Культура
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Первый канал
 http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Пятый канал International
 http://178.134.1.158:8081/5channel/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",Россия 24 International
-https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
-
-#EXTINF:-1 group-title="Ruské",Россия Культура
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
@@ -409,6 +444,18 @@ https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим Тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",Санкт-Петербург
 http://31.148.48.15:80/Sankt_Peterburg/index.m3u8
@@ -421,6 +468,15 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",ТНТ
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
@@ -625,6 +681,12 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 group-title="Antik TV",Duck TV Plus
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 
+#EXTINF:-1 group-title="Antik TV",Cartoon Network
+https://dash4.antik.sk/live/test_cartoon_network_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Antik TV",Cartoonito
+https://dash4.antik.sk/live/test_boomerang_tizen/playlist.m3u8
+
 #EXTINF:-1 group-title="Antik TV",Mestská TV Košice
 https://dash2.antik.sk/live/test_mtv_kosice/playlist.m3u8
 
@@ -754,6 +816,9 @@ https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Antik TV",Armenia 1 TV
 https://dash2.antik.sk/live/test_armenia/playlist.m3u8
 
+#EXTINF:-1 group-title="Antik TV",BBC News
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+
 #EXTINF:-1 group-title="Antik TV",Euronews
 https://dash2.antik.sk/live/test_euronews/playlist.m3u8
 
@@ -798,3 +863,49 @@ https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Relax
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
+
+
+
+### RÔZNE ###
+
+#EXTINF:-1 group-title="RÔZNE",Bosna - Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+
+#EXTINF:-1 group-title="RÔZNE",Bosna - Televizija M
+https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 group-title="RÔZNE",Irán - Press TV English
+https://live.presstv.ir/hls/presstv.m3u8
+
+
+
+### NEMECKÉ ###
+
+#EXTINF:-1 group-title="Nemecké",3sat
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",Arte
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",Das Erste (ARD)
+https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",KiKA
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",MDR Fernsehen
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",NDR Fernsehen
+https://dash4.antik.sk/live/test_ndr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",ProSieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",rbb Fernsehen
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",SAT.1 Gold
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",WDR
+https://dash4.antik.sk/live/test_wdr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",Welt
+https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",ZDF
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
