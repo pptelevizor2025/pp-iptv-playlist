@@ -71,13 +71,13 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="1 - Čínske",CCTV-14 (Kids)
 http://74.91.26.218:82/live/cctv14hd.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-17 (Education, Outdoor)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-17 (Education-Outdoor)
 http://74.91.26.218:82/live/cctv17hd.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-Billiards (Sports)
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Culture of Quality (Culture, Documentary)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-Culture of Quality (Culture-Documentary)
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-Golf & Tennis (Sports)
