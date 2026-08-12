@@ -388,6 +388,8 @@ http://88.212.15.19/live/test_barrandov_plus_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Barrandov TV
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",BBC Earth Czechia
+http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Cartoon Network
 https://dash4.antik.sk/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Cartoonito
@@ -464,6 +466,8 @@ http://88.212.15.19/live/test_lala_25p/playlist.m3u8
 http://88.212.15.19/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Minimax
 http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Mňau TV
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",National Geographic
 http://88.212.15.19/live/test_ngc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",National Geographic Wild
@@ -536,6 +540,16 @@ http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Travel Channel
 http://88.212.15.19/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",TV Noe
+https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",TV Noe+
+https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Viasat Explore
+http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Viasat History
+http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Viasat Nature
+http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
 
 
 
@@ -604,20 +618,38 @@ https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Ruské",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
+#EXTINF:-1 group-title="Ruské",Россия 1 (Alt.)
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+
 #EXTINF:-1 group-title="Ruské",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Россия 24 (Alt.)
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Первый канал
-http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+#EXTINF:-1 group-title="Ruské",Россия Культура (Alt.)
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+
+#EXTINF:-1 group-title="Ruské",Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
 
 #EXTINF:-1 group-title="Ruské",Пятый канал International
 http://178.134.1.158:8081/5channel/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Москва 24
-https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+
+#EXTINF:-1 group-title="Ruské",Санкт-Петербург
+https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
+
+#EXTINF:-1 group-title="Ruské",Крым 24
+http://iptv.crimea.net:8787
+
+#EXTINF:-1 group-title="Ruské",Первый Крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 #EXTINF:-1 group-title="Ruské",FON Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
@@ -637,8 +669,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTINF:-1 group-title="Ruské",Смотрим Тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",Санкт-Петербург
-http://31.148.48.15:80/Sankt_Peterburg/index.m3u8
+#EXTINF:-1 group-title="Ruské",Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Ruské",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
@@ -664,9 +696,6 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9
 #EXTINF:-1 group-title="Ruské",СТС International
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
 
-#EXTINF:-1 group-title="Ruské",Крым 24
-http://iptv.crimea.net:8787
-
 #EXTINF:-1 group-title="Ruské",TV BRICS Russian
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
@@ -686,21 +715,129 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bieloruské",Беларусь 3
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 
-#EXTINF:-1 group-title="Bieloruské",СТВ Беларусь
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bieloruské",Беларусь 5 (Sport)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Bieloruské",СТВ Беларусь
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 
 
 ### Maďarské kanály ###
+
+#EXTINF:-1 group-title="Maďarské",AXN
+http://88.212.15.19/live/axn_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Duna
+http://88.212.15.19/live/duna_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Duna World
+http://88.212.15.19/live/duna_world_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Film+
+http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Film4
+http://88.212.15.19/live/film4_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",History
+http://88.212.15.19/live/history_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",M1
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Maďarské",M2
 http://88.212.15.19/live/m2_hun/index.m3u8
 
 #EXTINF:-1 group-title="Maďarské",M5
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Magyar Mozi TV
+http://88.212.15.19/live/mozi/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Minimax
+http://88.212.15.19/live/minimax_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Mozi+
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Moziklub
+http://88.212.15.19/live/moziklub_atk/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Moziverzum
+http://88.212.15.19/live/moziverzum/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Muzsika TV
+http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",National Geographic
+http://88.212.15.19/live/ngc_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",National Geographic Wild
+http://88.212.15.19/live/ngw_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",RTL
+http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",RTL Gold
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",RTL Három
+http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",RTL Kettő
+http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",RTL Otthon
+http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Sláger TV
+http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Spektrum
+http://88.212.15.19/live/spektrum_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Spektrum Home
+http://88.212.15.19/live/spektrum_home_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Sport 1
+http://88.212.15.19/live/sport1_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Sport 2
+http://88.212.15.19/live/sport2_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Story4
+http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Super TV2
+http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",TV2
+http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",TV2 Comedy
+http://88.212.15.19/live/tv2_comedy/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",TV2 Kids
+http://88.212.15.19/live/tv2_kids/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",TV2 Sef
+http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",TV4
+http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Viasat 2
+http://88.212.15.19/live/viasat2/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Viasat 3
+http://88.212.15.19/live/viasat3/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Viasat 6
+http://88.212.15.19/live/viasat6/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Viasat Film
+http://88.212.15.19/live/viasat_film/index.m3u8
 
 
 
@@ -1044,6 +1181,9 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 
 #EXTINF:-1 group-title="RÔZNE",Bosna - Televizija M
 https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 group-title="RÔZNE",Singapur - Channel 8 (Čínsky)
+https://cdn.qd.je/163189/ch8
 
 
 
