@@ -613,30 +613,61 @@ https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 
 
 
+### 5 - Kamery:  ZOO San Diego ###
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Pandy
+https://zssd-panda2024.hls.camzonecdn.com/CamzoneStreams/zssd-panda2024/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Koaly
+https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Orangutany
+https://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Paviány
+https://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Hrochy
+https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Slony
+https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Ľadové medvede
+https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Tigre
+https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Tučniaky
+https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Sovy
+https://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/Playlist.m3u8
+
+
+
 ### Ruské kanály ###
 
 #EXTINF:-1 group-title="Ruské",Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия 1 (Alt.)
-https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия 24 (Alt.)
-https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+http://77.232.131.211/Rossiya24/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия Культура (Alt.)
-https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
-
 #EXTINF:-1 group-title="Ruské",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
 
-#EXTINF:-1 group-title="Ruské",Пятый канал International
+#EXTINF:-1 group-title="Ruské",Пятый канал
 http://178.134.1.158:8081/5channel/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Москва 24
@@ -644,6 +675,15 @@ https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=378
 
 #EXTINF:-1 group-title="Ruské",Санкт-Петербург
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
+
+#EXTINF:-1 group-title="Ruské",Самара 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Сибирь 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Сибирь 24 (Красноярск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Крым 24
 http://iptv.crimea.net:8787
@@ -701,6 +741,9 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",CGTN Russian
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Доктор
+http://178.134.1.158:8081/doktor/index.m3u8
 
 
 
