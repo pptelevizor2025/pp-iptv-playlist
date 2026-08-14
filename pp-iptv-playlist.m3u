@@ -613,37 +613,70 @@ https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 
 
 
-### 5 - Kamery:  ZOO San Diego ###
+### 5 - Kamery:  ZOO ###
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Pandy
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Pandy
 https://zssd-panda2024.hls.camzonecdn.com/CamzoneStreams/zssd-panda2024/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Koaly
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Koaly
 https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Orangutany
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Orangutany
 https://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Paviány
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Paviány
 https://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Hrochy
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Hrochy
 https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Slony
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Slony
 https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Ľadové medvede
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Ľadové medvede
 https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Tigre
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Tigre
 https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Tučniaky
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Tučniaky
 https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO San Diego",ZOO San Diego: Sovy
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Safari
+https://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Panda červená
+https://zssd-rpanda.hls.camzonecdn.com/CamzoneStreams/zssd-rpanda/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Vtákopysk
+https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Vtákopysk 2
+https://zssd-platypus2.hls.camzonecdn.com/CamzoneStreams/zssd-platypus2/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Kondor
+https://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Sovy
 https://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/Playlist.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO Houston: Slony
+https://ams-28635.antmedia.cloud:5443/live/streams/elephant-yard-cam.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO Houston: Žirafy
+https://ams-28635.antmedia.cloud:5443/live/streams/giraffe-platform-cam.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO Houston: Šimpanzy
+https://ams-28635.antmedia.cloud:5443/live/streams/chimp-window-camp.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO Houston: Gorily
+https://ams-28635.antmedia.cloud:5443/live/streams/gorilla-cam.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO Houston: Vydry
+https://ams-28635.antmedia.cloud:5443/live/streams/pantanal-otter-cam.m3u8
+
+#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO Houston: Plameniaky
+https://ams-28635.antmedia.cloud:5443/live/streams/flamingo-camera.m3u8
 
 
 
@@ -652,16 +685,22 @@ https://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/Playlist
 #EXTINF:-1 group-title="Ruské",Россия 1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 1 (Alt.)
+#EXTINF:-1 group-title="Ruské",Россия 1 (Alt. 2)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия 24
+https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
+
+#EXTINF:-1 group-title="Ruské",Россия 24 (Alt. 2)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 24 (Alt.)
+#EXTINF:-1 group-title="Ruské",Россия 24 (Alt. 3)
 http://77.232.131.211/Rossiya24/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия Культура
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Россия Культура (Alt. 2)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Первый канал Европа
@@ -673,17 +712,17 @@ http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 group-title="Ruské",Москва 24
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 
+#EXTINF:-1 group-title="Ruské",Москва 24 (Alt. 2)
+https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
+
 #EXTINF:-1 group-title="Ruské",Санкт-Петербург
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 
 #EXTINF:-1 group-title="Ruské",Самара 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Сибирь 24 (Новосибирск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",Сибирь 24 (Красноярск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Крым 24
 http://iptv.crimea.net:8787
