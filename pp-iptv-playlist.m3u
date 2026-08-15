@@ -685,23 +685,23 @@ https://ams-28635.antmedia.cloud:5443/live/streams/flamingo-camera.m3u8
 #EXTINF:-1 group-title="Ruské",Россия 1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 1 (Alt. 2)
+#EXTINF:-1 group-title="Ruské",Россия 1 (Alt.)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия 24
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 24 (Alt. 2)
+#EXTINF:-1 group-title="Ruské",Россия 24 (Alt.)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 24 (Alt. 3)
+#EXTINF:-1 group-title="Ruské",Россия 24 (Alt. 2)
 http://77.232.131.211/Rossiya24/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия К
 http://stream.mcquack.net/229/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия К +2 (Alt. 2)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Ruské",Россия К (Alt. PP)
+https://raw.githubusercontent.com/pptelevizor2025/Rossiya-K/main/Rossiya-K.m3u8
 
 #EXTINF:-1 group-title="Ruské",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
@@ -712,7 +712,7 @@ http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 group-title="Ruské",Москва 24
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 
-#EXTINF:-1 group-title="Ruské",Москва 24 (Alt. 2)
+#EXTINF:-1 group-title="Ruské",Москва 24 (Alt.)
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Ruské",Санкт-Петербург
