@@ -2,8 +2,8 @@
 
 ### 1 - Čínske kanály ###
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 (Všeobecný)
-http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+### >>>>>>> #EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 (Všeobecný)
+### >>>>>>> http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 (Alt.) (Všeobecný)
 http://74.91.26.218:82/live/cctv1hd.m3u8
 
@@ -30,8 +30,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-5 体育 (Alt.) (Šport)
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-6 电影 (Filmy)
-http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+### >>>>>>> #EXTINF:-1 group-title="1 - Čínske",CCTV-6 电影 (Filmy)
+### >>>>>>> http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-6 电影 (Alt.) (Filmy)
 http://69.30.245.50/live/cctv6.m3u8
 
@@ -40,8 +40,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-7 国防军事 (Alt.) (Obrana a armáda)
 http://74.91.26.218:82/live/cctv7hd.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-8 电视剧 (Seriály)
-http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+### >>>>>>> #EXTINF:-1 group-title="1 - Čínske",CCTV-8 电视剧 (Seriály)
+### >>>>>>> http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-8 电视剧 (Alt.) (Seriály)
 http://74.91.26.218:82/live/cctv8hd.m3u8
 
@@ -77,8 +77,8 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-14 少儿 (Alt.) (Detský)
 http://74.91.26.218:82/live/cctv14hd.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-15 音乐 (Hudba)
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+### >>>>>>> #EXTINF:-1 group-title="1 - Čínske",CCTV-15 音乐 (Hudba)
+### >>>>>>> http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-15 音乐 (Alt.) (Hudba)
 http://74.91.26.218:82/live/cctv15hd.m3u8
 
@@ -697,11 +697,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Ruské",Россия 24 (Alt. 3)
 http://77.232.131.211/Rossiya24/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия Культура
-https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Ruské",Россия К
+http://stream.mcquack.net/229/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия Культура (Alt. 2)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Ruské",Россия К +2 (Alt. 2)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
@@ -718,12 +718,6 @@ https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Ruské",Санкт-Петербург
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 
-#EXTINF:-1 group-title="Ruské",Самара 24
-https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",Сибирь 24 (Новосибирск)
-https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-
 #EXTINF:-1 group-title="Ruské",Крым 24
 http://iptv.crimea.net:8787
 
@@ -736,17 +730,11 @@ https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1 group-title="Ruské",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим Мелодрамы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Ruské",Смотрим 360 Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",Смотрим 360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим Тайны
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ruské",Смотрим 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",Смотрим 100% Детское
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
@@ -788,17 +776,23 @@ http://178.134.1.158:8081/doktor/index.m3u8
 
 ### Bieloruské kanály ###
 
-#EXTINF:-1 group-title="Bieloruské",Беларусь 24
-https://edge53.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Bieloruské",Первый информационный
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+
+#EXTINF:-1 group-title="Bieloruské",Беларусь 1
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+
+#EXTINF:-1 group-title="Bieloruské",Беларусь 2
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 
 #EXTINF:-1 group-title="Bieloruské",Беларусь 3
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 
 #EXTINF:-1 group-title="Bieloruské",Беларусь 5 (Sport)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1 group-title="Bieloruské",Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 
 #EXTINF:-1 group-title="Bieloruské",СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
@@ -1266,6 +1260,18 @@ https://live.tv-m.net/hls/stream.m3u8
 
 #EXTINF:-1 group-title="RÔZNE",Singapur - Channel 8 (Čínsky)
 https://cdn.qd.je/163189/ch8
+
+#EXTINF:-1 group-title="RÔZNE",Indonézia - TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="RÔZNE",Indonézia - Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
+#EXTINF:-1 group-title="RÔZNE",Francúzsko - France 3 Lorraine
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+
+#EXTINF:-1 group-title="RÔZNE",Francúzsko - M6
+http://145.239.5.177/320/index.m3u8
 
 
 
