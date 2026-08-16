@@ -694,14 +694,14 @@ https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
 #EXTINF:-1 group-title="Ruské",Россия 24 (Alt.)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 24 (Alt. 2)
+#EXTINF:-1 group-title="Ruské",Россия 24 (Alt.2)
 http://77.232.131.211/Rossiya24/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия К
-http://stream.mcquack.net/229/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",Россия К (Alt. PP)
+#EXTINF:-1 group-title="Ruské",Россия К (PP)
 https://raw.githubusercontent.com/pptelevizor2025/Rossiya-K/main/Rossiya-K.m3u8
+
+#EXTINF:-1 group-title="Ruské",Россия К (Alt.)
+http://stream.mcquack.net/229/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
