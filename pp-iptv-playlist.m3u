@@ -703,11 +703,50 @@ https://raw.githubusercontent.com/pptelevizor2025/Rossiya-K/main/Rossiya-K.m3u8
 #EXTINF:-1 group-title="Ruské",Россия К (Alt.)
 http://stream.mcquack.net/229/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Первый канал Европа
+#EXTINF:-1 group-title="Ruské",Первый канал
 https://streaming.thestream.cyou/live/210.m3u8
 
 #EXTINF:-1 group-title="Ruské",Пятый канал
 http://178.134.1.158:8081/5channel/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",НТВ
+https://cdn.ntv.ru/ntv0_hd/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",НТВ Хит
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",ТНТ
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
+
+#EXTINF:-1 group-title="Ruské",СТС
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим Честный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 100% Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 100% Любовь
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Ruské",Москва 24
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
@@ -724,53 +763,26 @@ http://iptv.crimea.net:8787
 #EXTINF:-1 group-title="Ruské",Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
-#EXTINF:-1 group-title="Ruské",FON Music
-https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",Смотрим Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",Смотрим 360 Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",Смотрим 360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",Смотрим 100% Детское
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-
-#EXTINF:-1 group-title="Ruské",Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",НТВ
-https://cdn.ntv.ru/ntv0/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",НТВ Хит
-https://cdn.ntv.ru/th_hit/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",НТВ Сериал
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",НТВ Право
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",ТНТ
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
-
-#EXTINF:-1 group-title="Ruské",СТС International
-https://streaming.televizor-24-tochka.ru/live/296.m3u8
-
 #EXTINF:-1 group-title="Ruské",TV BRICS Russian
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",CGTN Russian
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
+#EXTINF:-1 group-title="Ruské",Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Travel+Adventure
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+
 #EXTINF:-1 group-title="Ruské",Доктор
 http://178.134.1.158:8081/doktor/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Карусель
+https://streaming102.interskytech.com/live/232.m3u8
 
 
 
