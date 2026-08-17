@@ -710,7 +710,7 @@ https://streaming.thestream.cyou/live/210.m3u8
 http://178.134.1.158:8081/5channel/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",НТВ
-https://cdn.ntv.ru/ntv0_hd/index.m3u8
+https://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Ruské",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
@@ -741,6 +741,12 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Ruské",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 100% Мужское
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 100% Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Ruské",Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
@@ -1291,8 +1297,14 @@ http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 group-title="RÔZNE",Francúzsko - M6
 http://145.239.5.177/320/index.m3u8
 
+#EXTINF:-1 group-title="RÔZNE",Francúzsko - TV5 Monde
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+
 #EXTINF:-1 group-title="RÔZNE",Francúzsko - France24
 https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:-1 group-title="RÔZNE",USA - CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
 
@@ -1304,14 +1316,23 @@ https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="Nemecké",Das Erste (ARD)
 https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 
-#EXTINF:-1 group-title="Nemecké",VOX
-https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",RTL
+http://5.180.164.197:8080/RTL/index.m3u8
 
 #EXTINF:-1 group-title="Nemecké",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 
+#EXTINF:-1 group-title="Nemecké",VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+
 #EXTINF:-1 group-title="Nemecké",Kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Nemecké",Arte
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Nemecké",3sat
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",WDR
 https://dash4.antik.sk/live/test_wdr_tizen/playlist.m3u8
@@ -1325,23 +1346,17 @@ https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Nemecké",rbb Fernsehen
 https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="Nemecké",3sat
-https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
-
-#EXTINF:-1 group-title="Nemecké",Arte
-https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-
 #EXTINF:-1 group-title="Nemecké",KiKA
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",Welt
 https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="Nemecké",SAT.1 Gold
-https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-
 #EXTINF:-1 group-title="Nemecké",Sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="Rakúske",ORF 2 (Rakúske)
+#EXTINF:-1 group-title="Nemecké",SAT.1 Gold
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Nemecké",ORF 2 (Rakúske)
 http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8
