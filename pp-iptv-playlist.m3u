@@ -314,7 +314,7 @@ http://88.212.15.19/live/test_joj_svet/playlist.m3u8
 http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",TV Lux
-http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+https://stream.tvlux.sk/luxtv/luxtv-livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Kanal 1
 https://dash2.antik.sk/live/test_upnetwork/playlist.m3u8
@@ -502,6 +502,8 @@ http://88.212.15.19/live/test_ocko_expres/playlist.m3u8
 http://88.212.15.19/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima SK
+http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima COOL
 http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima COOL SK
@@ -704,13 +706,16 @@ https://raw.githubusercontent.com/pptelevizor2025/Rossiya-K/main/Rossiya-K.m3u8
 http://stream.mcquack.net/229/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Первый канал
-https://streaming.thestream.cyou/live/210.m3u8
+http://178.217.49.7/1/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Пятый канал
 http://178.134.1.158:8081/5channel/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",НТВ
 https://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ruské",НТВ (Alt.)
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 
 #EXTINF:-1 group-title="Ruské",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
@@ -724,8 +729,20 @@ https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 group-title="Ruské",ТНТ
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 
+#EXTINF:-1 group-title="Ruské",ТНТ (Alt.)
+http://45.153.24.78/TNT/index.m3u8
+
 #EXTINF:-1 group-title="Ruské",СТС
-https://streaming.televizor-24-tochka.ru/live/296.m3u8
+http://stream.mcquack.net/138/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Дом Кино Премиум
+http://stream.mcquack.net/108/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Душевное
+http://stream.mcquack.net/213/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Шокирующее HD
+http://stream.mcquack.net/75/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
@@ -755,7 +772,7 @@ https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Ruské",Москва 24
-https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Ruské",Москва 24 (Alt.)
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
@@ -764,7 +781,7 @@ https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 
 #EXTINF:-1 group-title="Ruské",Крым 24
-http://iptv.crimea.net:8787
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 group-title="Ruské",Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
@@ -788,7 +805,7 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 http://178.134.1.158:8081/doktor/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Карусель
-https://streaming102.interskytech.com/live/232.m3u8
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 
 
 
@@ -819,8 +836,20 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 ### Maďarské kanály ###
 
+#EXTINF:-1 group-title="Maďarské",ATV
+http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",ATV Spirit
+http://88.212.15.19/live/test_atv_spirit/playlist.m3u8
+
 #EXTINF:-1 group-title="Maďarské",AXN
 http://88.212.15.19/live/axn_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Dikh TV
+http://88.212.15.19/live/dikh/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Disney Channel
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
 
 #EXTINF:-1 group-title="Maďarské",Duna
 http://88.212.15.19/live/duna_hun/index.m3u8
@@ -834,14 +863,38 @@ http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
 #EXTINF:-1 group-title="Maďarské",Film4
 http://88.212.15.19/live/film4_hun/index.m3u8
 
+#EXTINF:-1 group-title="Maďarské",Film Café
+http://88.212.15.19/live/film_cafe/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Galaxy4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+
 #EXTINF:-1 group-title="Maďarské",History
 http://88.212.15.19/live/history_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Izaura TV
+http://88.212.15.19/live/izaura/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",JimJam
+http://88.212.15.19/live/jim_jam_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Jocky TV
+http://88.212.15.19/live/jocky/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Kölyökklub
+http://88.212.15.19/live/kolyokklub_atk/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Life TV
+http://88.212.15.19/live/lifetv/index.m3u8
 
 #EXTINF:-1 group-title="Maďarské",M1
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Maďarské",M2
 http://88.212.15.19/live/m2_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",M4 Sport
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
 
 #EXTINF:-1 group-title="Maďarské",M5
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
@@ -870,6 +923,18 @@ http://88.212.15.19/live/ngc_hun/index.m3u8
 #EXTINF:-1 group-title="Maďarské",National Geographic Wild
 http://88.212.15.19/live/ngw_hun/index.m3u8
 
+#EXTINF:-1 group-title="Maďarské",Nick Jr.
+http://88.212.15.19/live/nick_junior_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Nicktoons
+http://88.212.15.19/live/nicktoons_hungary/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Ozone TV
+http://88.212.15.19/live/ozone/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Prime
+http://88.212.15.19/live/prime/index.m3u8
+
 #EXTINF:-1 group-title="Maďarské",RTL
 http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
 
@@ -888,11 +953,23 @@ http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
 #EXTINF:-1 group-title="Maďarské",Sláger TV
 http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
 
+#EXTINF:-1 group-title="Maďarské",Sorozat+
+http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Sorozatklub
+http://88.212.15.19/live/sorozatklub_atk/index.m3u8
+
 #EXTINF:-1 group-title="Maďarské",Spektrum
 http://88.212.15.19/live/spektrum_hun/index.m3u8
 
 #EXTINF:-1 group-title="Maďarské",Spektrum Home
 http://88.212.15.19/live/spektrum_home_hun/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Spiler 1
+http://88.212.15.19/live/spiler1/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Spiler 2
+http://88.212.15.19/live/spiler2/index.m3u8
 
 #EXTINF:-1 group-title="Maďarské",Sport 1
 http://88.212.15.19/live/sport1_hun/index.m3u8
@@ -905,6 +982,9 @@ http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
 
 #EXTINF:-1 group-title="Maďarské",Super TV2
 http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Maďarské",The Fishing & Hunting Channel
+http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
 
 #EXTINF:-1 group-title="Maďarské",TV2
 http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
@@ -921,6 +1001,9 @@ http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
 #EXTINF:-1 group-title="Maďarské",TV4
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
 
+#EXTINF:-1 group-title="Maďarské",TV Paprika
+http://88.212.15.19/live/parpika_hun/index.m3u8
+
 #EXTINF:-1 group-title="Maďarské",Viasat 2
 http://88.212.15.19/live/viasat2/index.m3u8
 
@@ -932,6 +1015,9 @@ http://88.212.15.19/live/viasat6/index.m3u8
 
 #EXTINF:-1 group-title="Maďarské",Viasat Film
 http://88.212.15.19/live/viasat_film/index.m3u8
+
+#EXTINF:-1 group-title="Maďarské",Zenebutik
+http://88.212.15.19/live/zenebutik/index.m3u8
 
 
 
@@ -994,6 +1080,9 @@ https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 
 
 ### Kazachstan ###
+
+#EXTINF:-1 group-title="Kazachstan",Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Kazachstan",Qazaqstan International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
@@ -1285,23 +1374,36 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 group-title="RÔZNE",Indonézia - Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE",Francúzsko - TF1
+#EXTINF:-1 group-title="RÔZNE",Slovinsko - TV SLO 1
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="RÔZNE",Slovinsko - TV SLO 2
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+
+
+
+### FRANCÚZSKE ###
+
+#EXTINF:-1 group-title="Francúzske",TF1
 http://5.180.164.197:8080/TF1/index.m3u8
 
-#EXTINF:-1 group-title="RÔZNE",Francúzsko - France 2
+#EXTINF:-1 group-title="Francúzske",France 2
 http://5.180.164.197:8080/FRANCE2/index.m3u8
 
-#EXTINF:-1 group-title="RÔZNE",Francúzsko - France 3 Lorraine
+#EXTINF:-1 group-title="Francúzske",France 3 Lorraine
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 
-#EXTINF:-1 group-title="RÔZNE",Francúzsko - M6
+#EXTINF:-1 group-title="Francúzske",M6
 http://145.239.5.177/320/index.m3u8
 
-#EXTINF:-1 group-title="RÔZNE",Francúzsko - TV5 Monde
+#EXTINF:-1 group-title="Francúzske",TV5 Monde
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 
-#EXTINF:-1 group-title="RÔZNE",Francúzsko - France24
+#EXTINF:-1 group-title="Francúzske",France24
 https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:-1 group-title="Francúzske",CGTN French
+https://dash2.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 
 
 
