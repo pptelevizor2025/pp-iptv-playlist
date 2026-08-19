@@ -735,13 +735,43 @@ http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1 group-title="Ruské",СТС
 http://stream.mcquack.net/138/index.m3u8
 
+#EXTINF:-1 group-title="Ruské",Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+
 #EXTINF:-1 group-title="Ruské",Дом Кино Премиум
 http://stream.mcquack.net/108/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",viju+ Мегахит
+http://stream.mcquack.net/200/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Блокбастер
+http://stream.mcquack.net/364/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Хит
+http://stream.mcquack.net/363/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Премиальное
+http://stream.mcquack.net/421/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Еврокино
+http://stream.mcquack.net/385/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Приключения
+http://stream.mcquack.net/198/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Душевное
 http://stream.mcquack.net/213/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Шокирующее HD
+#EXTINF:-1 group-title="Ruské",Наше Мужское
+http://stream.mcquack.net/362/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Дорама
+http://stream.mcquack.net/412/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Охотник и рыболов
+http://stream.mcquack.net/194/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Шокирующее
 http://stream.mcquack.net/75/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Смотрим Честный Детектив
@@ -1127,20 +1157,26 @@ https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 #EXTINF:-1 group-title="Antik TV",Šláger Muzika
 https://dash2.antik.sk/live/test_slagr_2_atk/playlist.m3u8
 
+#EXTINF:-1 group-title="Antik TV",Rebel
+https://dash2.antik.sk/live/test_rebel/playlist.m3u8
+
+#EXTINF:-1 group-title="Antik TV",Relax
+https://dash2.antik.sk/live/test_relax/playlist.m3u8
+
 #EXTINF:-1 group-title="Antik TV",Skvelé TV
 https://dash2.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Chilli TV
 https://dash2.antik.sk/live/chilli_tv/index.m3u8
 
-#EXTINF:-1 group-title="Antik TV",TV NRSR
-https://dash2.antik.sk/live/test_nrsr/playlist.m3u8
-
 #EXTINF:-1 group-title="Antik TV",ČT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",Barrandov Krimi
 https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+
+#EXTINF:-1 group-title="Antik TV",TV NRSR
+https://dash2.antik.sk/live/test_nrsr/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
@@ -1348,12 +1384,6 @@ https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
 
 #EXTINF:-1 group-title="Antik TV",CGTN Documentary
 https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
-
-#EXTINF:-1 group-title="Antik TV",Rebel
-https://dash2.antik.sk/live/test_rebel/playlist.m3u8
-
-#EXTINF:-1 group-title="Antik TV",Relax
-https://dash2.antik.sk/live/test_relax/playlist.m3u8
 
 
 
