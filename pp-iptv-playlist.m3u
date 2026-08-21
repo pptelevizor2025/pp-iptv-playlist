@@ -700,7 +700,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 http://77.232.131.211/Rossiya24/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия К (PP)
-https://raw.githubusercontent.com/pptelevizor2025/Rossiya-K/main/Rossiya-K.m3u8
+https://raw.githubusercontent.com/pptelevizor2025/ZZZ-Rossiya-K/main/Rossiya-K.m3u8
 
 #EXTINF:-1 group-title="Ruské",Россия К (Alt.)
 http://stream.mcquack.net/229/index.m3u8
@@ -1423,17 +1423,41 @@ http://5.180.164.197:8080/FRANCE2/index.m3u8
 #EXTINF:-1 group-title="Francúzske",France 3 Lorraine
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 
+#EXTINF:-1 group-title="Francúzske",France 4 (detský)
+http://5.180.164.197:8080/FRANCE4/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",France 5
+http://145.239.5.177/305/index.m3u8
+
 #EXTINF:-1 group-title="Francúzske",M6
 http://145.239.5.177/320/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",W9
+http://145.239.5.177/331a/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",TFX
+http://145.239.5.177/315/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",6ter
+http://145.239.5.177/314/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",ARTE
+http://145.239.5.177/300/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",TV5 Monde
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",France24
-https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="Francúzske",CGTN French
 https://dash2.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Francúzske",KTO Télévision Catholique
+https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
+
+#EXTINF:-1 group-title="Francúzske",KTO Télévision Catholique (Alt.)
+http://145.239.5.177/354/index.m3u8
 
 
 
