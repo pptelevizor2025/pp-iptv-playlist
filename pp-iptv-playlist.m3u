@@ -25,10 +25,16 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-4 Asia 中文国际亚洲版 (Alt.) (Čínsky medzinárodný)
 http://74.91.26.218:82/live/cctv4hd.m3u8
 
+#EXTINF:-1 group-title="1 - Čínske",CCTV 4K 央视4K
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+
 #EXTINF:-1 group-title="1 - Čínske",CCTV-5 体育 (Šport)
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-5 体育 (Alt.) (Šport)
 http://74.91.26.218:82/live/cctv5hd.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV 5+ 体育赛事 (Športové prenosy)
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 
 ### >>>>>>> #EXTINF:-1 group-title="1 - Čínske",CCTV-6 电影 (Filmy)
 ### >>>>>>> http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
@@ -126,6 +132,18 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-World Geography 世界地理 (Svetová geografia)
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
+#EXTINF:-1 group-title="1 - Čínske",CHC家庭影院 (CHC Home Cinema)
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",CHC动作电影 (CHC Action Movie)
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",CHC影迷电影 (CHC Fan Movie)
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",优漫卡通 (Youman Cartoon)
+http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
+
 #EXTINF:-1 group-title="1 - Čínske",Anhui TV 安徽卫视
 http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 
@@ -159,6 +177,9 @@ https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 group-title="1 - Čínske",Hebei TV 河北卫视
 http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
 
+#EXTINF:-1 group-title="1 - Čínske",Heilongjiang TV 黑龙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+
 #EXTINF:-1 group-title="1 - Čínske",Henan TV 河南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 
@@ -176,6 +197,9 @@ http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Jiangsu TV 江苏卫视
 http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",Jiangxi TV 江西卫视
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Jilin TV 吉林卫视
 http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
@@ -204,6 +228,9 @@ http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",Tianjin TV 天津卫视
 http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 
+#EXTINF:-1 group-title="1 - Čínske",Tibet TV 西藏卫视
+http://38.75.136.137:98/gslb/dsdqpub/xzws.m3u8?auth=testpub
+
 #EXTINF:-1 group-title="1 - Čínske",Xinjiang TV 新疆卫视
 http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 
@@ -212,6 +239,9 @@ http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Zhejiang TV 浙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",Greater Bay Area TV 大湾区卫视
+http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Documentary
 https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
@@ -232,13 +262,13 @@ https://dash2.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Global Biz 环球财经 (Ekonomika)
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index_6.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",China Travel 中国旅游 (Cestovanie po Číne)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index_1.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",Discovering China 发现中国 (Objavovanie Číny)
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index_5.m3u8
 
 
 
@@ -322,7 +352,7 @@ https://dash2.antik.sk/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 group-title="2 - Slovenské",Kanal 1 (Alt.)
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 
-#EXTINF:-1 group-title="2 - Slovenské",PARK TV
+#EXTINF:-1 group-title="2 - Slovenské",Park TV
 https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Skvelé TV
@@ -349,14 +379,14 @@ http://88.212.15.19/live/test_folklorika_atktv/playlist.m3u8
 #EXTINF:-1 group-title="2 - Slovenské",Senzi
 http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="2 - Slovenské",Šláger Premium
-https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+#EXTINF:-1 group-title="2 - Slovenské",Šláger Originál
+https://stream-13.mazana.tv/slagroriginal.m3u8s
 
 #EXTINF:-1 group-title="2 - Slovenské",Šláger Muzika
 https://dash2.antik.sk/live/test_slagr_2_atk/playlist.m3u8
 
-#EXTINF:-1 group-title="2 - Slovenské",Šláger Originál
-https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 group-title="2 - Slovenské",Šláger Premium
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Tanečné súťaže
 https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
@@ -523,9 +553,9 @@ http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
 http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima ZOOM (Alt.)
 http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",REBEL
+#EXTINF:-1 group-title="3 - České",Rebel
 https://dash2.antik.sk/live/test_rebel/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",RELAX
+#EXTINF:-1 group-title="3 - České",Relax
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Seznam.cz TV
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
@@ -562,36 +592,38 @@ http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
 https://kukaj.profi-net.sk/live/KUVIKCIFER2.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Kuvikova obývačka
 https://kukaj.profi-net.sk/live/KUVIKCIFER1.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá
+#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá (vnútri)
 https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá (vonku)
+https://kukaj.profi-net.sk/live/PLAMIENKA2.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Bešeňová
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Bešeňová
 https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Vavrišovo
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Vavrišovo
 https://kukaj.profi-net.sk/live/BOCIANY_VAVRISOVO.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Kluknava
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Kluknava
 https://kukaj.profi-net.sk/live/BOCIANY_KLUKNAVA.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Brzotín
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Brzotín
 https://kukaj.profi-net.sk/live/BOCIANY_BRZOTIN.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Mníchova Lehota
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Mníchova Lehota
 https://kukaj.profi-net.sk/live/BOCIANY_MNICHOVALEHOTA.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Vikartovce
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Vikartovce
 https://kukaj.profi-net.sk/live/BOCIANY_VIKARTOVCE.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Smrečany
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Smrečany
 https://kukaj.profi-net.sk/live/BOCIANY_SMRECANY.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Dolný Štál
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Dolný Štál
 https://kukaj.profi-net.sk/live/BOCIANY_DOLNYSTAL.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Partizánska Ľupča
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Partizánska Ľupča
 https://kukaj.profi-net.sk/live/BOCIANY_LUPCA.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Bociany - Spišské Bystré
+#EXTINF:-1 group-title="4 - Kamery",Bociany: Spišské Bystré
 https://kukaj.profi-net.sk/live/BOCIANY_SPISSKEBYSTRE.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="4 - Kamery",Kŕmidlo Likavka
 https://kukaj.profi-net.sk/live/BUDKALIKAVKA.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Kŕmidlo Sysľovské polia - Spevavce
+#EXTINF:-1 group-title="4 - Kamery",Kŕmidlo Sysľovské polia: Spevavce
 https://kukaj.profi-net.sk/live/SPEVAVCE_SYSLOVSKE.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Kŕmidlo Sysľovské polia - Dravce
+#EXTINF:-1 group-title="4 - Kamery",Kŕmidlo Sysľovské polia: Dravce
 https://kukaj.profi-net.sk/live/DRAVCE_KRMIDLO.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Drozd Maty
 https://kukaj.profi-net.sk/live/DROZD.stream/playlist.m3u8
@@ -604,6 +636,10 @@ https://kukaj.profi-net.sk/live/DRAVCE_MODRA1.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Apartmán 5 Modrá
 https://kukaj.profi-net.sk/live/DRAVCE_MODRA5.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="4 - Kamery",Les: Medvede 
+https://kukaj.profi-net.sk/live/LES_MACO.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Nízke Tatry: Kamzíky 
+https://kukaj.profi-net.sk/live/KAMZIKY.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso Jazero
 https://stream.profi-net.sk/strba/VYHLAD_JAZERO.stream/playlist.m3u8
@@ -1212,46 +1248,46 @@ https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 
 ### RÔZNE 1 ###
 
-#EXTINF:-1 group-title="RÔZNE 1",Krb - TV Piánko
+#EXTINF:-1 group-title="RÔZNE 1",Krb: TV Piánko
 https://dash2.antik.sk/live/test_pianko/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Bosna - Televizija 5
+#EXTINF:-1 group-title="RÔZNE 1",Bosna: Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Bosna - Televizija M
+#EXTINF:-1 group-title="RÔZNE 1",Bosna: Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Singapur - Channel 8 (Čínsky)
+#EXTINF:-1 group-title="RÔZNE 1",Singapur: Channel 8 (Čínsky)
 https://cdn.qd.je/163189/ch8
 
-#EXTINF:-1 group-title="RÔZNE 1",Indonézia - TVRI Nasional
+#EXTINF:-1 group-title="RÔZNE 1",Indonézia: TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Indonézia - Ahsan TV
+#EXTINF:-1 group-title="RÔZNE 1",Indonézia: Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Slovinsko - TV SLO 1
+#EXTINF:-1 group-title="RÔZNE 1",Slovinsko: TV SLO 1
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Slovinsko - TV SLO 2
+#EXTINF:-1 group-title="RÔZNE 1",Slovinsko: TV SLO 2
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Poľsko - TVP World
+#EXTINF:-1 group-title="RÔZNE 1",Poľsko: TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Poľsko - TVP Info
+#EXTINF:-1 group-title="RÔZNE 1",Poľsko: TVP Info
 https://dash2.antik.sk/live/test_tvp_info/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Poľsko - TVP Polonia
+#EXTINF:-1 group-title="RÔZNE 1",Poľsko: TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Arménsko - Armenia 1 TV
+#EXTINF:-1 group-title="RÔZNE 1",Arménsko: Armenia 1 TV
 https://dash2.antik.sk/live/test_armenia/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Arabský - Al Jazeera
+#EXTINF:-1 group-title="RÔZNE 1",Arabský: Al Jazeera
 https://dash2.antik.sk/live/test_aljazeera/playlist.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Balkánsky - Kitchen TV
+#EXTINF:-1 group-title="RÔZNE 1",Balkánsky: Kitchen TV
 https://dash2.antik.sk/live/test_kitchen_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Music Box Classic
