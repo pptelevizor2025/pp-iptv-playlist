@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 
 ### 1 - Čínske kanály ###
 
@@ -25,7 +25,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-4 Asia 中文国际亚洲版 (Alt.) (Čínsky medzinárodný)
 http://74.91.26.218:82/live/cctv4hd.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV 4K 央视4K
+#EXTINF:-1 group-title="1 - Čínske",CCTV-4K 央视4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-5 体育 (Šport)
@@ -33,7 +33,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-5 体育 (Alt.) (Šport)
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV 5+ 体育赛事 (Športové prenosy)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-5+ 体育赛事 (Športové prenosy)
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 
 ### >>>>>>> #EXTINF:-1 group-title="1 - Čínske",CCTV-6 电影 (Filmy)
@@ -745,218 +745,218 @@ https://ams-28635.antmedia.cloud:5443/live/streams/flamingo-camera.m3u8
 
 ### Ruské kanály ###
 
-#EXTINF:-1 group-title="Ruské",Россия 1
+#EXTINF:-1 tvg-id="rossia1" group-title="Ruské",Россия 1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 1 (Alt.)
+#EXTINF:-1 tvg-id="rossia1" group-title="Ruské",Россия 1 (Alt.)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" group-title="Ruské",Россия 24
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 24 (Alt.)
+#EXTINF:-1 tvg-id="rossia-24" group-title="Ruské",Россия 24 (Alt.)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия 24 (Alt.2)
+#EXTINF:-1 tvg-id="rossia-24" group-title="Ruské",Россия 24 (Alt.2)
 http://77.232.131.211/Rossiya24/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия К (PP)
+#EXTINF:-1 tvg-id="kultura" group-title="Ruské",Россия К (PP)
 https://raw.githubusercontent.com/pptelevizor2025/ZZZ-Rossiya-K/main/Rossiya-K.m3u8
 
-#EXTINF:-1 group-title="Ruské",Россия К (Alt.)
+#EXTINF:-1 tvg-id="kultura" group-title="Ruské",Россия К (Alt.)
 http://stream.mcquack.net/229/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Первый канал
+#EXTINF:-1 tvg-id="pervy" group-title="Ruské",Первый канал
 http://178.217.49.7/1/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Пятый канал
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Ruské",Пятый канал
 http://178.134.1.158:8081/5channel/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",НТВ
+#EXTINF:-1 tvg-id="ntv" group-title="Ruské",НТВ
 https://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Ruské",НТВ (Alt.)
+#EXTINF:-1 tvg-id="ntv" group-title="Ruské",НТВ (Alt.)
 https://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/Gnz6-1JhlCAbc5XQxNR_WA/1788101180/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 
-#EXTINF:-1 group-title="Ruské",НТВ Хит
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Ruské",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Ruské",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",НТВ Право
+#EXTINF:-1 tvg-id="ntv-pravo" group-title="Ruské",НТВ Право
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",ТНТ
+#EXTINF:-1 tvg-id="tnt" group-title="Ruské",ТНТ
 https://river-1.rutube.ru/stream/genetta-403.ntv.rutube.ru/BIAdvp3WPoKUx8LpLdD-hA/1788090139/e90ba242c98400b075835c3c3eec999a/1080p_stream.m3u8
 
-#EXTINF:-1 group-title="Ruské",ТНТ (Alt.)
+#EXTINF:-1 tvg-id="tnt" group-title="Ruské",ТНТ (Alt.)
 http://stream.mcquack.net/135/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",СТС
+#EXTINF:-1 tvg-id="sts" group-title="Ruské",СТС
 http://stream.mcquack.net/138/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Пятница!
+#EXTINF:-1 tvg-id="piatnica" group-title="Ruské",Пятница!
 http://stream.mcquack.net/181/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Суббота!
+#EXTINF:-1 tvg-id="super" group-title="Ruské",Суббота!
 http://stream.mcquack.net/269/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Amedia Hit
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Ruské",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Дом Кино Премиум
+#EXTINF:-1 tvg-id="domkino-premium" group-title="Ruské",Дом Кино Премиум
 http://stream.mcquack.net/108/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju+ Мегахит
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Ruské",viju+ Мегахит
 http://stream.mcquack.net/200/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju+ Премьера
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Ruské",viju+ Премьера
 http://stream.mcquack.net/202/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju+ Комедия
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Ruské",viju+ Комедия
 http://stream.mcquack.net/201/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju+ Сериал
+#EXTINF:-1 tvg-id="vip-serial" group-title="Ruské",viju+ Сериал
 http://stream.mcquack.net/311/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju+ Планета
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Ruské",viju+ Планета
 http://stream.mcquack.net/240/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju TV1000
+#EXTINF:-1 tvg-id="tv1000" group-title="Ruské",viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju TV1000 action
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Ruské",viju TV1000 action
 http://stream.mcquack.net/100/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" group-title="Ruské",viju Explore
 http://stream.mcquack.net/239/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju History
+#EXTINF:-1 tvg-id="viasat-history" group-title="Ruské",viju History
 http://stream.mcquack.net/101/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Блокбастер
+#EXTINF:-1 tvg-id="blokbaster" group-title="Ruské",Блокбастер
 http://stream.mcquack.net/364/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Хит
+#EXTINF:-1 tvg-id="khit" group-title="Ruské",Хит
 http://stream.mcquack.net/363/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Премиальное
+#EXTINF:-1 tvg-id="premialnoe" group-title="Ruské",Премиальное
 http://stream.mcquack.net/421/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Еврокино
+#EXTINF:-1 tvg-id="evrokino" group-title="Ruské",Еврокино
 http://stream.mcquack.net/385/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Приключения
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Ruské",Приключения
 http://stream.mcquack.net/198/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Душевное
+#EXTINF:-1 tvg-id="dushevnoe" group-title="Ruské",Душевное
 http://stream.mcquack.net/213/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Наше Мужское
+#EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="Ruské",Наше Мужское
 http://stream.mcquack.net/362/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Дорама
+#EXTINF:-1 tvg-id="dorama" group-title="Ruské",Дорама
 http://stream.mcquack.net/412/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Шокирующее
+#EXTINF:-1 tvg-id="shokiruyushchee" group-title="Ruské",Шокирующее
 http://stream.mcquack.net/75/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим Честный Детектив
+#EXTINF:-1 tvg-id="chestny-detektiv" group-title="Ruské",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",Смотрим 360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим 360 Новости
+#EXTINF:-1 tvg-id="360-news" group-title="Ruské",Смотрим 360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим 100% Классика
+#EXTINF:-1 tvg-id="smotrim-100-klassika" group-title="Ruské",Смотрим 100% Классика
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим 100% Любовь
+#EXTINF:-1 tvg-id="smotrim-100-lubov" group-title="Ruské",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим 100% Мужское
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" group-title="Ruské",Смотрим 100% Мужское
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим 100% Праздник
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" group-title="Ruské",Смотрим 100% Праздник
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим 100% Факты
+#EXTINF:-1 tvg-id="smotrim-100-fakty" group-title="Ruské",Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим 100% Детское
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" group-title="Ruské",Смотрим 100% Детское
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Ruské",Охотник и рыболов
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Ruské",Охотник и рыболов
 http://stream.mcquack.net/194/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Дикая охота
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Ruské",Дикая охота
 http://stream.mcquack.net/274/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Дикая рыбалка
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Ruské",Дикая рыбалка
 http://stream.mcquack.net/275/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Неизвестная Россия
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" group-title="Ruské",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",Большая Азия
+#EXTINF:-1 tvg-id="bolshaya-azia" group-title="Ruské",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",Travel+Adventure
+#EXTINF:-1 tvg-id="travel-adventure" group-title="Ruské",Travel+Adventure
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Доктор
+#EXTINF:-1 tvg-id="doktor" group-title="Ruské",Доктор
 http://178.134.1.158:8081/doktor/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Карусель
+#EXTINF:-1 tvg-id="karusel" group-title="Ruské",Карусель
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Ruské",Москва 24
+#EXTINF:-1 tvg-id="moskva-24" group-title="Ruské",Москва 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Ruské",Москва 24 (Alt.)
+#EXTINF:-1 tvg-id="moskva-24" group-title="Ruské",Москва 24 (Alt.)
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Ruské",Санкт-Петербург
+#EXTINF:-1 tvg-id="sankt-peterburg" group-title="Ruské",Санкт-Петербург
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 
-#EXTINF:-1 group-title="Ruské",Крым 24
+#EXTINF:-1 tvg-id="krym24" group-title="Ruské",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
-#EXTINF:-1 group-title="Ruské",Первый Крымский
+#EXTINF:-1 tvg-id="pervy-krymsky" group-title="Ruské",Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
-#EXTINF:-1 group-title="Ruské",TV BRICS Russian
+#EXTINF:-1 tvg-id="tv-brics" group-title="Ruské",TV BRICS Russian
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",CGTN Russian
+#EXTINF:-1 tvg-id="cctv-ru" group-title="Ruské",CGTN Russian
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 
 
 ### Bieloruské kanály ###
 
-#EXTINF:-1 group-title="Bieloruské",Первый информационный
+#EXTINF:-1 tvg-id="pervy-info-by" group-title="Bieloruské",Первый информационный
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 
-#EXTINF:-1 group-title="Bieloruské",Беларусь 1
+#EXTINF:-1 tvg-id="belarus1" group-title="Bieloruské",Беларусь 1
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
 
-#EXTINF:-1 group-title="Bieloruské",Беларусь 2
+#EXTINF:-1 tvg-id="belarus2" group-title="Bieloruské",Беларусь 2
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 group-title="Bieloruské",Беларусь 3
+#EXTINF:-1 tvg-id="belarus3" group-title="Bieloruské",Беларусь 3
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 
-#EXTINF:-1 group-title="Bieloruské",Беларусь 5 (Sport)
+#EXTINF:-1 tvg-id="belarus5" group-title="Bieloruské",Беларусь 5 (Sport)
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
 
-#EXTINF:-1 group-title="Bieloruské",Беларусь 24
+#EXTINF:-1 tvg-id="belarus24" group-title="Bieloruské",Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 
-#EXTINF:-1 group-title="Bieloruské",СТВ Беларусь
+#EXTINF:-1 tvg-id="stv-by" group-title="Bieloruské",СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 
