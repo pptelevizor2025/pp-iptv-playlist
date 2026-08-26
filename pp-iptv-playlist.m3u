@@ -625,6 +625,12 @@ https://kukaj.profi-net.sk/live/BUDKALIKAVKA.stream/playlist.m3u8
 https://kukaj.profi-net.sk/live/SPEVAVCE_SYSLOVSKE.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Kŕmidlo Sysľovské polia: Dravce
 https://kukaj.profi-net.sk/live/DRAVCE_KRMIDLO.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="4 - Kamery",Nízke Tatry: Kamzíky 
+https://kukaj.profi-net.sk/live/KAMZIKY.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Les: Medvede 
+https://kukaj.profi-net.sk/live/LES_MACO.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="4 - Kamery",Drozd Maty
 https://kukaj.profi-net.sk/live/DROZD.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Piťkov apartmán
@@ -635,11 +641,6 @@ https://kukaj.profi-net.sk/live/SOKOLSSD2.stream/playlist.m3u8
 https://kukaj.profi-net.sk/live/DRAVCE_MODRA1.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Apartmán 5 Modrá
 https://kukaj.profi-net.sk/live/DRAVCE_MODRA5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="4 - Kamery",Les: Medvede 
-https://kukaj.profi-net.sk/live/LES_MACO.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Nízke Tatry: Kamzíky 
-https://kukaj.profi-net.sk/live/KAMZIKY.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso Jazero
 https://stream.profi-net.sk/strba/VYHLAD_JAZERO.stream/playlist.m3u8
@@ -1415,35 +1416,80 @@ https://dash2.antik.sk/live/test_locall/playlist.m3u8
 #EXTINF:-1 group-title="Francúzske",TF1
 http://5.180.164.197:8080/TF1/index.m3u8
 
+#EXTINF:-1 group-title="Francúzske",TF1 (Alt.)
+http://151.80.18.177:86/TF1_HD/index.m3u8
+
 #EXTINF:-1 group-title="Francúzske",France 2
 http://5.180.164.197:8080/FRANCE2/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",France 3 Lorraine
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 
+#EXTINF:-1 group-title="Francúzske",France 3 (Alt.)
+http://151.80.18.177:86/France_3_HD/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",France 5
+http://151.80.18.177:86/France_5_HD/index.m3u8
+
 #EXTINF:-1 group-title="Francúzske",France 4 (detský)
 http://5.180.164.197:8080/FRANCE4/index.m3u8
 
-#EXTINF:-1 group-title="Francúzske",France 5
-http://145.239.5.177/305/index.m3u8
+#EXTINF:-1 group-title="Francúzske",Gulli (detský)
+http://99.27.51.147:8080/Gulli/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",Tiji (detský)
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",Disney Channel
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",M6
-http://145.239.5.177/320/index.m3u8
+http://151.80.18.177:86/M6_HD/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",M6 (Alt.)
+http://99.27.51.147:8080/M6/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",W9
-http://145.239.5.177/331a/index.m3u8
+http://151.80.18.177:86/W9_HD/index.m3u8
 
-#EXTINF:-1 group-title="Francúzske",TFX
-http://145.239.5.177/315/index.m3u8
-
-#EXTINF:-1 group-title="Francúzske",6ter
-http://145.239.5.177/314/index.m3u8
+#EXTINF:-1 group-title="Francúzske",TMC
+http://151.80.18.177:86/TMC/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",ARTE
-http://145.239.5.177/300/index.m3u8
+http://151.80.18.177:86/ARTE_HD/index.m3u8
 
-#EXTINF:-1 group-title="Francúzske",TV5 Monde
+#EXTINF:-1 group-title="Francúzske",TV5 Monde Europe
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",RMC Découverte
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",National Geographic
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",Discovery
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",Histoire
+http://151.80.18.177:86/Histoire/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",CStar
+http://151.80.18.177:86/D17_HD/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",Comédie+
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",Syfy
+http://99.27.51.147:8080/SYFY/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",Cine+ Classic
+http://99.27.51.147:8080/CineClassic/index.m3u8
+
+#EXTINF:-1 group-title="Francúzske",LCI
+http://151.80.18.177:86/LCI_HD/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",France24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
@@ -1454,11 +1500,8 @@ https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1 group-title="Francúzske",CGTN French
 https://dash2.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="Francúzske",KTO Télévision Catholique
+#EXTINF:-1 group-title="Francúzske",KTO Télévision Catholique (načítava cca 1 min.)
 https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
-
-#EXTINF:-1 group-title="Francúzske",KTO Télévision Catholique (Alt.)
-http://145.239.5.177/354/index.m3u8
 
 
 
