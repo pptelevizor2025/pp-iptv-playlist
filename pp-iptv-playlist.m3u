@@ -63,9 +63,9 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CCTV-10 科教 (Alt.) (Veda a vzdelávanie)
 http://74.91.26.218:82/live/cctv10hd.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-11 戏曲 (Čínska opera)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-11 戏曲 (Čínska opera a divadlo)
 http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-11 戏曲 (Alt.) (Čínska opera)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-11 戏曲 (Alt.) (Čínska opera a divadlo)
 http://74.91.26.218:82/live/cctv11hd.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-12 社会与法 (Spoločnosť a právo)
@@ -98,47 +98,47 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="1 - Čínske",CCTV-17 农业农村 (Alt.) (Poľnohospodárstvo a vidiek)
 http://74.91.26.218:82/live/cctv17hd.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Billiards 央视台球 (Biliard)
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Culture of Quality 文化精品 (Kultúra a dokumenty)
-http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Golf & Tennis 高尔夫网球 (Golf a tenis)
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Health 卫生健康 (Zdravie a životný štýl)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-卫生健康 (Zdravie a životný štýl)
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Health 卫生健康 (Alt.) (Zdravie a životný štýl)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-卫生健康 (Alt.) (Zdravie a životný štýl)
 http://38.75.136.137:98/gslb/dsdqbv/wsjk.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Nostalgia Theater 怀旧剧场 (Klasické filmy a seriály)
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-世界地理 (Svetová geografia)
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Old Stories 老故事 (Historické dokumenty)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-央视文化精品 (Kultúra a dokumenty)
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-老故事 (Historické dokumenty)
 http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Storm Football 风云足球 (Futbal)
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Storm Music 风云音乐 (Hudba)
-http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Storm Theater 风云剧场 (Filmy a seriály)
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",CCTV-The First Theater 第一剧场 (Filmy)
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Weapons and Technology 兵器科技 (Zbrane a technológie)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-兵器科技 (Zbrane a technológie)
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-Women's Fashion 女性时尚 (Dámska móda)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-女性时尚 (Dámska móda)
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-World Geography 世界地理 (Svetová geografia)
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-怀旧剧场 (Klasické filmy a seriály)
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-风云剧场 (Filmy a seriály)
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-第一剧场 (Prémiové filmy)
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-风云音乐 (Hudba)
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-央视台球 (Biliard)
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-高尔夫网球 (Golf a tenis)
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-风云足球 (Futbal)
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",CETV-1 中国教育1 (Všeobecné vzdelávanie)
 http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -802,7 +802,7 @@ http://live.idnes.cz/slow/hrosi/playlist.m3u8
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" group-title="Ruské",Россия 1 (Alt.)
-https://river-6-602.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/zLaHg7c0n8njVz2B4pmGBQ/1788699081/2742a3c42be661ea732705f80adb7bdd/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/2742a3c42be661ea732705f80adb7bdd/index.m3u8?s=HEhc1uIdRBlOEpofQpOtuQ&e=2088160780&scheme=https
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="Ruské",Россия 24
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
@@ -826,7 +826,7 @@ http://178.134.1.158:8081/5channel/index.m3u8
 https://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="Ruské",НТВ (Alt.)
-https://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/Gnz6-1JhlCAbc5XQxNR_WA/1788101180/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=CT6DdzDU7cbGZO3E033A-w&e=2088165918&scheme=https
 
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Ruské",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
@@ -838,9 +838,6 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Ruské",ТНТ
-https://river-1.rutube.ru/stream/genetta-403.ntv.rutube.ru/BIAdvp3WPoKUx8LpLdD-hA/1788090139/e90ba242c98400b075835c3c3eec999a/1080p_stream.m3u8
-
-#EXTINF:-1 tvg-id="tnt" group-title="Ruské",ТНТ (Alt.)
 http://stream.mcquack.net/135/index.m3u8
 
 #EXTINF:-1 tvg-id="sts" group-title="Ruské",СТС
@@ -855,11 +852,17 @@ http://stream.mcquack.net/269/index.m3u8
 #EXTINF:-1 group-title="Ruské",РЕН ТВ
 http://185.23.80.23:8080/REN/index.m3u8
 
+#EXTINF:-1 group-title="Ruské",РЕН ТВ International
+http://178.134.1.158:8081/RENTV/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",ТВ-3
+http://stream.mcquack.net/136/index.m3u8
+
 #EXTINF:-1 group-title="Ruské",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",МИР
-https://tvcdn01.oktv.kz/tv/mir/index.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -882,10 +885,10 @@ http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" group-title="Ruské",viju+ Сериал
 http://stream.mcquack.net/311/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Ruské",viju+ Планета
+#EXTINF:-1 group-title="Ruské",viju+ Планета
 http://stream.mcquack.net/240/index.m3u8
 
-#EXTINF:-1 tvg-id="tv1000" group-title="Ruské",viju TV1000
+#EXTINF:-1 group-title="Ruské",viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Ruské",viju TV1000 action
@@ -918,6 +921,9 @@ http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="Ruské",Наше Мужское
 http://stream.mcquack.net/362/index.m3u8
 
+#EXTINF:-1 group-title="Ruské",Родное кино
+http://stream.mcquack.net/242/index.m3u8
+
 #EXTINF:-1 tvg-id="dorama" group-title="Ruské",Дорама
 http://stream.mcquack.net/412/index.m3u8
 
@@ -930,26 +936,29 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 group-title="Ruské",Смотрим 360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="360-news" group-title="Ruské",Смотрим 360 Новости
+#EXTINF:-1 tvg-id="360-news" group-title="Ruské",Смотрим 360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="smotrim-100-klassika" group-title="Ruské",Смотрим 100% Классика
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv03/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="smotrim-100-lubov" group-title="Ruské",Смотрим 100% Любовь
-https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv01/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="smotrim-100-muzhskoe" group-title="Ruské",Смотрим 100% Мужское
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv02/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" group-title="Ruské",Смотрим 100% Праздник
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv04/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="smotrim-100-fakty" group-title="Ruské",Смотрим 100% Факты
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv06/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" group-title="Ruské",Смотрим 100% Детское
-https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv05/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Ruské",Наука
+http://stream.mcquack.net/125/index.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Ruské",Охотник и рыболов
 http://stream.mcquack.net/194/index.m3u8
@@ -960,17 +969,26 @@ http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Ruské",Дикая рыбалка
 http://stream.mcquack.net/275/index.m3u8
 
+#EXTINF:-1 group-title="Ruské",Зоопарк
+http://178.134.1.158:8081/zoopark/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Живая природа
+http://stream.mcquack.net/225/index.m3u8
+
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" group-title="Ruské",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bolshaya-azia" group-title="Ruské",Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Ruské",Travel+Adventure
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 
 #EXTINF:-1 tvg-id="doktor" group-title="Ruské",Доктор
 http://178.134.1.158:8081/doktor/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Кухня ТВ
+http://stream.mcquack.net/179/index.m3u8
 
 #EXTINF:-1 tvg-id="karusel" group-title="Ruské",Карусель
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
@@ -996,26 +1014,23 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-id="cctv-ru" group-title="Ruské",CGTN Russian
 https://dash2.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské",Живая природа
-http://stream.mcquack.net/225/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",Кухня ТВ
-http://stream.mcquack.net/179/index.m3u8
-
 #EXTINF:-1 group-title="Ruské",Звезда
-https://river-6-604.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/MMdtqR6NGpo54Kx3E0-kbg/1788702354/5ab908fccfac5bb43ef2b1e4182256b0/1080p_stream.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 group-title="Ruské",Ностальгия
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 
-#EXTINF:-1 group-title="Ruské",Союз
-https://river-3-368.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/Z4-CU5S8MnyRftWxKSljJA/1788699355/80b308e455f2aceb498e5dccd58ca050/1080p_stream.m3u8
+#EXTINF:-1 group-title="Ruské",Ностальгия (Alt.)
+http://176.118.197.101/Nostalgiya/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Спас
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Ruské",Царьград ТВ
-https://river-6-603.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/Nk2Kpeq_FqfE7l773DtIGw/1788699772/91815da4edb167b5bd617bae490e57da/1080p_stream.m3u8
+#EXTINF:-1 group-title="Ruské",Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
 
 
@@ -1725,8 +1740,6 @@ https://dash2.antik.sk/live/test_espresso/playlist.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 group-title="Ukrajinské",FREEДОМ
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 group-title="Ukrajinské",Рада
-https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
 #EXTINF:-1 group-title="Ukrajinské",1+1 Марафон
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",ДІМ
