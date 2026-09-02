@@ -152,16 +152,16 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",CETV-4 中国教育4 (Odborné vzdelávanie)
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",CHC家庭影院 (CHC Home Cinema)
+#EXTINF:-1 group-title="1 - Čínske",CHC家庭影院 (CHC Domáce kino)
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",CHC动作电影 (CHC Action Movie)
+#EXTINF:-1 group-title="1 - Čínske",CHC动作电影 (CHC Akčné filmy)
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",CHC影迷电影 (CHC Fan Movie)
+#EXTINF:-1 group-title="1 - Čínske",CHC影迷电影 (CHC Filmy pre filmových fanúšikov)
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",优漫卡通 (Youman Cartoon)
+#EXTINF:-1 group-title="1 - Čínske",优漫卡通 (Youman Kreslené filmy)
 http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Anhui TV 安徽卫视
@@ -837,17 +837,17 @@ https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" group-title="Ruské",НТВ Право
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tnt" group-title="Ruské",ТНТ
-http://stream.mcquack.net/135/index.m3u8
-
 #EXTINF:-1 tvg-id="sts" group-title="Ruské",СТС
 http://stream.mcquack.net/138/index.m3u8
 
-#EXTINF:-1 tvg-id="piatnica" group-title="Ruské",Пятница!
-http://stream.mcquack.net/181/index.m3u8
+#EXTINF:-1 group-title="Ruské",СТС Love
+http://stream.mcquack.net/183/index.m3u8
 
-#EXTINF:-1 tvg-id="super" group-title="Ruské",Суббота!
-http://stream.mcquack.net/269/index.m3u8
+#EXTINF:-1 tvg-id="tnt" group-title="Ruské",ТНТ
+http://stream.mcquack.net/135/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",ТНТ4
+http://stream.mcquack.net/106/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",РЕН ТВ
 http://185.23.80.23:8080/REN/index.m3u8
@@ -855,20 +855,44 @@ http://185.23.80.23:8080/REN/index.m3u8
 #EXTINF:-1 group-title="Ruské",РЕН ТВ International
 http://178.134.1.158:8081/RENTV/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",ТВ-3
-http://stream.mcquack.net/136/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Ruské",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 tvg-id="amedia-hit" group-title="Ruské",Amedia Hit
-http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 group-title="Ruské",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",ТВ Центр (Alt.)
+http://hls127.freeott.top:8080/Tv_Center/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="piatnica" group-title="Ruské",Пятница!
+http://stream.mcquack.net/181/index.m3u8
+
+#EXTINF:-1 tvg-id="super" group-title="Ruské",Суббота!
+http://stream.mcquack.net/269/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Домашний
+http://stream.mcquack.net/227/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",ТВ-3
+http://stream.mcquack.net/136/index.m3u8
+
+#EXTINF:-1 tvg-id="karusel" group-title="Ruské",Карусель
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="karusel" group-title="Ruské",Карусель (Alt.)
+http://stream.mcquack.net/120/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Солнце
+http://stream.mcquack.net/118/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Дом Кино
+http://stream.mcquack.net/236/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="Ruské",Дом Кино Премиум
 http://stream.mcquack.net/108/index.m3u8
@@ -885,9 +909,6 @@ http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" group-title="Ruské",viju+ Сериал
 http://stream.mcquack.net/311/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",viju+ Планета
-http://stream.mcquack.net/240/index.m3u8
-
 #EXTINF:-1 group-title="Ruské",viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 
@@ -899,6 +920,21 @@ http://stream.mcquack.net/239/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-history" group-title="Ruské",viju History
 http://stream.mcquack.net/101/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",viju+ Планета
+http://stream.mcquack.net/240/index.m3u8
+
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Ruské",Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",А1
+http://stream.mcquack.net/117/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",А1 (Alt.)
+http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",А2
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="blokbaster" group-title="Ruské",Блокбастер
 http://stream.mcquack.net/364/index.m3u8
@@ -912,32 +948,68 @@ http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" group-title="Ruské",Еврокино
 http://stream.mcquack.net/385/index.m3u8
 
-#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Ruské",Приключения
-http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 group-title="Ruské",Родное кино
+http://stream.mcquack.net/242/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Мосфильм Золотая коллекция
+http://stream.mcquack.net/369/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Мосфильм Золотая коллекция (Alt.)
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",Кинопоказ
+http://stream.mcquack.net/64/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Кинопоказ (Alt.)
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",Киносемья
+http://stream.mcquack.net/170/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Киномикс
+http://stream.mcquack.net/133/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",Наше Любимое Кино
+http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",Наше Новое Кино
+http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="dushevnoe" group-title="Ruské",Душевное
 http://stream.mcquack.net/213/index.m3u8
 
-#EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="Ruské",Наше Мужское
-http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1 group-title="Ruské",Остросюжетное
+http://stream.mcquack.net/214/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Родное кино
-http://stream.mcquack.net/242/index.m3u8
-
-#EXTINF:-1 tvg-id="dorama" group-title="Ruské",Дорама
-http://stream.mcquack.net/412/index.m3u8
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Ruské",Приключения
+http://stream.mcquack.net/198/index.m3u8
 
 #EXTINF:-1 tvg-id="shokiruyushchee" group-title="Ruské",Шокирующее
 http://stream.mcquack.net/75/index.m3u8
 
+#EXTINF:-1 group-title="Ruské",НСТ
+http://stream.mcquack.net/207/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",НСТ (Alt.)
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",Индийское кино
+http://stream.mcquack.net/104/index.m3u8
+
+#EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="Ruské",Наше Мужское
+http://stream.mcquack.net/362/index.m3u8
+
+#EXTINF:-1 tvg-id="dorama" group-title="Ruské",Дорама
+http://stream.mcquack.net/412/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Русский Детектив
+http://stream.mcquack.net/204/index.m3u8
+
 #EXTINF:-1 tvg-id="chestny-detektiv" group-title="Ruské",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",Смотрим 360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="360-news" group-title="Ruské",Смотрим 360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="smotrim-100-klassika" group-title="Ruské",Смотрим 100% Классика
 https://stream.smotrim.ru/fasttv_hls/fasttv03/playlist_3.m3u8
@@ -957,23 +1029,29 @@ https://stream.smotrim.ru/fasttv_hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-detskoe" group-title="Ruské",Смотрим 100% Детское
 https://stream.smotrim.ru/fasttv_hls/fasttv05/playlist_3.m3u8
 
+#EXTINF:-1 group-title="Ruské",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",Ностальгия (Alt.)
+http://176.118.197.101/Nostalgiya/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Кухня ТВ
+http://stream.mcquack.net/179/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Кухня ТВ (Alt.)
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",Усадьба
+http://stream.mcquack.net/211/index.m3u8
+
 #EXTINF:-1 group-title="Ruské",Наука
 http://stream.mcquack.net/125/index.m3u8
 
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Ruské",Охотник и рыболов
-http://stream.mcquack.net/194/index.m3u8
+#EXTINF:-1 group-title="Ruské",Наука (Alt.)
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
 
-#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Ruské",Дикая охота
-http://stream.mcquack.net/274/index.m3u8
-
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Ruské",Дикая рыбалка
-http://stream.mcquack.net/275/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",Зоопарк
-http://178.134.1.158:8081/zoopark/index.m3u8
-
-#EXTINF:-1 group-title="Ruské",Живая природа
-http://stream.mcquack.net/225/index.m3u8
+#EXTINF:-1 group-title="Ruské",Моя Планета
+http://stream.mcquack.net/141/index.m3u8
 
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" group-title="Ruské",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -984,14 +1062,56 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Ruské",Travel+Adventure
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 
+#EXTINF:-1 tvg-id="travel-adventure" group-title="Ruské",Travel+Adventure (Alt.)
+http://stream.mcquack.net/206/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Моя стихия
+http://stream.mcquack.net/141/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",В мире животных
+http://stream.mcquack.net/241/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Живая природа
+http://stream.mcquack.net/225/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Зоопарк
+http://178.134.1.158:8081/zoopark/index.m3u8
+
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Ruské",Охотник и рыболов
+http://stream.mcquack.net/194/index.m3u8
+
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Ruské",Дикая охота
+http://stream.mcquack.net/274/index.m3u8
+
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Ruské",Дикая рыбалка
+http://stream.mcquack.net/275/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Жара
+http://stream.mcquack.net/386/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",Жара (Alt.)
+http://hls127.freeott.top:8080/Zhara/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Шансон ТВ (Alt.)
+http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
+
 #EXTINF:-1 tvg-id="doktor" group-title="Ruské",Доктор
+http://stream.mcquack.net/80/index.m3u8
+
+#EXTINF:-1 tvg-id="doktor" group-title="Ruské",Доктор (Alt.)
 http://178.134.1.158:8081/doktor/index.m3u8
 
-#EXTINF:-1 group-title="Ruské",Кухня ТВ
-http://stream.mcquack.net/179/index.m3u8
+#EXTINF:-1 group-title="Ruské",РБК ТВ
+http://hls127.freeott.top:8080/RBK/video.m3u8
 
-#EXTINF:-1 tvg-id="karusel" group-title="Ruské",Карусель
-https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+#EXTINF:-1 tvg-id="360-news" group-title="Ruské",Смотрим 360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Смотрим 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="moskva-24" group-title="Ruské",Москва 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
@@ -1013,15 +1133,6 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cctv-ru" group-title="Ruské",CGTN Russian
 https://dash2.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
-#EXTINF:-1 group-title="Ruské",Ностальгия
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-
-#EXTINF:-1 group-title="Ruské",Ностальгия (Alt.)
-http://176.118.197.101/Nostalgiya/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Спас
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
@@ -1334,7 +1445,7 @@ https://otv.wotom.net/alau/stream.m3u8
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kazachstan",МТРК
-http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 
 #EXTINF:-1 group-title="Kazachstan",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
@@ -1683,6 +1794,9 @@ https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Angličtina",Al Jazeera English
 https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 
+#EXTINF:-1 group-title="Angličtina",Al Jazeera English (Alt.)
+http://stream.mcquack.net/131/index.m3u8
+
 #EXTINF:-1 group-title="Angličtina",NHK World Japan
 https://dash2.antik.sk/live/test_nhk/playlist.m3u8
 
@@ -1716,8 +1830,6 @@ https://dash2.antik.sk/live/lingotoons/index.m3u8
 
 #EXTINF:-1 group-title="Ukrajinské",1+1 Україна
 http://stream.mcquack.net/219/index.m3u8
-#EXTINF:-1 group-title="Ukrajinské",1+1 International
-https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",ICTV
 http://stream.mcquack.net/158/index.m3u8
 #EXTINF:-1 group-title="Ukrajinské",СТБ
@@ -1726,39 +1838,43 @@ http://stream.mcquack.net/156/index.m3u8
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Інтер
 http://stream.mcquack.net/174/index.m3u8
-#EXTINF:-1 group-title="Ukrajinské",2+2
-http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 group-title="Ukrajinské",ТЕТ
 http://stream.mcquack.net/338/index.m3u8
-#EXTINF:-1 group-title="Ukrajinské",5 канал
-https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 group-title="Ukrajinské",2+2
+http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 group-title="Ukrajinské",24 Канал
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ukrajinské",5 канал
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Еспресо
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:-1 group-title="Ukrajinské",Перший
-https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 group-title="Ukrajinské",FREEДОМ
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 group-title="Ukrajinské",1+1 Марафон
-https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",ДІМ
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
-#EXTINF:-1 group-title="Ukrajinské",Армія TV
-https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 group-title="Ukrajinské",М1
-http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1 group-title="Ukrajinské",Квартал TV
-https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 group-title="Ukrajinské",Перший
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 group-title="Ukrajinské",1+1 Марафон
+https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+#EXTINF:-1 group-title="Ukrajinské",Рада
+http://stream.mcquack.net/382/index.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Настоящее Время
 https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Ukrajinské",FilmUA Live
-https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Ukrajinské",Квартал TV
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 group-title="Ukrajinské",М1
+http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 group-title="Ukrajinské",FilmUA Drama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Ukrajinské",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Дача
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Рибалка
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Ukrajinské",Армія TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 group-title="Ukrajinské",1+1 International
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
