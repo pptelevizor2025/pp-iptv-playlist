@@ -802,7 +802,7 @@ http://live.idnes.cz/slow/hrosi/playlist.m3u8
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" group-title="Ruské",Россия 1 (Alt.)
-https://bl.rutube.ru/livestream/2742a3c42be661ea732705f80adb7bdd/index.m3u8?s=HEhc1uIdRBlOEpofQpOtuQ&e=2088160780&scheme=https
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="Ruské",Россия 24
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
@@ -826,7 +826,7 @@ http://178.134.1.158:8081/5channel/index.m3u8
 https://cdn.ntv.ru/ntv0/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="Ruské",НТВ (Alt.)
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=CT6DdzDU7cbGZO3E033A-w&e=2088165918&scheme=https
+https://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Ruské",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
@@ -862,7 +862,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8
 
 #EXTINF:-1 group-title="Ruské",ТВ Центр (Alt.)
 http://hls127.freeott.top:8080/Tv_Center/video.m3u8
@@ -1086,6 +1086,24 @@ http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Ruské",Дикая рыбалка
 http://stream.mcquack.net/275/index.m3u8
 
+#EXTINF:-1 group-title="Ruské",FON Music
+https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",FON Music (Alt.)
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",МУЗ-ТВ
+http://stream.mcquack.net/86/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",МУЗ-ТВ (Alt.)
+http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
+
+#EXTINF:-1 group-title="Ruské",RU.TV
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+
+#EXTINF:-1 group-title="Ruské",Russian MusicBox
+http://stream.mcquack.net/319/index.m3u8
+
 #EXTINF:-1 group-title="Ruské",Жара
 http://stream.mcquack.net/386/index.m3u8
 
@@ -1098,6 +1116,15 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd
 #EXTINF:-1 group-title="Ruské",Шансон ТВ (Alt.)
 http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 
+#EXTINF:-1 group-title="Ruské",Страна ТВ
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Жар-Птица
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=95Fj_JYHOxqXg2gB-MErXQ&e=2088440922&scheme=https
+
+#EXTINF:-1 group-title="Ruské",Радио Песни от всей души
+https://hls-01-povd.hostingradio.ru/povd/160/playlist.m3u8
+
 #EXTINF:-1 tvg-id="doktor" group-title="Ruské",Доктор
 http://stream.mcquack.net/80/index.m3u8
 
@@ -1105,7 +1132,7 @@ http://stream.mcquack.net/80/index.m3u8
 http://178.134.1.158:8081/doktor/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",РБК ТВ
-http://hls127.freeott.top:8080/RBK/video.m3u8
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="360-news" group-title="Ruské",Смотрим 360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
