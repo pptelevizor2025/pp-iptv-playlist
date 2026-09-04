@@ -810,7 +810,7 @@ https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="Ruské",Россия 24 (Alt.)
 http://77.232.131.211/Rossiya24/index.m3u8
 
-#EXTINF:-1 tvg-id="kultura" group-title="Ruské",Россия К (PP)
+#EXTINF:-1 tvg-id="kultura" group-title="Ruské",Россия К
 https://raw.githubusercontent.com/pptelevizor2025/ZZZ-Rossiya-K/main/Rossiya-K.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="Ruské",Россия К (Alt.)
@@ -1098,8 +1098,11 @@ http://stream.mcquack.net/86/index.m3u8
 #EXTINF:-1 group-title="Ruské",МУЗ-ТВ (Alt.)
 http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 
-#EXTINF:-1 group-title="Ruské",RU.TV
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+#EXTINF:-1 group-title="Ruské",РУ.ТВ
+http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/ZxhSMWkGsUyd1ZAVPe6pvg/1789110024/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
+
+#EXTINF:-1 group-title="Ruské",РУ.ТВ (Alt.)
+http://stream.mcquack.net/109/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Russian MusicBox
 http://stream.mcquack.net/319/index.m3u8
@@ -1111,16 +1114,16 @@ http://stream.mcquack.net/386/index.m3u8
 http://hls127.freeott.top:8080/Zhara/video.m3u8
 
 #EXTINF:-1 group-title="Ruské",Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",Шансон ТВ (Alt.)
 http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 
 #EXTINF:-1 group-title="Ruské",Страна ТВ
-https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",Жар-Птица
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=95Fj_JYHOxqXg2gB-MErXQ&e=2088440922&scheme=https
+http://river-3-311.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/uDfMxPt2NyZI3tqThLeUsA/1789111974/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
 
 #EXTINF:-1 group-title="Ruské",Радио Песни от всей души
 https://hls-01-povd.hostingradio.ru/povd/160/playlist.m3u8
