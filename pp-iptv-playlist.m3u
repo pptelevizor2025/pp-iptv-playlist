@@ -457,6 +457,8 @@ http://88.212.15.19/live/test_axn/playlist.m3u8
 http://88.212.15.19/live/test_black/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",AXN White
 http://88.212.15.19/live/test_white/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Ballcasterz
+http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
 #EXTINF:-1 group-title="3 - České",Barrandov Krimi
 https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Barrandov Krimi (Alt.)
@@ -491,7 +493,7 @@ http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",ČT 24 (Alt.)
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",ČT ART
+#EXTINF:-1 group-title="3 - České",ČT:D / ČT art
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",ČT Sport
 http://88.212.15.19/live/ct_sport_avc_25p/playlist.m3u8
@@ -509,6 +511,12 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Duck TV plus
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",DVTV Extra
+https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
+#EXTINF:-1 group-title="3 - České",Elektrika TV
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Eurosport 4K CZ
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Filmbox+ One
@@ -525,6 +533,8 @@ http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Fishing and Hunting
 http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",HBO
 http://88.212.15.19/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",HBO 2
@@ -533,10 +543,14 @@ http://88.212.15.19/live/test_hbo2_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",History
 http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",History2
+http://88.212.15.19/live/test_h2/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",ID
 http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Jim Jam.cz
 http://88.212.15.19/live/test_jim_jam/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",KVIFF TV
+http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
 #EXTINF:-1 group-title="3 - České",Lala TV
 http://88.212.15.19/live/test_lala_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Love Nature
@@ -575,6 +589,8 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 http://88.212.15.19/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko Expres
 http://88.212.15.19/live/test_ocko_expres/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Óčko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko Star
 http://88.212.15.19/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima CZ
@@ -585,10 +601,14 @@ http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8
 http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima COOL SK (Alt.)
 http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima KRIMI CZ
+http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima KRIMI SK
 http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima LOVE SK
 http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Prima MAX
+http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima SHOW
 http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima STAR
@@ -601,6 +621,8 @@ http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
 https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Relax
 https://dash2.antik.sk/live/test_relax/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Seznam.cz TV
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Spektrum
@@ -1499,12 +1521,6 @@ https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1 group-title="RÔZNE 1",Singapur: Channel 8 (Čínsky)
 https://cdn.qd.je/163189/ch8
 
-#EXTINF:-1 group-title="RÔZNE 1",Indonézia: TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:-1 group-title="RÔZNE 1",Indonézia: Ahsan TV
-https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
-
 #EXTINF:-1 group-title="RÔZNE 1",Slovinsko: TV SLO 1
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
 
@@ -1540,6 +1556,12 @@ http://88.212.15.19/live/mb_hits/index.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Music Box Sexy
 http://88.212.15.19/live/mb_sexy/index.m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",360 TuneBox
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Stingray iConcerts
+https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 
 
 
@@ -1754,11 +1776,14 @@ https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="Nemecké",RTL
 http://5.180.164.197:8080/RTL/index.m3u8
 
-#EXTINF:-1 group-title="Nemecké",ProSieben
-https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Nemecké",SAT.1
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Nemecké",ProSieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",Kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
@@ -1786,6 +1811,9 @@ https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",Welt
 https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Nemecké",n-tv
+https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",Sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
@@ -1844,6 +1872,15 @@ https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 
 #EXTINF:-1 group-title="Angličtina",SuperYacht TV
 https://dash2.antik.sk/live/test_superyacht/playlist.m3u8
+
+#EXTINF:-1 group-title="Angličtina",DocuBox
+https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Angličtina",Fast&FunBox
+https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Angličtina",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
@@ -1908,3 +1945,52 @@ https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 group-title="Ukrajinské",1+1 International
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+
+
+
+### INDONÉZSKE ###
+
+#EXTINF:-1 group-title="Indonézske",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",dTVi
+https://e.siar.us/live/dtvi.m3u8
+#EXTINF:-1 group-title="Indonézske",Efarina TV
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+#EXTINF:-1 group-title="Indonézske",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+#EXTINF:-1 group-title="Indonézske",Indonesiana.TV
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1 group-title="Indonézske",Jambi TV
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
+#EXTINF:-1 group-title="Indonézske",Jawa Pos TV Jakarta
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",JTV Surabaya
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",JTV Kediri HD
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",Kawanua TV
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 group-title="Indonézske",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w486454319_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="Indonézske",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",Salam TV
+https://live.salamtelevisi.com/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Indonézske",Salira TV
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+#EXTINF:-1 group-title="Indonézske",Stara TV
+https://stream.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Indonézske",Stara TV Jakarta
+https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Indonézske",Stara TV Bandung
+https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Indonézske",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10000-mp4a_96000_eng=20000.m3u8
+#EXTINF:-1 group-title="Indonézske",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10001-mp4a_96000=20001.m3u8
