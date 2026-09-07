@@ -1952,6 +1952,8 @@ https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonézske",Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",Balikpapan TV
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",BRTV
@@ -1990,6 +1992,10 @@ https://stream.staratv.id/hls/0/stream.m3u8
 https://jakarta.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Indonézske",Stara TV Bandung
 https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Indonézske",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 group-title="Indonézske",TV9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10000-mp4a_96000_eng=20000.m3u8
 #EXTINF:-1 group-title="Indonézske",TVRI Jakarta
