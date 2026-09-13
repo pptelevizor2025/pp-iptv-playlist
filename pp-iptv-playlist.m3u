@@ -391,22 +391,22 @@ http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
 https://stream.tvlux.sk/luxtv/luxtv-livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Kanal 1
-https://dash2.antik.sk/live/test_upnetwork/playlist.m3u8
+https://dash4.antik.sk/live/test_upnetwork/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Kanal 1 (Alt.)
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Kanal 1 Sport
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1 group-title="2 - Slovenské",Kanal 1 Xtra
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Park TV
 https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Skvelé TV
 https://dash2.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Arena Sport 1
-http://88.212.15.19/live/test_arenasport/playlist.m3u8
-
-#EXTINF:-1 group-title="2 - Slovenské",Arena Sport 2
-http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",TV Paprika (SK/CZ)
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
@@ -469,6 +469,8 @@ http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",BBC Earth Czechia
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Canal+ Action
+http://185.188.188.237:5000/live/canalaction/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Cartoon Network
 https://dash4.antik.sk/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Cartoonito
@@ -515,21 +517,25 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
 #EXTINF:-1 group-title="3 - České",Elektrika TV
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Eurosport 1 CZ
+http://185.188.188.237:5000/live/eurosport/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Eurosport 2 CZ
+http://185.188.188.237:5000/live/eurosport2/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Eurosport 4K CZ
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Filmbox+ One
+#EXTINF:-1 group-title="3 - České",Filmbox+ one
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",FilmBox Arthouse
+#EXTINF:-1 group-title="3 - České",FilmBox+ festival
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",FilmBox Extra
+#EXTINF:-1 group-title="3 - České",FilmBox+ emotion
 http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",FilmBox Family
+#EXTINF:-1 group-title="3 - České",FilmBox+ comedy
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",FilmBox Premium
+#EXTINF:-1 group-title="3 - České",FilmBox+ hits
 http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",FilmBox Stars
+#EXTINF:-1 group-title="3 - České",FilmBox+ love&crime
 http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Fishing and Hunting
 http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
@@ -581,6 +587,16 @@ http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
 http://88.212.15.19/live/nova_gold_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Nova Lady
 http://88.212.15.19/live/test_nova_lady_hevc_25p/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Sport 1
+http://185.188.188.237:5000/live/novasport1/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Sport 2
+http://185.188.188.237:5000/live/novasport2/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Sport 3
+http://185.188.188.237:5000/live/novasport3/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Sport 4
+http://185.188.188.237:5000/live/novasport4/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Sport 5
+http://185.188.188.237:5000/live/novasport5/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko
 http://88.212.15.19/live/test_ocko/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko Black
@@ -904,6 +920,9 @@ http://stream.mcquack.net/227/index.m3u8
 #EXTINF:-1 group-title="Ruské",ТВ-3
 http://stream.mcquack.net/136/index.m3u8
 
+#EXTINF:-1 group-title="Ruské",Победа
+https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
+
 #EXTINF:-1 tvg-id="karusel" group-title="Ruské",Карусель
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 
@@ -912,6 +931,9 @@ http://stream.mcquack.net/120/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Солнце
 http://stream.mcquack.net/118/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",В гостях у сказки
+http://stream.mcquack.net/93/index.m3u8
 
 #EXTINF:-1 group-title="Ruské",Дом Кино
 http://stream.mcquack.net/236/index.m3u8
@@ -936,6 +958,9 @@ http://stream.mcquack.net/110/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Ruské",viju TV1000 action
 http://stream.mcquack.net/100/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",viju TV1000 русское
+https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="viasat-explore" group-title="Ruské",viju Explore
 http://stream.mcquack.net/239/index.m3u8
@@ -1119,10 +1144,12 @@ http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 
 #EXTINF:-1 group-title="Ruské",РУ.ТВ
 https://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/TemRbCDlGFWWOXyq7vr2Dg/1789839000/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
-# ZALOHA >>> https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 
 #EXTINF:-1 group-title="Ruské",РУ.ТВ (Alt.)
 http://stream.mcquack.net/109/index.m3u8
+
+#EXTINF:-1 group-title="Ruské",РУ.ТВ (Alt.2)
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 
 #EXTINF:-1 group-title="Ruské",Russian MusicBox
 http://stream.mcquack.net/319/index.m3u8
@@ -1180,6 +1207,27 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 tvg-id="pervy-krymsky" group-title="Ruské",Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+
+#EXTINF:-1 group-title="Ruské",Запад 24 (Калининград)
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Башкортостан 24
+https://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/sczt_LiGeSwE2ix3DytEjQ/1789927626/cf7e6ad2c24ce743b5b60478c176037b/1080p_stream.m3u8
+
+#EXTINF:-1 group-title="Ruské",Башкортостан 24 (Alt.)
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=YegQ4ILAzzmwHE6JLpr1PA&e=2089322476&scheme=https
+
+#EXTINF:-1 group-title="Ruské",Енисей (Красноярск)
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Телеканал Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské",С1 (Сургут)
+https://sitv.ru/vgtrk/stv.m3u8
 
 #EXTINF:-1 tvg-id="tv-brics" group-title="Ruské",TV BRICS Russian
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
@@ -1515,6 +1563,9 @@ https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Krb: TV Piánko
 https://dash2.antik.sk/live/test_pianko/playlist.m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Akvárium
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
 #EXTINF:-1 group-title="RÔZNE 1",Bosna: Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
@@ -1885,6 +1936,9 @@ https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Angličtina",GTTV
+https://stream.ostv.sk/GTTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Angličtina",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
