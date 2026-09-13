@@ -1078,9 +1078,6 @@ http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" group-title="Ruské",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bolshaya-azia" group-title="Ruské",Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Ruské",Travel+Adventure
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 
@@ -1121,7 +1118,8 @@ http://stream.mcquack.net/86/index.m3u8
 http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 
 #EXTINF:-1 group-title="Ruské",РУ.ТВ
-http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/ZxhSMWkGsUyd1ZAVPe6pvg/1789110024/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
+https://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/TemRbCDlGFWWOXyq7vr2Dg/1789839000/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
+# ZALOHA >>> https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 
 #EXTINF:-1 group-title="Ruské",РУ.ТВ (Alt.)
 http://stream.mcquack.net/109/index.m3u8
@@ -1145,7 +1143,10 @@ http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské",Жар-Птица
-http://river-3-311.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/uDfMxPt2NyZI3tqThLeUsA/1789111974/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
+https://river-1.rutube.ru/stream/genetta-402.ntv.rutube.ru/o-qUbAkABbR6OrjuxMQ5Lg/1789839230/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
+
+#EXTINF:-1 group-title="Ruské",Жар-Птица (Alt.)
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=OtsiWAcSqeTBIQS-BCQB_A&e=2089234960&scheme=https
 
 #EXTINF:-1 group-title="Ruské",Радио Песни от всей души
 https://hls-01-povd.hostingradio.ru/povd/160/playlist.m3u8
@@ -1159,10 +1160,10 @@ http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 group-title="Ruské",РБК ТВ
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="360-news" group-title="Ruské",Смотрим 360° Новости
+#EXTINF:-1 tvg-id="360-news" group-title="Ruské",360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Ruské",Смотрим 360°
+#EXTINF:-1 group-title="Ruské",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="moskva-24" group-title="Ruské",Москва 24
@@ -1185,6 +1186,9 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cctv-ru" group-title="Ruské",CGTN Russian
 https://dash2.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bolshaya-azia" group-title="Ruské",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Ruské",Спас
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
@@ -2000,3 +2004,21 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10000-mp4a_96000_eng=20000.m3u8
 #EXTINF:-1 group-title="Indonézske",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10001-mp4a_96000=20001.m3u8
+
+
+
+### -------------------------
+
+#EXTINF:-1 group-title="Test",JOJ24 - 1
+https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8|Referer=https://media.joj.sk/
+
+#EXTINF:-1 group-title="Test",JOJ24 - 2
+https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8|referer=https://media.joj.sk/
+
+#EXTINF:-1 group-title="Test",JOJ24 - 3
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
+
+#EXTINF:-1 group-title="Test",JOJ Šport 2
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_sport2-1080.m3u8
