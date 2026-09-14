@@ -1,6 +1,6 @@
 #EXTM3U
 
-### 1 - Čínske kanály ###
+# 1 - Čínske kanály
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 (Všeobecný)
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -316,7 +316,7 @@ https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 
 
 
-### 2 - Slovenské kanály ###
+# 2 - Slovenské kanály
 
 #EXTINF:-1 group-title="2 - Slovenské",Jojko
 http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
@@ -443,7 +443,7 @@ https://dash2.antik.sk/live/test_nrsr/playlist.m3u8
 
 
 
-### 3 - České kanály ###
+# 3 - České kanály
 
 #EXTINF:-1 group-title="3 - České",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
@@ -668,16 +668,17 @@ http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
 
 
 
-### 4 - Kamery ###
+# 4 - Kamery
 
 #EXTINF:-1 group-title="4 - Kamery",Kuvikov balkón
 https://kukaj.profi-net.sk/live/KUVIKCIFER2.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Kuvikova obývačka
 https://kukaj.profi-net.sk/live/KUVIKCIFER1.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá (vnútri)
-https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá (vonku)
-https://kukaj.profi-net.sk/live/PLAMIENKA2.stream/playlist.m3u8
+
+# ZALOHA: Plamienka driemavá (vnútri)
+# ZALOHA: https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/playlist.m3u8
+# ZALOHA: Plamienka driemavá (vonku)
+# ZALOHA: https://kukaj.profi-net.sk/live/PLAMIENKA2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="4 - Kamery",Bociany: Bešeňová
 https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/playlist.m3u8
@@ -713,12 +714,8 @@ https://kukaj.profi-net.sk/live/KAMZIKY.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Les: Medvede 
 https://kukaj.profi-net.sk/live/LES_MACO.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="4 - Kamery",Drozd Maty
-https://kukaj.profi-net.sk/live/DROZD.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Piťkov apartmán
 https://kukaj.profi-net.sk/live/BUDKALS.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Apartmán SSD 2
-https://kukaj.profi-net.sk/live/SOKOLSSD2.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Apartmán 1 Modrá
 https://kukaj.profi-net.sk/live/DRAVCE_MODRA1.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Apartmán 5 Modrá
@@ -753,7 +750,6 @@ https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Košice Nad Jazerom
 https://dash2.antik.sk/live/test_jazero_plocha/playlist.m3u8
 
-
 #EXTINF:-1 group-title="4 - Kamery",Letisko Praha
 https://dash2.antik.sk/live/test_plane_spotting_atk_tv/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Letisko Praha (Alt.)
@@ -761,7 +757,7 @@ http://live.idnes.cz/slow/planespotting/playlist.m3u8
 
 
 
-### 5 - Kamery:  ZOO ###
+# 5 - Kamery:  ZOO
 
 #EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Pandy
 https://zssd-panda2024.hls.camzonecdn.com/CamzoneStreams/zssd-panda2024/Playlist.m3u8
@@ -834,7 +830,7 @@ http://live.idnes.cz/slow/hrosi/playlist.m3u8
 
 
 
-### Maďarské kanály ###
+# Maďarské kanály
 
 #EXTINF:-1 group-title="Maďarské",ATV
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
@@ -1021,7 +1017,7 @@ http://88.212.15.19/live/zenebutik/index.m3u8
 
 
 
-### Španielske kanály ###
+# Španielske kanály
 
 #EXTINF:-1 group-title="Španielske",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
@@ -1047,7 +1043,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="Španielske",CGTN Spanish
 https://dash2.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 
-### Španielske latinskoamerické kanály ###
+# Španielske latinskoamerické kanály
 
 #EXTINF:-1 group-title="Španielske latinskoamerické",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -1057,7 +1053,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 
 
-### Talianske kanály ###
+# Talianske kanály
 
 #EXTINF:-1 group-title="Talianske",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -1091,7 +1087,7 @@ https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 
 
 
-### FRANCÚZSKE ###
+# FRANCÚZSKE
 
 #EXTINF:-1 group-title="Francúzske",TF1
 http://5.180.164.197:8080/TF1/index.m3u8
@@ -1185,7 +1181,7 @@ https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
 
 
 
-### NEMECKÉ ###
+# NEMECKÉ
 
 #EXTINF:-1 group-title="Nemecké",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
@@ -1249,7 +1245,7 @@ https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 
 
 
-### ANGLIČTINA ###
+# ANGLIČTINA
 
 #EXTINF:-1 group-title="Angličtina",Newsmax TV
 https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
@@ -1316,7 +1312,7 @@ https://dash2.antik.sk/live/lingotoons/index.m3u8
 
 
 
-### Kazachstan ###
+# Kazachstan
 
 #EXTINF:-1 group-title="Kazachstan",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
@@ -1344,7 +1340,7 @@ https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 
 
 
-### UKRAJINSKÉ ###
+# UKRAJINSKÉ
 
 #EXTINF:-1 group-title="Ukrajinské",1+1 Україна
 http://stream.mcquack.net/219/index.m3u8
@@ -1399,7 +1395,7 @@ https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 
 
 
-### INDONÉZSKE ###
+# INDONÉZSKE
 
 #EXTINF:-1 group-title="Indonézske",Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
@@ -1454,7 +1450,7 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10001-mp4a_960
 
 
 
-### RÔZNE 1 ###
+# RÔZNE 1
 
 #EXTINF:-1 group-title="RÔZNE 1",Krb: TV Piánko
 https://dash2.antik.sk/live/test_pianko/playlist.m3u8
@@ -1515,7 +1511,7 @@ https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 
 
 
-### RÔZNE 2 ###
+# RÔZNE 2
 
 #EXTINF:-1 group-title="RÔZNE 2",Regio TV (po maďarsky)
 https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
@@ -1621,7 +1617,7 @@ https://dash2.antik.sk/live/test_locall/playlist.m3u8
 
 
 
-### Bieloruské kanály ###
+# Bieloruské kanály
 
 #EXTINF:-1 tvg-id="pervy-info-by" group-title="Bieloruské",Первый информационный
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
@@ -1646,7 +1642,7 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 
 
-### Ruské kanály - federálne ###
+# Ruské kanály - federálne
 
 #EXTINF:-1 tvg-id="rossia1" group-title="Ruské federálne",Россия 1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
@@ -1728,7 +1724,7 @@ http://stream.mcquack.net/118/index.m3u8
 
 
 
-### Ruské kanály - regionálne ###
+# Ruské kanály - regionálne
 
 #EXTINF:-1 tvg-id="moskva-24" group-title="Ruské regionálne",Москва 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
@@ -1780,7 +1776,7 @@ https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/track_105_7cd61590/ch
 
 
 
-### Ruské kanály - tematické - FILMY A SERIÁLY ###
+# Ruské kanály - tematické - FILMY A SERIÁLY
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Ruské tematické FILMY A SERIÁLY",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
@@ -1913,7 +1909,7 @@ https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 
 
 
-### Ruské kanály - tematické - RÔZNE ###
+# Ruské kanály - tematické - RÔZNE
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",РБК ТВ
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
