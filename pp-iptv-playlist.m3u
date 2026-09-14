@@ -1209,7 +1209,7 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 #EXTINF:-1 group-title="Ruské",Запад 24 (Калининград)
-http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/playlist.m3u8
+http://live-vestikaliningrad.cdnvideo.ru/vestikaliningrad/vestikaliningrad.sdp/chunklist.m3u8?hls_proxy_host=69bebf17ade794ec3bc10f753ca8a154
 
 #EXTINF:-1 group-title="Ruské",Башкортостан 24
 https://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/sczt_LiGeSwE2ix3DytEjQ/1789927626/cf7e6ad2c24ce743b5b60478c176037b/1080p_stream.m3u8
