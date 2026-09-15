@@ -1,177 +1,297 @@
 #EXTM3U
 
+# Akvárium
+
+#EXTINF:-1 group-title="Akvárium",Akvárium
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+
+
+
 # 1 - Čínske kanály
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 (Všeobecný)
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 (Alt.) (Všeobecný)
+# INFO: --------------------------------------------
+# INFO: 1) 74.91.26.218 — ~128–130 ms (0% loss)
+# INFO: 2) 63.141.230.178 — ~131–135 ms (0,2% loss)
+# INFO: 3) 38.75.136.137 — ~159–161 ms (0% loss)
+# INFO: --------------------------------------------
+# INFO: na 38.75.136.137 mozu byt tieto kombinacie /dsdqpub/cctv5p.m3u8?auth=testpub ALEBO /dsdqbv/cctv5p.m3u8?auth=test20251009
+# INFO: --------------------------------------------
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 ❶ (Všeobecný)
 http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 ❷ (Všeobecný)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 ❸ (Všeobecný)
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-2 财经 (Ekonomika)
-http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-2 财经 (Alt.) (Ekonomika)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-2 财经 ❶ (Ekonomika)
 http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-2 财经 ❷ (Ekonomika)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-2 财经 ❸ (Ekonomika)
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-3 综艺 (Zábava)
-http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-3 综艺 (Alt.) (Zábava)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-3 综艺 ❶ (Zábava)
 http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-3 综艺 ❷ (Zábava)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-3 综艺 ❸ (Zábava)
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-4 Europe 中文国际欧洲版 (Čínsky medzinárodný)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-4 Europe 中文国际欧洲版 ◯ (Čínsky medzinárodný)
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-4 Asia 中文国际亚洲版 (Čínsky medzinárodný)
-http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-4 Asia 中文国际亚洲版 (Alt.) (Čínsky medzinárodný)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-4 Asia 中文国际亚洲版 ❶ (Čínsky medzinárodný)
 http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-4 Asia 中文国际亚洲版 ❷ (Čínsky medzinárodný)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-4 Asia 中文国际亚洲版 ❸ (Čínsky medzinárodný)
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-4K 央视4K
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-4K 央视4K ❷ (Filmy, šport, dokumenty)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
+#EXTINF:-1 group-title="1 - Čínske",CCTV-4K 央视4K ❸ (Filmy, šport, dokumenty)
+http://38.75.136.137:98/gslb/dsdqbv/cctv4k.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-5 体育 (Šport)
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-5 体育 (Alt.) (Šport)
-http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-5 体育 ❸ (Šport)
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-5+ 体育赛事 (Športové prenosy)
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-5+ 体育赛事 (Alt.) (Športové prenosy)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-5+ 体育赛事 ❸ (Športové prenosy)
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-6 电影 (Filmy)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-6 电影 ❷ (Filmy)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-6 电影 ❸ (Filmy)
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="1 - Čínske",CCTV-6 电影 (Alt.) (Filmy)
-http://69.30.245.50/live/cctv6.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-7 国防军事 (Obrana a armáda)
-http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-7 国防军事 (Alt.) (Obrana a armáda)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-7 国防军事 ❶ (Obrana a armáda)
 http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-7 国防军事 ❷ (Obrana a armáda)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-7 国防军事 ❸ (Obrana a armáda)
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-8 电视剧 (Seriály)
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="1 - Čínske",CCTV-8 电视剧 (Alt.) (Seriály)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-8 电视剧 ❶ (Seriály)
 http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-8 电视剧 ❷ (Seriály)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-8 电视剧 ❸ (Seriály)
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-9 纪录 (Dokumentárny)
-http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-9 纪录 (Alt.) (Dokumentárny)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-9 纪录 ❶ (Dokumentárny)
 http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-9 纪录 ❷ (Dokumentárny)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-9 纪录 ❸ (Dokumentárny)
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-10 科教 (Veda a vzdelávanie)
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-10 科教 (Alt.) (Veda a vzdelávanie)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-10 科教 ❶ (Veda a vzdelávanie)
 http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-10 科教 ❷ (Veda a vzdelávanie)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-10 科教 ❸ (Veda a vzdelávanie)
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-11 戏曲 (Čínska opera a divadlo)
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-11 戏曲 (Alt.) (Čínska opera a divadlo)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-11 戏曲 ❶ (Čínska opera a divadlo)
 http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-11 戏曲 ❷ (Čínska opera a divadlo)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-11 戏曲 ❸ (Čínska opera a divadlo)
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-12 社会与法 (Spoločnosť a právo)
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-12 社会与法 (Alt.) (Spoločnosť a právo)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-12 社会与法 ❶ (Spoločnosť a právo)
 http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-12 社会与法 ❷ (Spoločnosť a právo)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-12 社会与法 ❸ (Spoločnosť a právo)
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-13 新闻 (Správy)
-http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-13 新闻 (Alt.) (Správy)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-13 新闻 ❶ (Správy)
 http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-13 新闻 ❷ (Správy)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-13 新闻 ❸ (Správy)
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-14 少儿 (Detský)
-http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-14 少儿 (Alt.) (Detský)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-14 少儿 ❶ (Detský)
 http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-14 少儿 ❷ (Detský)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-14 少儿 ❸ (Detský)
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-15 音乐 (Hudba)
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="1 - Čínske",CCTV-15 音乐 (Alt.) (Hudba)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-15 音乐 ❶ (Hudba)
 http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-15 音乐 ❷ (Hudba)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-15 音乐 ❸ (Hudba)
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-16 奥林匹克 (Olympijský šport)
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="1 - Čínske",CCTV-16 奥林匹克 (Alt.) (Olympijský šport)
-http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-16 奥林匹克 ❸ (Olympijský šport)
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-17 农业农村 (Poľnohospodárstvo a vidiek)
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="1 - Čínske",CCTV-17 农业农村 (Alt.) (Poľnohospodárstvo a vidiek)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-17 农业农村 ❶ (Poľnohospodárstvo a vidiek)
 http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="1 - Čínske",CCTV-17 农业农村 ❷ (Poľnohospodárstvo a vidiek)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+#EXTINF:-1 group-title="1 - Čínske",CCTV-17 农业农村 ❸ (Poľnohospodárstvo a vidiek)
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-卫生健康 (Zdravie a životný štýl)
-http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",CCTV-卫生健康 (Alt.) (Zdravie a životný štýl)
+#EXTINF:-1 group-title="1 - Čínske",CCTV-卫生健康 ❷ (Zdravie a životný štýl)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
+#EXTINF:-1 group-title="1 - Čínske",CCTV-卫生健康 ❸ (Zdravie a životný štýl)
 http://38.75.136.137:98/gslb/dsdqbv/wsjk.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-世界地理 (Svetová geografia)
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-世界地理 ❷ (Svetová geografia)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+#EXTINF:-1 group-title="1 - Čínske",CCTV-世界地理 ❸ (Svetová geografia)
+http://38.75.136.137:98/gslb/dsdqbv/sjdl.m3u8?`auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-央视文化精品 (Kultúra a dokumenty)
-http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-央视文化精品 ❷ (Kultúra a dokumenty)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+#EXTINF:-1 group-title="1 - Čínske",CCTV-央视文化精品 ❸ (Kultúra a dokumenty)
+http://38.75.136.137:98/gslb/dsdqbv/ysjp.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-老故事 (Historické dokumenty)
-http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-老故事 ❷ (Historické dokumenty)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
+#EXTINF:-1 group-title="1 - Čínske",CCTV-老故事 ❸ (Historické dokumenty)
+http://38.75.136.137:98/gslb/dsdqbv/lgs.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-兵器科技 (Zbrane a technológie)
-http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-兵器科技 ❷ (Zbrane a technológie)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
+#EXTINF:-1 group-title="1 - Čínske",CCTV-兵器科技 ❸ (Zbrane a technológie)
+http://38.75.136.137:98/gslb/dsdqbv/gfjs.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-女性时尚 (Dámska móda)
-http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-女性时尚 ❷ (Dámska móda)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+#EXTINF:-1 group-title="1 - Čínske",CCTV-女性时尚 ❸ (Dámska móda)
+http://38.75.136.137:98/gslb/dsdqbv/nxss.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-怀旧剧场 (Klasické filmy a seriály)
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-怀旧剧场 ❷ (Klasické filmy a seriály)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
+#EXTINF:-1 group-title="1 - Čínske",CCTV-怀旧剧场 ❸ (Klasické filmy a seriály)
+http://38.75.136.137:98/gslb/dsdqbv/hjjc.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-风云剧场 (Filmy a seriály)
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-风云剧场 ❷ (Filmy a seriály)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
+#EXTINF:-1 group-title="1 - Čínske",CCTV-风云剧场 ❸ (Filmy a seriály)
+http://38.75.136.137:98/gslb/dsdqbv/fyjc.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-第一剧场 (Prémiové filmy)
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-第一剧场 ❷ (Prémiové filmy)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
+#EXTINF:-1 group-title="1 - Čínske",CCTV-第一剧场 ❸ (Prémiové filmy)
+http://38.75.136.137:98/gslb/dsdqbv/dyjc.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-风云音乐 (Hudba)
-http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-风云音乐 ❷ (Hudba)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+#EXTINF:-1 group-title="1 - Čínske",CCTV-风云音乐 ❸ (Hudba)
+http://38.75.136.137:98/gslb/dsdqbv/fyyy.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-央视台球 (Biliard)
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-央视台球 ❷ (Biliard)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
+#EXTINF:-1 group-title="1 - Čínske",CCTV-央视台球 ❸ (Biliard)
+http://38.75.136.137:98/gslb/dsdqbv/ystq.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-高尔夫网球 (Golf a tenis)
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-高尔夫网球 ❷ (Golf a tenis)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
+#EXTINF:-1 group-title="1 - Čínske",CCTV-高尔夫网球 ❸ (Golf a tenis)
+http://38.75.136.137:98/gslb/dsdqbv/gefwq.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CCTV-风云足球 (Futbal)
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CCTV-风云足球 ❷ (Futbal)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+#EXTINF:-1 group-title="1 - Čínske",CCTV-风云足球 ❸ (Futbal)
+http://38.75.136.137:98/gslb/dsdqbv/fyzq.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CETV-1 中国教育1 (Všeobecné vzdelávanie)
-http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CETV-1 中国教育1 ❷ (Všeobecné vzdelávanie)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
+#EXTINF:-1 group-title="1 - Čínske",CETV-1 中国教育1 ❸ (Všeobecné vzdelávanie)
+http://38.75.136.137:98/gslb/dsdqbv/cetv1hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CETV-2 中国教育2 (Vzdelávanie na diaľku)
-http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CETV-2 中国教育2 ❷ (Vzdelávanie na diaľku)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv2
+#EXTINF:-1 group-title="1 - Čínske",CETV-2 中国教育2 ❸ (Vzdelávanie na diaľku)
+http://38.75.136.137:98/gslb/dsdqbv/cetv2.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CETV-3 中国教育3 (Vzdelávanie Peking)
-http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CETV-3 中国教育3 ❷ (Vzdelávanie Peking)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
+#EXTINF:-1 group-title="1 - Čínske",CETV-3 中国教育3 ❸ (Vzdelávanie Peking)
+http://38.75.136.137:98/gslb/dsdqbv/cetv3.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CETV-4 中国教育4 (Odborné vzdelávanie)
-http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CETV-4 中国教育4 ❷ (Odborné vzdelávanie)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv4
+#EXTINF:-1 group-title="1 - Čínske",CETV-4 中国教育4 ❸ (Odborné vzdelávanie)
+http://38.75.136.137:98/gslb/dsdqbv/cetv4.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CHC家庭影院 (CHC Domáce kino)
-http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CHC家庭影院 ❷ (CHC Domáce kino)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
+#EXTINF:-1 group-title="1 - Čínske",CHC家庭影院 ❸ (CHC Domáce kino)
+http://38.75.136.137:98/gslb/dsdqbv/chcjt.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CHC动作电影 (CHC Akčné filmy)
-http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CHC动作电影 ❷ (CHC Akčné filmy)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
+#EXTINF:-1 group-title="1 - Čínske",CHC动作电影 ❸ (CHC Akčné filmy)
+http://38.75.136.137:98/gslb/dsdqbv/chcdz.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",CHC影迷电影 (CHC Filmy pre filmových fanúšikov)
-http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",CHC影迷电影 ❷ (CHC Filmy pre filmových fanúšikov)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
+#EXTINF:-1 group-title="1 - Čínske",CHC影迷电影 ❸ (CHC Filmy pre filmových fanúšikov)
+http://38.75.136.137:98/gslb/dsdqbv/chchd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="1 - Čínske",优漫卡通 (Youman Kreslené filmy)
-http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",优漫卡通 ❷ (Youman Kreslené filmy)
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ymkt
+#EXTINF:-1 group-title="1 - Čínske",优漫卡通 ❸ (Youman Kreslené filmy)
+http://38.75.136.137:98/gslb/dsdqbv/ymkt.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="1 - Čínske",███████████████████████████
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+
+#EXTINF:-1 group-title="1 - Čínske",Beijing TV 北京卫视 ❷
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
+#EXTINF:-1 group-title="1 - Čínske",Beijing TV 北京卫视 ❸
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="1 - Čínske",Zhejiang TV 浙江卫视 ❷
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
+#EXTINF:-1 group-title="1 - Čínske",Zhejiang TV 浙江卫视 ❸
+http://38.75.136.137:98/gslb/dsdqbv/zjwshd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="1 - Čínske",Hunan TV 湖南卫视 ❷
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
+#EXTINF:-1 group-title="1 - Čínske",Hunan TV 湖南卫视 ❸
+http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="1 - Čínske",Hunan TV 湖南卫视 ◯
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",Jiangsu TV 江苏卫视 ❷
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+#EXTINF:-1 group-title="1 - Čínske",Jiangsu TV 江苏卫视 ❸
+http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="1 - Čínske",Shanghai Dragon TV 上海东方卫视 ❷
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+#EXTINF:-1 group-title="1 - Čínske",Shanghai Dragon TV 上海东方卫视 ❸
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="1 - Čínske",Guangdong TV 广东卫视 ❷
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
+#EXTINF:-1 group-title="1 - Čínske",Guangdong TV 广东卫视 ❸
+http://38.75.136.137:98/gslb/dsdqbv/gdwshd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="1 - Čínske",Shenzhen TV 深圳卫视 ❷
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
+#EXTINF:-1 group-title="1 - Čínske",Shenzhen TV 深圳卫视 ❸
+http://38.75.136.137:98/gslb/dsdqbv/szwshd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="1 - Čínske",Shandong TV 山东卫视 ❷
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
+#EXTINF:-1 group-title="1 - Čínske",Shandong TV 山东卫视 ❸
+http://38.75.136.137:98/gslb/dsdqbv/sdwshd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="1 - Čínske",███████████████████████████
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
 #EXTINF:-1 group-title="1 - Čínske",Anhui TV 安徽卫视
 http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",Beijing TV 北京卫视
-http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",Beijing TV 北京卫视 (Alt.)
-http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Bingtuan TV 兵团卫视
 http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
@@ -179,17 +299,11 @@ http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",Chongqing TV 重庆卫视
 http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",Dragon TV 东方卫视
-http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-
 #EXTINF:-1 group-title="1 - Čínske",Gansu TV 甘肃卫视
 http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Greater Bay Area TV 大湾区卫视
 http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",Guangdong TV 广东卫视
-http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Guangxi TV 广西卫视
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
@@ -215,17 +329,8 @@ http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",Hubei TV 湖北卫视
 http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",Hunan TV 湖南卫视 (Zábavný)
-http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",Hunan TV 湖南卫视 (Alt.) (Zábavný)
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-
 #EXTINF:-1 group-title="1 - Čínske",Inner Mongolia TV 内蒙古卫视
 http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",Jiangsu TV 江苏卫视
-http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Jiangxi TV 江西卫视
 http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
@@ -245,17 +350,11 @@ http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",Sansha TV 三沙卫视
 http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="1 - Čínske",Shandong TV 山东卫视
-http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
-
 #EXTINF:-1 group-title="1 - Čínske",Shaanxi TV 陕西卫视
 http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Shanxi TV 山西卫视
 http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",Shenzhen TV 深圳卫视
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Sichuan TV 四川卫视
 http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
@@ -277,9 +376,6 @@ http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Yunnan TV 云南卫视
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-
-#EXTINF:-1 group-title="1 - Čínske",Zhejiang TV 浙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Documentary
 https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
