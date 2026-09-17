@@ -17,6 +17,66 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 # INFO: na 38.75.136.137 mozu byt tieto kombinacie /dsdqpub/cctv5p.m3u8?auth=testpub ALEBO /dsdqbv/cctv5p.m3u8?auth=test20251009
 # INFO: --------------------------------------------
 
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-卫生健康 ❶ (Zdravie a životný štýl)
+http://38.75.136.137:98/gslb/dsdqbv/wsjk.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-卫生健康 ❸ (Zdravie a životný štýl)
+http://69.30.245.50/live/wsjk.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-13 新闻 ❶ (Správy)
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-13 新闻 ❷ (Správy)
+http://74.91.26.218:82/live/cctv13hd.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-9 纪录 ❶ (Dokumentárny)
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-9 纪录 ❷ (Dokumentárny)
+http://74.91.26.218:82/live/cctv9hd.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-10 科教 ❶ (Veda a vzdelávanie)
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-10 科教 ❷ (Veda a vzdelávanie)
+http://74.91.26.218:82/live/cctv10hd.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-17 农业农村 ❶ (Poľnohospodárstvo a vidiek)
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-17 农业农村 ❷ (Poľnohospodárstvo a vidiek)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-12 社会与法 ❶ (Spoločnosť a právo)
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-12 社会与法 ❷ (Spoločnosť a právo)
+http://74.91.26.218:82/live/cctv12hd.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",Beijing TV 北京卫视 ❶
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",Beijing TV 北京卫视 ❸
+http://69.30.245.50/live/bjwshd.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",Zhejiang TV 浙江卫视 ❶
+http://38.75.136.137:98/gslb/dsdqbv/zjwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",Zhejiang TV 浙江卫视 ❸
+http://69.30.245.50/live/zjwshd.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-世界地理 ❶ (Svetová geografia)
+http://38.75.136.137:98/gslb/dsdqbv/sjdl.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-世界地理 ❸ (Svetová geografia)
+http://69.30.245.50/live/sjdl.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-央视文化精品 ❶ (Kultúra a dokumenty)
+http://38.75.136.137:98/gslb/dsdqbv/ysjp.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-央视文化精品 ❸ (Kultúra a dokumenty)
+http://69.30.245.50/live/ysjp.m3u8
+
+#EXTINF:-1 group-title="1 - Čínske",CCTV-女性时尚 ❶ (Dámska móda)
+http://38.75.136.137:98/gslb/dsdqbv/nxss.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-女性时尚 ❸ (Dámska móda)
+http://69.30.245.50/live/nxss.m3u8
+
+
+#EXTINF:-1 group-title="1 - Čínske",███████████████████████████
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+
 #EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 ❶ (Všeobecný)
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="1 - Čínske",CCTV-1 综合 ❷ (Všeobecný)
@@ -118,9 +178,13 @@ http://69.30.245.50/live/wsjk.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-世界地理 ❶ (Svetová geografia)
 http://38.75.136.137:98/gslb/dsdqbv/sjdl.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-世界地理 ❸ (Svetová geografia)
+http://69.30.245.50/live/sjdl.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-央视文化精品 ❶ (Kultúra a dokumenty)
 http://38.75.136.137:98/gslb/dsdqbv/ysjp.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-央视文化精品 ❸ (Kultúra a dokumenty)
+http://69.30.245.50/live/ysjp.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-老故事 ❶ (Historické dokumenty)
 http://38.75.136.137:98/gslb/dsdqbv/lgs.m3u8?auth=test20251009
@@ -130,6 +194,8 @@ http://38.75.136.137:98/gslb/dsdqbv/gfjs.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-女性时尚 ❶ (Dámska móda)
 http://38.75.136.137:98/gslb/dsdqbv/nxss.m3u8?auth=test20251009
+#EXTINF:-1 group-title="1 - Čínske",CCTV-女性时尚 ❸ (Dámska móda)
+http://69.30.245.50/live/nxss.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-怀旧剧场 ❶ (Klasické filmy a seriály)
 http://38.75.136.137:98/gslb/dsdqbv/hjjc.m3u8?auth=test20251009
