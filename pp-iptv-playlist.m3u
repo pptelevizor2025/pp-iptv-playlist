@@ -16,6 +16,9 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 # INFO: --------------------------------------------
 # INFO: na 38.75.136.137 mozu byt tieto kombinacie /dsdqpub/cctv5p.m3u8?auth=testpub ALEBO /dsdqbv/cctv5p.m3u8?auth=test20251009
 # INFO: --------------------------------------------
+# INFO: este existuje aj http://207.56.13.146:81/cdnlive/cctv1.m3u8 | http://207.56.13.146:81/cdnlive/lyws.m3u8 | atd.
+# INFO: --------------------------------------------
+
 
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-卫生健康 ❶ (Zdravie a životný štýl)
@@ -59,7 +62,7 @@ http://38.75.136.137:98/gslb/dsdqbv/zjwshd.m3u8?auth=test20251009
 http://69.30.245.50/live/zjwshd.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",Zhejiang Qingtian TV 浙江青田电视台 ◯
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-世界地理 ❶ (Svetová geografia)
 http://38.75.136.137:98/gslb/dsdqbv/sjdl.m3u8?auth=test20251009
@@ -259,7 +262,7 @@ http://38.75.136.137:98/gslb/dsdqbv/zjwshd.m3u8?auth=test20251009
 http://69.30.245.50/live/zjwshd.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",Zhejiang Qingtian TV 浙江青田电视台 ◯
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",Hunan TV 湖南卫视 ❶
 http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
@@ -306,6 +309,9 @@ http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="1 - Čínske",Guizhou TV 贵州卫视
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="1 - Čínske",Hainan TV 海南卫视
+http://207.56.13.146:81/cdnlive/lyws.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",Harbin Comprehensive News Channel 哈尔滨新闻综合频道 (Správy)
 https://stream.hrbtv.net/xwzh/playlist.m3u8
