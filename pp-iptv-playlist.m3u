@@ -264,8 +264,6 @@ http://69.30.245.50/live/zjwshd.m3u8
 #EXTINF:-1 group-title="1 - Čínske",Zhejiang Qingtian TV 浙江青田电视台 ◯
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
-#EXTINF:-1 group-title="1 - Čínske",Hunan TV 湖南卫视 ❶
-http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="1 - Čínske",Hunan TV 湖南卫视 ❸
 http://69.30.245.50/live/hnwshd.m3u8
 #EXTINF:-1 group-title="1 - Čínske",Hunan TV 湖南卫视 ◯
@@ -290,25 +288,25 @@ http://38.75.136.137:98/gslb/dsdqbv/sdwshd.m3u8?auth=test20251009
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
 #EXTINF:-1 group-title="1 - Čínske",Anhui TV 安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/ahwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Bingtuan TV 兵团卫视
-http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/btws.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Chongqing TV 重庆卫视
-http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/cqwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Gansu TV 甘肃卫视
-http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/gswshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Greater Bay Area TV 大湾区卫视
-http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/nfws.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Guangxi TV 广西卫视
-http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/gxwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Guizhou TV 贵州卫视
-http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/gzwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Hainan TV 海南卫视
 http://207.56.13.146:81/cdnlive/lyws.m3u8
@@ -320,64 +318,64 @@ https://stream.hrbtv.net/xwzh/playlist.m3u8
 https://stream.hrbtv.net/yspd/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",Hebei TV 河北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/hewshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Heilongjiang TV 黑龙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/hljwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Henan TV 河南卫视
-http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/hawshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Hubei TV 湖北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/hbwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Inner Mongolia TV 内蒙古卫视
-http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/nmgws.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Jiangxi TV 江西卫视
-http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/jxwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Jilin TV 吉林卫视
-http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/jlwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Liaoning TV 辽宁卫视
-http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/lnwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Ningxia TV 宁夏卫视
-http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/nxws.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Qinghai TV 青海卫视
-http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/qhws.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Sansha TV 三沙卫视
-http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/ssws.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Shaanxi TV 陕西卫视
-http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/snwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Shanxi TV 山西卫视
-http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/sxwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Sichuan TV 四川卫视
-http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/scwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Southeast TV 东南卫视
-http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/dnwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Tianjin TV 天津卫视
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/tjwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Tibet TV 西藏卫视
-http://38.75.136.137:98/gslb/dsdqpub/xzws.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/xzws.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Xiamen TV 厦门卫视
-http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/xmws.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Xinjiang TV 新疆卫视
-http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/xjws.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",Yunnan TV 云南卫视
-http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/ynwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Documentary
 https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
