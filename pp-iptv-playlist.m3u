@@ -1716,25 +1716,28 @@ https://dash2.antik.sk/live/test_locall/playlist.m3u8
 # Bieloruské kanály
 
 #EXTINF:-1 tvg-id="pervy-info-by" group-title="Bieloruské",Первый информационный
-https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w590628662_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus1" group-title="Bieloruské",Беларусь 1
-https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w152663452_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus2" group-title="Bieloruské",Беларусь 2
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w1348182917_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus3" group-title="Bieloruské",Беларусь 3
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w999311153_b5160000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="belarus3" group-title="Bieloruské",Беларусь 4 Витебск
+https://edge51.dc.beltelecom.by/vtv/_definst_/bt4.stream/chunklist_w1160867783.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" group-title="Bieloruské",Беларусь 5 (Sport)
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1334256395_b2660000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus24" group-title="Bieloruské",Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24/chunklist_w394810512_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="stv-by" group-title="Bieloruské",СТВ Беларусь
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 
 
 
@@ -1759,9 +1762,15 @@ https://raw.githubusercontent.com/pptelevizor2025/ZZZ-Rossiya-K/main/Rossiya-K.m
 http://stream.mcquack.net/229/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy" group-title="Ruské federálne",Первый канал
+http://str2.iptvhd.ru:8080/Pervikanal/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="pervy" group-title="Ruské federálne",Первый канал (Alt.)
 http://178.217.49.7/1/index.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Ruské federálne",Пятый канал
+http://str2.iptvhd.ru:8080/5_kanal/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ruské federálne",Пятый канал International
 http://178.134.1.158:8081/5channel/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="Ruské federálne",НТВ
@@ -1791,11 +1800,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Ruské federálne",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8
 
-#EXTINF:-1 group-title="Ruské federálne",ТВ Центр (Alt.)
-http://hls127.freeott.top:8080/Tv_Center/video.m3u8
-
 #EXTINF:-1 group-title="Ruské federálne",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Ruské federálne",Пятница!
 http://stream.mcquack.net/181/index.m3u8
@@ -1817,6 +1823,27 @@ http://stream.mcquack.net/120/index.m3u8
 
 #EXTINF:-1 group-title="Ruské federálne",Солнце
 http://stream.mcquack.net/118/index.m3u8
+
+#EXTINF:-1 group-title="Ruské federálne",Матч!
+http://stream.mcquack.net/169/index.m3u8
+
+#EXTINF:-1 group-title="Ruské federálne",Матч! (Alt.)
+http://89.33.29.115:8080/Match_TV_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ruské federálne",Матч! Игра
+http://stream.mcquack.net/188/index.m3u8
+
+#EXTINF:-1 group-title="Ruské federálne",Матч! Игра (Alt.)
+http://89.33.29.115:8080/Match_Igra_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ruské federálne",Матч! Страна
+http://stream.mcquack.net/143/index.m3u8
+
+#EXTINF:-1 group-title="Ruské federálne",Матч! Боец
+http://stream.mcquack.net/112/index.m3u8
+
+#EXTINF:-1 group-title="Ruské federálne",Матч! Боец (Alt.)
+http://89.33.29.115:8080/Match_Boets/tracks-v1a1/mono.m3u8
 
 
 
@@ -1870,6 +1897,12 @@ https://live-gtrk.smotrim.ru/vgtrk/krasnoyarsk/sibir24-hd/track_105_e34bec23/chu
 #EXTINF:-1 group-title="Ruské regionálne",Восток 24
 https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/track_105_7cd61590/chunklist.m3u8
 
+#EXTINF:-1 group-title="Ruské regionálne",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ruské regionálne",Грозный
+https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+
 
 
 # Ruské kanály - tematické - FILMY A SERIÁLY
@@ -1880,11 +1913,8 @@ http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",А1
 http://stream.mcquack.net/117/index.m3u8
 
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",А1 (Alt.)
-http://hls127.freeott.top:8080/Amedia_1/video.m3u8
-
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",А2
-http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+http://str2.iptvhd.ru:8080/Amedia_2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Ruské tematické FILMY A SERIÁLY",viju+ Премьера
 http://stream.mcquack.net/202/index.m3u8
@@ -1912,9 +1942,6 @@ http://stream.mcquack.net/236/index.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Мосфильм Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
-
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Мосфильм Золотая коллекция (Alt.)
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",viju TV1000 русское
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
@@ -1946,17 +1973,14 @@ http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Кинопоказ
 http://stream.mcquack.net/64/index.m3u8
 
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Кинопоказ (Alt.)
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Наше Новое Кино
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
+http://str2.iptvhd.ru:8080/Nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Родное кино
 http://stream.mcquack.net/242/index.m3u8
 
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Наше Любимое Кино
-http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Любимое Кино
+http://46.32.176.50/lubimoekino/index.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Остросюжетное
 http://stream.mcquack.net/214/index.m3u8
@@ -1973,9 +1997,6 @@ http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",НСТ
 http://stream.mcquack.net/207/index.m3u8
 
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",НСТ (Alt.)
-http://hls127.freeott.top:8080/HCTV/video.m3u8
-
 #EXTINF:-1 tvg-id="shokiruyushchee" group-title="Ruské tematické FILMY A SERIÁLY",Шокирующее
 http://stream.mcquack.net/75/index.m3u8
 
@@ -1984,9 +2005,6 @@ http://stream.mcquack.net/412/index.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Индийское кино
 http://stream.mcquack.net/104/index.m3u8
-
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Наш Киномир
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 
 #EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="Ruské tematické FILMY A SERIÁLY",Наше Мужское
 http://stream.mcquack.net/362/index.m3u8
@@ -2032,9 +2050,6 @@ http://stream.mcquack.net/93/index.m3u8
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Ностальгия
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",Ностальгия (Alt.)
 http://176.118.197.101/Nostalgiya/index.m3u8
 
 #EXTINF:-1 tvg-id="doktor" group-title="Ruské tematické RÔZNE",Доктор
@@ -2046,8 +2061,8 @@ http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Кухня ТВ
 http://stream.mcquack.net/179/index.m3u8
 
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",Кухня ТВ (Alt.)
-http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 group-title="Ruské tematické RÔZNE",Food Time
+http://stream.mcquack.net/216/index.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Усадьба
 http://stream.mcquack.net/211/index.m3u8
@@ -2094,9 +2109,6 @@ http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Наука
 http://stream.mcquack.net/125/index.m3u8
 
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",Наука (Alt.)
-http://hls127.freeott.top:8080/NAUKA/video.m3u8
-
 #EXTINF:-1 tvg-id="smotrim-100-fakty" group-title="Ruské tematické RÔZNE",Смотрим 100% Факты
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 
@@ -2112,26 +2124,23 @@ http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Победа
 https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 group-title="Ruské tematické RÔZNE",viju+ sport
+http://stream.mcquack.net/333/index.m3u8
+
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",FON Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",FON Music (Alt.)
-http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",МУЗ-ТВ
 http://stream.mcquack.net/86/index.m3u8
 
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",МУЗ-ТВ (Alt.)
-http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
-
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",РУ.ТВ
-https://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/TemRbCDlGFWWOXyq7vr2Dg/1789839000/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/nGmSXMv9syf0c8P5eRu7zg/1790503762/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",РУ.ТВ (Alt.)
 http://stream.mcquack.net/109/index.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",РУ.ТВ (Alt.2)
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+http://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Russian MusicBox
 http://stream.mcquack.net/319/index.m3u8
@@ -2139,23 +2148,17 @@ http://stream.mcquack.net/319/index.m3u8
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Жара
 http://stream.mcquack.net/386/index.m3u8
 
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",Жара (Alt.)
-http://hls127.freeott.top:8080/Zhara/video.m3u8
-
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
-
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",Шансон ТВ (Alt.)
-http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Страна ТВ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Жар-Птица
-https://river-1.rutube.ru/stream/genetta-402.ntv.rutube.ru/o-qUbAkABbR6OrjuxMQ5Lg/1789839230/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-402.ntv.rutube.ru/VG5UIcNL9MbyzwePYEaY9A/1790503891/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Жар-Птица (Alt.)
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=OtsiWAcSqeTBIQS-BCQB_A&e=2089234960&scheme=https
+http://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=OtsiWAcSqeTBIQS-BCQB_A&e=2089234960
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Радио Песни от всей души
 https://hls-01-povd.hostingradio.ru/povd/160/playlist.m3u8
