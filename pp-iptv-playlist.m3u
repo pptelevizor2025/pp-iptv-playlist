@@ -771,10 +771,10 @@ https://kukaj.profi-net.sk/live/KUVIKCIFER2.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Kuvikova obývačka
 https://kukaj.profi-net.sk/live/KUVIKCIFER1.stream/playlist.m3u8
 
-# ZALOHA: Plamienka driemavá (vnútri)
-# ZALOHA: https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/playlist.m3u8
-# ZALOHA: Plamienka driemavá (vonku)
-# ZALOHA: https://kukaj.profi-net.sk/live/PLAMIENKA2.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá (vnútri)
+https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá (vonku)
+https://kukaj.profi-net.sk/live/PLAMIENKA2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="4 - Kamery",Bociany: Bešeňová
 https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/playlist.m3u8
@@ -1732,28 +1732,28 @@ https://dash2.antik.sk/live/test_locall/playlist.m3u8
 # Bieloruské kanály
 
 #EXTINF:-1 tvg-id="pervy-info-by" group-title="Bieloruské",Первый информационный
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w590628662_b5160000_sleng.m3u8
+https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus1" group-title="Bieloruské",Беларусь 1
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w152663452_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus2" group-title="Bieloruské",Беларусь 2
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2/chunklist_w1348182917_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus3" group-title="Bieloruské",Беларусь 3
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w999311153_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus3" group-title="Bieloruské",Беларусь 4 Витебск
-https://edge51.dc.beltelecom.by/vtv/_definst_/bt4.stream/chunklist_w1160867783.m3u8
+https://edge51.dc.beltelecom.by/vtv/_definst_/bt4.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" group-title="Bieloruské",Беларусь 5 (Sport)
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1334256395_b2660000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus24" group-title="Bieloruské",Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24/chunklist_w394810512_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="stv-by" group-title="Bieloruské",СТВ Беларусь
-https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+https://edge51.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist.m3u8
 
 
 
