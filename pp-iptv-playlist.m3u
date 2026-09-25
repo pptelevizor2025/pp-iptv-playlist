@@ -99,7 +99,7 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 http://74.91.26.218:82/live/cctv3hd.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-4 Europe 中文国际欧洲版 ◯ (Čínsky medzinárodný)
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CCTV-4 Asia 中文国际亚洲版 ❶ (Čínsky medzinárodný)
 http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
@@ -378,25 +378,25 @@ http://38.75.136.137:98/gslb/dsdqbv/xjws.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/ynwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Documentary
-https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn_doc/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN English
-https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN English (Alt.)
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Russian
-https://dash2.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Spanish
-https://dash2.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN French
-https://dash2.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Arabic
-https://dash2.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="1 - Čínske",CGTN Global Biz 环球财经 (Ekonomika)
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index_6.m3u8
@@ -418,16 +418,16 @@ https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Rik TV
-https://dash2.antik.sk/live/rik_atk/index.m3u8
+https://dash4.antik.sk/live/rik_atk/index.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",RiK TV (Alt.) 
 http://88.212.15.19/live/test_rik/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Turbo TV
-https://dash2.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+https://dash4.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Haha TV
-https://dash2.antik.sk/live/test_haha_tv/playlist.m3u8
+https://dash4.antik.sk/live/test_haha_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Jednotka STV 1
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
@@ -499,16 +499,16 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Park TV
-https://dash2.antik.sk/live/test_park_tv/playlist.m3u8
+https://dash4.antik.sk/live/test_park_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Skvelé TV
-https://dash2.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
+https://dash4.antik.sk/live/test_skvele_tv_fhd/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",TV Paprika (SK/CZ)
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",TV Doktor
-https://dash2.antik.sk/live/tv_doktor/index.m3u8
+https://dash4.antik.sk/live/tv_doktor/index.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",TV Doktor (Alt.)
 https://live.tvdoktor.sk/high/index.m3u8
@@ -523,26 +523,26 @@ http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
 https://stream-13.mazana.tv/slagroriginal.m3u8s
 
 #EXTINF:-1 group-title="2 - Slovenské",Šláger Muzika
-https://dash2.antik.sk/live/test_slagr_2_atk/playlist.m3u8
+https://dash4.antik.sk/live/test_slagr_2_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Šláger Premium
-https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+https://dash4.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Tanečné súťaže
-https://dash2.antik.sk/live/tanecnesutaze/index.m3u8
+https://dash4.antik.sk/live/tanecnesutaze/index.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",Tanečné súťaže (Alt.)
 http://88.212.15.19/live/tanecnesutaze/index.m3u8
 
 #EXTINF:-1 group-title="2 - Slovenské",NR SR
-https://dash2.antik.sk/live/test_nrsr/playlist.m3u8
+https://dash4.antik.sk/live/test_nrsr/playlist.m3u8
 
 
 
 # 3 - České kanály
 
 #EXTINF:-1 group-title="3 - České",A11
-https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+https://dash4.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",AMC
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Animal Planet
@@ -556,7 +556,7 @@ http://88.212.15.19/live/test_white/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Ballcasterz
 http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8
 #EXTINF:-1 group-title="3 - České",Barrandov Krimi
-https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Barrandov Krimi (Alt.)
 http://88.212.15.19/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Barrandov Kino
@@ -588,7 +588,7 @@ http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",ČT 2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",ČT 24
-https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+https://dash4.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",ČT 24 (Alt.)
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",ČT:D / ČT art
@@ -604,11 +604,11 @@ http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Disney Junior
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Duck TV
-https://dash2.antik.sk/live/duck_tv/index.m3u8
+https://dash4.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 group-title="3 - České",Duck TV (Alt.)
 http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Duck TV plus
-https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
+https://dash4.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",DVTV Extra
 https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
 #EXTINF:-1 group-title="3 - České",Elektrika TV
@@ -624,7 +624,7 @@ http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Filmbox+ one
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",FilmBox+ festival
-https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+https://dash4.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",FilmBox+ emotion
 http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",FilmBox+ comedy
@@ -696,7 +696,7 @@ http://185.188.188.237:5000/live/novasport5/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko
 http://88.212.15.19/live/test_ocko/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko Black
-https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+https://dash4.antik.sk/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko Black (Alt.)
 http://88.212.15.19/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko Expres
@@ -730,9 +730,9 @@ http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Prima ZOOM (Alt.)
 http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Rebel
-https://dash2.antik.sk/live/test_rebel/playlist.m3u8
+https://dash4.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Relax
-https://dash2.antik.sk/live/test_relax/playlist.m3u8
+https://dash4.antik.sk/live/test_relax/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Retro Music TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Seznam.cz TV
@@ -746,7 +746,7 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Sporty TV
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
+https://dash4.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1 group-title="3 - České",TLC
 http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Travel Channel
@@ -824,7 +824,7 @@ https://stream.profi-net.sk/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso (pohľad na Móryho vyhliadku)
 http://stream.strba.sk:1935/strba/MORYHO_VYH.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Gerlach (Vysoké Tatry)
-https://dash3.antik.sk/live/test_tatry/playlist.m3u8
+https://dash4.antik.sk/live/test_tatry/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Kriváň (Vysoké Tatry)
 https://stream.profi-net.sk/live/PERMON.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Skalnaté pleso (Vysoké Tatry)
@@ -844,10 +844,10 @@ https://stream.profi-net.sk/mb/MALINO2.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Rajecké Teplice
 https://stream.profi-net.sk/commercial/RAJECKETEPLICE.stream/chunklist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Košice Nad Jazerom
-https://dash2.antik.sk/live/test_jazero_plocha/playlist.m3u8
+https://dash4.antik.sk/live/test_jazero_plocha/playlist.m3u8
 
 #EXTINF:-1 group-title="4 - Kamery",Letisko Praha
-https://dash2.antik.sk/live/test_plane_spotting_atk_tv/playlist.m3u8
+https://dash4.antik.sk/live/test_plane_spotting_atk_tv/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Letisko Praha (Alt.)
 http://live.idnes.cz/slow/planespotting/playlist.m3u8
 
@@ -1137,7 +1137,7 @@ https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 group-title="Španielske",CGTN Spanish
-https://dash2.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 
 # Španielske latinskoamerické kanály
 
@@ -1152,10 +1152,10 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 # Talianske kanály
 
 #EXTINF:-1 group-title="Talianske",Rai 1
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 3
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai News 24
 https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
@@ -1267,10 +1267,10 @@ http://151.80.18.177:86/LCI_HD/index.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="Francúzske",France24 (Alt.)
-https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 
 #EXTINF:-1 group-title="Francúzske",CGTN French
-https://dash2.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Francúzske",KTO Télévision Catholique (načítava cca 1 min.)
 https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
@@ -1316,7 +1316,7 @@ https://dash4.antik.sk/live/test_ndr_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",rbb Fernsehen
-https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_rbb_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",KiKA
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
@@ -1334,7 +1334,7 @@ https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",EWTN Katholisches TV Deutschland
-https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 
 
 
@@ -1360,37 +1360,37 @@ https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 # ANGLIČTINA
 
 #EXTINF:-1 group-title="Angličtina",Newsmax TV
-https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
+https://dash4.antik.sk/live/test_newsmax_avc/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",BBC News
-https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",Euronews
-https://dash2.antik.sk/live/test_euronews/playlist.m3u8
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",Sky News
-https://dash2.antik.sk/live/test_skynews/playlist.m3u8
+https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",France24 English
-https://dash2.antik.sk/live/test_france24_eng/playlist.m3u8
+https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",TRT World
-https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",Al Jazeera English
-https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",Al Jazeera English (Alt.)
 http://stream.mcquack.net/131/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 group-title="Angličtina",NHK World Japan
-https://dash2.antik.sk/live/test_nhk/playlist.m3u8
+https://dash4.antik.sk/live/test_nhk/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",Arirang TV
-https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+https://dash4.antik.sk/live/test_arirang/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",CGTN English
-https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",CGTN English (Alt.)
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -1399,35 +1399,35 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 
 #EXTINF:-1 group-title="Angličtina",SuperYacht TV
-https://dash2.antik.sk/live/test_superyacht/playlist.m3u8
+https://dash4.antik.sk/live/test_superyacht/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",DocuBox
-https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+https://dash4.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",Fast&FunBox
-https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+https://dash4.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",FashionBox
-https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+https://dash4.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",GTTV
 https://stream.ostv.sk/GTTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Angličtina",English Club TV
-https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",LangLab
-https://dash2.antik.sk/live/langlabs/index.m3u8
+https://dash4.antik.sk/live/langlabs/index.m3u8
 
 #EXTINF:-1 group-title="Angličtina",Lingo Toons
-https://dash2.antik.sk/live/lingotoons/index.m3u8
+https://dash4.antik.sk/live/lingotoons/index.m3u8
 
 
 
 # Kazachstan
 
 #EXTINF:-1 group-title="Kazachstan",Silk Way
-https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Kazachstan",Qazaqstan International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
@@ -1473,37 +1473,37 @@ https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",5 канал
 https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Еспресо
-https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",FREEДОМ
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",ДІМ
-https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+https://dash4.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Перший
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 group-title="Ukrajinské",1+1 Марафон
-https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+https://dash4.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Рада
 http://stream.mcquack.net/382/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Ukrajinské",Настоящее Время
-https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Квартал TV
-https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+https://dash4.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",М1
 http://stream.mcquack.net/218/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Ukrajinské",FilmUA Drama
-https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",FilmUA Live
-https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Дача
-https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Рибалка
-https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",36.6 TV
-https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Ukrajinské",Армія TV
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 group-title="Ukrajinské",1+1 International
-https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 
 
 
@@ -1565,7 +1565,7 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10001-mp4a_960
 # RÔZNE 1
 
 #EXTINF:-1 group-title="RÔZNE 1",Krb: TV Piánko
-https://dash2.antik.sk/live/test_pianko/playlist.m3u8
+https://dash4.antik.sk/live/test_pianko/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Akvárium
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
@@ -1580,28 +1580,28 @@ https://live.tv-m.net/hls/stream.m3u8
 https://cdn.qd.je/163189/ch8
 
 #EXTINF:-1 group-title="RÔZNE 1",Slovinsko: TV SLO 1
-https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_slo1_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Slovinsko: TV SLO 2
-https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_slo2_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Poľsko: TVP World
-https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+https://dash4.antik.sk/live/test_tvp_world/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Poľsko: TVP Info
-https://dash2.antik.sk/live/test_tvp_info/playlist.m3u8
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Poľsko: TVP Polonia
-https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+https://dash4.antik.sk/live/test_tvp_polonia/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Arménsko: Armenia 1 TV
-https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+https://dash4.antik.sk/live/test_armenia/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Arabský: Al Jazeera
-https://dash2.antik.sk/live/test_aljazeera/playlist.m3u8
+https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Balkánsky: Kitchen TV
-https://dash2.antik.sk/live/test_kitchen_tv/playlist.m3u8
+https://dash4.antik.sk/live/test_kitchen_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Music Box Classic
 http://88.212.15.19/live/mb_classic/index.m3u8
@@ -1616,116 +1616,110 @@ http://88.212.15.19/live/mb_hits/index.m3u8
 http://88.212.15.19/live/mb_sexy/index.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",360 TuneBox
-https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+https://dash4.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Stingray iConcerts
-https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 
 
 
 # RÔZNE 2
 
 #EXTINF:-1 group-title="RÔZNE 2",Regio TV (po maďarsky)
-https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+https://dash4.antik.sk/live/test_regio_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Romana (rómska)
-https://dash2.antik.sk/live/test_romana/playlist.m3u8
+https://dash4.antik.sk/live/test_romana/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",Polar TV (česká)
-https://dash2.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",Západoslovenská TV
-https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+https://dash4.antik.sk/live/test_zapadoslovenska/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Bratislava
-https://dash2.antik.sk/live/test_batv/playlist.m3u8
+https://dash4.antik.sk/live/test_batv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Ružinov (Bratislava)
-https://dash2.antik.sk/live/test_ruzinov/playlist.m3u8
+https://dash4.antik.sk/live/test_ruzinov/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",Mestská TV Košice
-https://dash2.antik.sk/live/test_mtv_kosice/playlist.m3u8
+https://dash4.antik.sk/live/test_mtv_kosice/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Vega Košice
-https://dash2.antik.sk/live/test_vega/playlist.m3u8
+https://dash4.antik.sk/live/test_vega/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",Mestská TV Trnava
-https://dash2.antik.sk/live/test_trnava/playlist.m3u8
-
-#EXTINF:-1 group-title="RÔZNE 2",TV Vita Trnava
-https://dash2.antik.sk/live/test_vita/playlist.m3u8
+https://dash4.antik.sk/live/test_trnava/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV9 Nitra
-https://dash2.antik.sk/live/test_tv9/playlist.m3u8
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",CETV Nitra
-https://dash2.antik.sk/live/test_central/playlist.m3u8
+https://dash4.antik.sk/live/test_central/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Nitrička Nitra
-https://dash2.antik.sk/live/test_nitricka/playlist.m3u8
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV RAJ Žilina
-https://dash2.antik.sk/live/test_raj/playlist.m3u8
+https://dash4.antik.sk/live/test_raj/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV7 Prešov
-https://dash2.antik.sk/live/test_tv7/playlist.m3u8
+https://dash4.antik.sk/live/test_tv7/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Poprad
-https://dash2.antik.sk/live/test_poprad/playlist.m3u8
+https://dash4.antik.sk/live/test_poprad/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Mistral Michalovce
-https://dash2.antik.sk/live/test_mistral_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_mistral_atktv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Reduta Spišská Nová Ves
-https://dash2.antik.sk/live/tv_reduta/playlist.m3u8
+https://dash4.antik.sk/live/tv_reduta/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Nové Zámky
-https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+https://dash4.antik.sk/live/test_nove_zamky/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Považie Považská Bystrica
-https://dash2.antik.sk/live/test_povazie/playlist.m3u8
+https://dash4.antik.sk/live/test_povazie/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",HNTV Humenné
-https://dash2.antik.sk/live/test_hntv/playlist.m3u8
+https://dash4.antik.sk/live/test_hntv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",Miestna TV Trebišov
-https://dash2.antik.sk/live/test_trebisov/playlist.m3u8
+https://dash4.antik.sk/live/test_trebisov/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV SEN Senica
-https://dash2.antik.sk/live/test_tv_sen_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_tv_sen_atktv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",Mestská TV Partizánske
-https://dash2.antik.sk/live/test_partizanske/playlist.m3u8
+https://dash4.antik.sk/live/test_partizanske/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",RVTV Rožňava
-https://dash2.antik.sk/live/test_roznava/playlist.m3u8
+https://dash4.antik.sk/live/test_roznava/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",BTV Bánovce nad Bebravou
-https://dash2.antik.sk/live/test_btv/playlist.m3u8
-
-#EXTINF:-1 group-title="RÔZNE 2",Mestská TV Vranov
-https://dash2.antik.sk/live/test_mtv_vranov/playlist.m3u8
+https://dash4.antik.sk/live/test_btv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",ATV Žiar nad Hronom
-https://dash2.antik.sk/live/test_atv_ziar/playlist.m3u8
+https://dash4.antik.sk/live/test_atv_ziar/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Kežmarok
-https://dash2.antik.sk/live/test_severka/playlist.m3u8
+https://dash4.antik.sk/live/test_severka/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",ČSRTV Česko-slovenská regionálna televízia (Holíč)
-https://dash2.antik.sk/live/test_csrtv/playlist.m3u8
+https://dash4.antik.sk/live/test_csrtv/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Panoráma Žarnovica
-https://dash2.antik.sk/live/test_panorama/playlist.m3u8
+https://dash4.antik.sk/live/test_panorama/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",Moldava TV
-https://dash2.antik.sk/live/test_moldava/playlist.m3u8
+https://dash4.antik.sk/live/test_moldava/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV Zemplín
-https://dash2.antik.sk/live/test_zemplin/playlist.m3u8
+https://dash4.antik.sk/live/test_zemplin/playlist.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 2",TV LocAll
-https://dash2.antik.sk/live/test_locall/playlist.m3u8
+https://dash4.antik.sk/live/test_locall/playlist.m3u8
 
 
 
@@ -2060,7 +2054,7 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cctv-ru" group-title="Ruské tematické RÔZNE",CGTN Russian
-https://dash2.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+https://dash4.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",СТС Love
 http://stream.mcquack.net/183/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
