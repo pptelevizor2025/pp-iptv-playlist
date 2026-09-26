@@ -848,8 +848,6 @@ https://dash4.antik.sk/live/test_jazero_plocha/playlist.m3u8
 
 #EXTINF:-1 group-title="4 - Kamery",Letisko Praha
 https://dash4.antik.sk/live/test_plane_spotting_atk_tv/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Letisko Praha (Alt.)
-http://live.idnes.cz/slow/planespotting/playlist.m3u8
 
 
 
@@ -1772,18 +1770,12 @@ https://raw.githubusercontent.com/pptelevizor2025/ZZZ-Rossiya-K/main/Rossiya-K.m
 http://stream.mcquack.net/229/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 tvg-id="pervy" group-title="Ruské federálne",Первый канал
-http://str2.iptvhd.ru:8080/Pervikanal/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="pervy" group-title="Ruské federálne",Первый канал (Alt.)
 http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/tracks-v1a1l1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="pervy" group-title="Ruské federálne",Первый канал (Alt.2)
+#EXTINF:-1 tvg-id="pervy" group-title="Ruské federálne",Первый канал (Alt.)
 http://178.217.49.7/1/index.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Ruské federálne",Пятый канал
-http://str2.iptvhd.ru:8080/5_kanal/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="Ruské federálne",Пятый канал (Alt.)
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Ruské federálne",Пятый канал International
@@ -1832,7 +1824,7 @@ http://stream.mcquack.net/227/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 http://stream.mcquack.net/136/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 group-title="Ruské federálne",Че!
-http://89.33.29.115:8080/Che/tracks-v1a1/mono.ts.m3u8
+https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="karusel" group-title="Ruské federálne",Карусель
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
@@ -1846,23 +1838,14 @@ http://stream.mcquack.net/118/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Ruské federálne",Матч!
 http://stream.mcquack.net/169/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
-#EXTINF:-1 group-title="Ruské federálne",Матч! (Alt.)
-http://89.33.29.115:8080/Match_TV_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Ruské federálne",Матч! Игра
 http://stream.mcquack.net/188/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-
-#EXTINF:-1 group-title="Ruské federálne",Матч! Игра (Alt.)
-http://89.33.29.115:8080/Match_Igra_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Ruské federálne",Матч! Страна
 http://stream.mcquack.net/143/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 group-title="Ruské federálne",Матч! Боец
 http://stream.mcquack.net/112/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-
-#EXTINF:-1 group-title="Ruské federálne",Матч! Боец (Alt.)
-http://89.33.29.115:8080/Match_Boets/tracks-v1a1/mono.m3u8
 
 
 
@@ -1933,7 +1916,7 @@ http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",А2
-http://str2.iptvhd.ru:8080/Amedia_2/tracks-v1a1/mono.ts.m3u8
+https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Ruské tematické FILMY A SERIÁLY",viju+ Премьера
 http://stream.mcquack.net/202/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
@@ -1993,7 +1976,7 @@ http://stream.mcquack.net/133/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Наше Новое Кино
-http://str2.iptvhd.ru:8080/Nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Родное кино
 http://stream.mcquack.net/242/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
@@ -2039,6 +2022,35 @@ https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik" group-title="Ruské tematické FILMY A SERIÁLY",Смотрим 100% Праздник
 https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Cinema
+http://stream.mcquack.net/423/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Premiere
+http://stream.mcquack.net/424/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Comedy
+http://stream.mcquack.net/426/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Family
+http://stream.mcquack.net/427/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Rating
+http://stream.mcquack.net/422/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh VHS
+http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Fantastic
+http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Series
+http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Horror
+http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Adventure
+http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Romantic
+http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Thriller
+http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Fresh Kids
+http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",BCU СССР HD
+http://stream.mcquack.net/488/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 
 
