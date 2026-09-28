@@ -2171,7 +2171,7 @@ http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/109/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",РУ.ТВ (Alt.2)
-http://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=TQIM0or5sEptozooQcCfbQ&e=2090614602&scheme=https
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Russian MusicBox
 http://stream.mcquack.net/319/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
@@ -2186,10 +2186,10 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Жар-Птица
-http://river-1.rutube.ru/stream/genetta-402.ntv.rutube.ru/VG5UIcNL9MbyzwePYEaY9A/1790503891/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
+https://river-1.rutube.ru/stream/genetta-402.ntv.rutube.ru/gK57jzsFjFOBw8T2dAHEgA/1791219271/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Жар-Птица (Alt.)
-http://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=OtsiWAcSqeTBIQS-BCQB_A&e=2089234960
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=78DjnqGomvZmdvigRa534Q&e=2090614445&scheme=https
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Радио Песни от всей души
 https://hls-01-povd.hostingradio.ru/povd/160/playlist.m3u8
