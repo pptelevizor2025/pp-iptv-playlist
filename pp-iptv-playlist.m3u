@@ -2202,3 +2202,274 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+
+# TEST ------------------------
+
+#EXTINF:-1 group-title="TEST",Warner TV CZ
+http://88.212.15.17/live/warner_tv/index.m3u8
+#EXTINF:-1 group-title="TEST",Food Network HU
+http://88.212.15.17/live/fn_hungary/index.m3u8
+#EXTINF:-1 group-title="TEST",TLC HU
+http://88.212.15.17/live/tlc_hungary/index.m3u8
+
+#EXTINF:-1 group-title="TEST",███████████████████████████
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+
+#EXTINF:-1 group-title="TEST RELAX",SCREENSAVER
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210273&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN MEDIEVAL EUROPE
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210274&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN WILD ANIMALS
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210275&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN AQUARIUM
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210276&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN FIREPLACE
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210277&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN FIREPLACE WINTER
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210278&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN CAMPFIRE
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210279&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN WINTER WONDERLAND
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210280&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN WINTER
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210281&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN WINTER 2
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210282&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN TROPICAL RAIN
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210283&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN DUBAI
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210284&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN ISTANBUL
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210285&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN PARIS
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210286&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN NORWAY
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210287&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN NEWYORK
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210288&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN NEW YORK 2
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210289&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN NEWYORK NIGHT
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210290&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN OCEAN
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210291&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN THE DRIVE
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210292&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",RELAX MUSIC
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210293&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",RELAX JAZZ MUSIC
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210294&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",RELAX YOGA MUSIC
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210295&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",RELAX TO SLEEP
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210296&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",SCREEN CHICKEN
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=551441&extension=ts
+#EXTINF:-1 group-title="TEST RELAX",RELAX COFFEE SHOP MUSIC
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210297&extension=ts
+
+#EXTINF:-1 group-title="TEST",███████████████████████████
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+
+
+#EXTINF:-1 group-title="TEST",ORF1 (02)
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF1 (06)
+https://test06.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF1 (13)
+https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF2 (02)
+https://test02.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF2 (06)
+https://test06.mdn.ors.at/orf/orf2/qxb/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF2 (13)
+https://test13.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF3 (02)
+https://test02.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF3 (07)
+https://test07.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF3 (13)
+https://test13.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF3 (16)
+https://test16.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF SPORT (02)
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF SPORT (07)
+https://test07.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF SPORT (13)
+https://test13.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+#EXTINF:-1 group-title="TEST",ORF SPORT (16)
+https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
+
+#EXTINF:-1 group-title="TEST",███████████████████████████
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+
+#EXTINF:-1 group-title="TEST",BBC One London
+http://176.65.153.4:4001/play/a08e/index.m3u8
+#EXTINF:-1 group-title="TEST",BBC Two HD
+http://176.65.153.4:4001/play/a08m/index.m3u8
+#EXTINF:-1 group-title="TEST",CBBC HD
+http://176.65.153.4:4001/play/a08p/index.m3u8
+#EXTINF:-1 group-title="TEST",CBeebies HD
+http://176.65.153.4:4001/play/a08g/index.m3u8
+
+
+#EXTINF:-1 group-title="TEST",BBC NEWS
+http://176.65.153.4:4002/play/a06i/index.m3u8
+
+#EXTINF:-1 group-title="TEST",CNBC HD
+http://176.65.153.4:4007/play/a072/index.m3u8
+#EXTINF:-1 group-title="TEST",Channel 4 HD
+http://176.65.153.4:4007/play/a074/index.m3u8
+#EXTINF:-1 group-title="TEST",DMAX
+http://176.65.153.4:4007/play/a06r/index.m3u8
+
+#EXTINF:-1 group-title="TEST",███████████████████████████
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+
+#EXTINF:-1 group-title="TEST",TV2 Kids
+http://193.33.39.108:8088/tv2kids/index.m3u8
+#EXTINF:-1 group-title="TEST",Super TV 2
+http://193.33.39.108:8088/supertv2/index.m3u8
+#EXTINF:-1 group-title="TEST",JOJ Cinema
+http://193.33.39.108:8088/jojcinema/index.m3u8
+#EXTINF:-1 group-title="TEST",JOJ 24
+http://193.33.39.108:8088/joj24/index.m3u8
+#EXTINF:-1 group-title="TEST",RTVS 24
+http://193.33.39.108:8088/rtvs24/index.m3u8
+#EXTINF:-1 group-title="TEST",Nova Sport 6
+http://193.33.39.108:8088/novasport6/index.m3u8
+#EXTINF:-1 group-title="TEST",Prima Zoom
+http://193.33.39.108:8088/primazoom/index.m3u8
+#EXTINF:-1 group-title="TEST",Nova Fun
+http://193.33.39.108:8088/novafun/index.m3u8
+#EXTINF:-1 group-title="TEST",Nova Action
+http://193.33.39.108:8088/novaaction/index.m3u8
+#EXTINF:-1 group-title="TEST",TLC
+http://193.33.39.108:8088/tlc/index.m3u8
+#EXTINF:-1 group-title="TEST",RTL
+http://193.33.39.108:8088/RTL/index.m3u8
+#EXTINF:-1 group-title="TEST",Spektrum Home
+http://193.33.39.108:8088/spektrumhome/index.m3u8
+#EXTINF:-1 group-title="TEST",Nova Sport 2
+http://193.33.39.108:8088/novasport2/index.m3u8
+#EXTINF:-1 group-title="TEST",Nickelodeon
+http://193.33.39.108:8088/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="TEST",M1 HD
+http://193.33.39.108:8088/m1hd/index.m3u8
+#EXTINF:-1 group-title="TEST",Jednotka
+http://193.33.39.108:8088/jednotka/index.m3u8
+#EXTINF:-1 group-title="TEST",Dvojka
+http://193.33.39.108:8088/dvojka/index.m3u8
+#EXTINF:-1 group-title="TEST",Dajto
+http://193.33.39.108:8088/dajto/index.m3u8
+#EXTINF:-1 group-title="TEST",Real Time
+http://102.129.186.182:81/realtime/index.m3u8
+#EXTINF:-1 group-title="TEST",Top Crime
+http://102.129.186.182:81/topcrime/index.m3u8
+#EXTINF:-1 group-title="TEST",La7d
+http://102.129.186.182:81/la7d/index.m3u8
+#EXTINF:-1 group-title="TEST",Rai Storia
+http://102.129.186.182:81/raistoria/index.m3u8
+#EXTINF:-1 group-title="TEST",Rai Movie
+http://102.129.186.182:81/raimovie/index.m3u8
+#EXTINF:-1 group-title="TEST",Rai 5
+http://102.129.186.182:81/rai5/index.m3u8
+#EXTINF:-1 group-title="TEST",Rai 4
+http://102.129.186.182:81/rai4/index.m3u8
+#EXTINF:-1 group-title="TEST",TV8
+http://102.129.186.182:81/tv8/index.m3u8
+#EXTINF:-1 group-title="TEST",Rai 3
+http://102.129.186.182:81/rai3/index.m3u8
+#EXTINF:-1 group-title="TEST",Rai 2
+http://102.129.186.182:81/rai2/index.m3u8
+#EXTINF:-1 group-title="TEST",Rai 1
+http://102.129.186.182:81/rai1/index.m3u8
+#EXTINF:-1 group-title="TEST",Nick
+http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 group-title="TEST",La7
+http://102.129.186.182:81/la7/index.m3u8
+#EXTINF:-1 group-title="TEST",La5
+http://102.129.186.182:81/la5/index.m3u8
+#EXTINF:-1 group-title="TEST",Iris
+http://102.129.186.182:81/iris/index.m3u8
+#EXTINF:-1 group-title="TEST",Inter
+http://102.129.186.182:81/inter/index.m3u8
+#EXTINF:-1 group-title="TEST",Giallo
+http://102.129.186.182:81/giallo/index.m3u8
+#EXTINF:-1 group-title="TEST",DMAX
+http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:-1 group-title="TEST",Discovery
+http://102.129.186.182:81/discovery/index.m3u8
+#EXTINF:-1 group-title="TEST",Comedy
+http://102.129.186.182:81/comedy/index.m3u8
+
+#EXTINF:-1 group-title="TEST",███████████████████████████
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+
+#EXTINF:-1 group-title="TEST",La 1 HD
+http://79.117.45.86:9981/stream/channelid/653904225?profile=pass
+#EXTINF:-1 group-title="TEST",La 2 HD
+http://79.117.45.86:9981/stream/channelid/1151209014?profile=pass
+#EXTINF:-1 group-title="TEST",Antena 3 HD
+http://79.117.45.86:9981/stream/channelid/313693113?profile=pass
+#EXTINF:-1 group-title="TEST",Cuatro HD
+http://79.117.45.86:9981/stream/channelid/93020629?profile=pass
+#EXTINF:-1 group-title="TEST",Telecinco HD
+http://79.117.45.86:9981/stream/channelid/1485177987?profile=pass
+#EXTINF:-1 group-title="TEST",laSexta HD
+http://79.117.45.86:9981/stream/channelid/1609733889?profile=pass
+#EXTINF:-1 group-title="TEST",7 RM HD
+http://79.117.45.86:9981/stream/channelid/424787031?profile=pass
+#EXTINF:-1 group-title="TEST",DMAX
+http://79.117.45.86:9981/stream/channelid/591668496?profile=pass
+#EXTINF:-1 group-title="TEST",Nova
+http://79.117.45.86:9981/stream/channelid/294723304?profile=pass
+#EXTINF:-1 group-title="TEST",TEN
+http://79.117.45.86:9981/stream/channelid/1749054364?profile=pass
+#EXTINF:-1 group-title="TEST",DKISS
+http://79.117.45.86:9981/stream/channelid/1480586394?profile=pass
+#EXTINF:-1 group-title="TEST",Clan HD
+http://79.117.45.86:9981/stream/channelid/1296453505?profile=pass
+#EXTINF:-1 group-title="TEST",TRECE
+http://79.117.45.86:9981/stream/channelid/226705410?profile=pass
+#EXTINF:-1 group-title="TEST",Divinity
+http://79.117.45.86:9981/stream/channelid/1096381642?profile=pass
+#EXTINF:-1 group-title="TEST",Neox
+http://79.117.45.86:9981/stream/channelid/619595270?profile=pass
+#EXTINF:-1 group-title="TEST",Mega
+http://79.117.45.86:9981/stream/channelid/1893973620?profile=pass
+#EXTINF:-1 group-title="TEST",FDF
+http://79.117.45.86:9981/stream/channelid/122457611?profile=pass
+#EXTINF:-1 group-title="TEST",Paramount Network
+http://79.117.45.86:9981/stream/channelid/680284698?profile=pass
+#EXTINF:-1 group-title="TEST",Boing
+http://79.117.45.86:9981/stream/channelid/767636423?profile=pass
+#EXTINF:-1 group-title="TEST",Energy
+http://79.117.45.86:9981/stream/channelid/1667804020?profile=pass
+#EXTINF:-1 group-title="TEST",Disney Channel
+http://79.117.45.86:9981/stream/channelid/1955407327?profile=pass
+#EXTINF:-1 group-title="TEST",Atreseries HD
+http://79.117.45.86:9981/stream/channelid/1910335831?profile=pass
+#EXTINF:-1 group-title="TEST",TBN España
+http://79.117.45.86:9981/stream/channelid/1743625969?profile=pass
+#EXTINF:-1 group-title="TEST",24h HD
+http://79.117.45.86:9981/stream/channelid/146878021?profile=pass
+#EXTINF:-1 group-title="TEST",BOM Cine
+http://79.117.45.86:9981/stream/channelid/1642516146?profile=pass
+#EXTINF:-1 group-title="TEST",Popular TV
+http://79.117.45.86:9981/stream/channelid/2134935779?profile=pass
+#EXTINF:-1 group-title="TEST",TV Murciana
+http://79.117.45.86:9981/stream/channelid/1854624156?profile=pass
+#EXTINF:-1 group-title="TEST",La Opinión TV
+http://79.117.45.86:9981/stream/channelid/447540219?profile=pass
+#EXTINF:-1 group-title="TEST",GTM TV
+http://79.117.45.86:9981/stream/channelid/1366779137?profile=pass
+#EXTINF:-1 group-title="TEST",TDP HD
+http://79.117.45.86:9981/stream/channelid/222363745?profile=pass
+#EXTINF:-1 group-title="TEST",GOL
+http://79.117.45.86:9981/stream/channelid/1029785408?profile=pass
+#EXTINF:-1 group-title="TEST",BeMad TV HD
+http://79.117.45.86:9981/stream/channelid/1743578243?profile=pass
+#EXTINF:-1 group-title="TEST",RealMadrid TV HD
+http://79.117.45.86:9981/stream/channelid/590070805?profile=pass
