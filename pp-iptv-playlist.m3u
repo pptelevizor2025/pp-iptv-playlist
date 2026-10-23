@@ -465,6 +465,9 @@ http://88.212.15.17/live/test_doma_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="2 - Slovenské",JOJ
 http://88.212.15.17/live/test_joj_25p/playlist.m3u8
 
+#EXTINF:-1 group-title="2 - Slovenské",JOJ 24
+http://193.33.39.108:8088/joj24/index.m3u8
+
 #EXTINF:-1 group-title="2 - Slovenské",JOJ Cinema
 http://88.212.15.17/live/test_joj_cinema_25p/playlist.m3u8
 
@@ -693,6 +696,8 @@ http://185.188.188.237:5000/live/novasport3/playlist.m3u8
 http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Nova Sport 5
 http://185.188.188.237:5000/live/novasport5/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Nova Sport 6
+http://193.33.39.108:8088/novasport6/index.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko
 http://88.212.15.17/live/test_ocko/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko Black
@@ -761,6 +766,8 @@ http://88.212.15.17/live/test_viasat_explore_atk_tv/playlist.m3u8
 http://88.212.15.17/live/test_viasat_history_atk_tv/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Viasat Nature
 http://88.212.15.17/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 group-title="3 - České",Warner TV
+http://88.212.15.17/live/warner_tv/index.m3u8
 
 
 
@@ -771,10 +778,18 @@ https://kukaj.profi-net.sk/live/KUVIKCIFER2.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Kuvikova obývačka
 https://kukaj.profi-net.sk/live/KUVIKCIFER1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá (vnútri)
+#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá | vnútri
 https://kukaj.profi-net.sk/live/PLAMIENKA1.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá (vonku)
+#EXTINF:-1 group-title="4 - Kamery",Plamienka driemavá | vonku
 https://kukaj.profi-net.sk/live/PLAMIENKA2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="4 - Kamery",Kuvik | kamera 1
+https://kukaj.profi-net.sk/livetrans/KUVIK2.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="4 - Kamery",Kuvik | kamera 2
+https://kukaj.profi-net.sk/livetrans/KUVIK1.stream_aac/playlist.m3u8
+
+#EXTINF:-1 group-title="4 - Kamery",Apartmán Zdenka
+https://kukaj.profi-net.sk/live/APARTMAN_ZDENKA.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="4 - Kamery",Bociany: Bešeňová
 https://kukaj.profi-net.sk/live/BOCIANY_BESENOVA_4K.stream/playlist.m3u8
@@ -809,13 +824,6 @@ https://kukaj.profi-net.sk/live/DRAVCE_KRMIDLO.stream/playlist.m3u8
 https://kukaj.profi-net.sk/live/KAMZIKY.stream/playlist.m3u8
 #EXTINF:-1 group-title="4 - Kamery",Les: Medvede 
 https://kukaj.profi-net.sk/live/LES_MACO.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="4 - Kamery",Piťkov apartmán
-https://kukaj.profi-net.sk/live/BUDKALS.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Apartmán 1 Modrá
-https://kukaj.profi-net.sk/live/DRAVCE_MODRA1.stream/playlist.m3u8
-#EXTINF:-1 group-title="4 - Kamery",Apartmán 5 Modrá
-https://kukaj.profi-net.sk/live/DRAVCE_MODRA5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="4 - Kamery",Štrbské Pleso Jazero
 https://stream.profi-net.sk/strba/VYHLAD_JAZERO.stream/playlist.m3u8
@@ -956,6 +964,9 @@ http://88.212.15.17/live/film4_hun/index.m3u8
 #EXTINF:-1 group-title="Maďarské",Film Café
 http://88.212.15.17/live/film_cafe/index.m3u8
 
+#EXTINF:-1 group-title="Maďarské",Food Network
+http://88.212.15.17/live/fn_hungary/index.m3u8
+
 #EXTINF:-1 group-title="Maďarské",Galaxy4
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 
@@ -1076,6 +1087,9 @@ http://88.212.15.17/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="Maďarské",The Fishing & Hunting Channel
 http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
 
+#EXTINF:-1 group-title="Maďarské",TLC
+http://88.212.15.17/live/tlc_hungary/index.m3u8
+
 #EXTINF:-1 group-title="Maďarské",TV2
 http://88.212.15.17/live/test_tv_2_hungary_1200_atk/playlist.m3u8
 
@@ -1150,34 +1164,58 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 # Talianske kanály
 
 #EXTINF:-1 group-title="Talianske",Rai 1
+http://102.129.186.182:81/rai1/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",Rai 1 (Alt.)
 https://dash4.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
+#EXTINF:-1 group-title="Talianske",Rai 2
+http://102.129.186.182:81/rai2/index.m3u8
+
 #EXTINF:-1 group-title="Talianske",Rai 3
+http://102.129.186.182:81/rai3/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",Rai 3 (Alt.)
 https://dash4.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="Talianske",Rai News 24
-https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 group-title="Talianske",Rai 4
+http://102.129.186.182:81/rai4/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",Rai 5
+http://102.129.186.182:81/rai5/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",Rai Movie
+http://102.129.186.182:81/raimovie/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",Rai Storia
+http://102.129.186.182:81/raistoria/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai Scuola
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 
+#EXTINF:-1 group-title="Talianske",Rai News 24
+https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+
+#EXTINF:-1 group-title="Talianske",La 5
+http://102.129.186.182:81/la5/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",La 7
+http://102.129.186.182:81/la7/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",La 7 d
+http://102.129.186.182:81/la7d/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",TV 8
+http://102.129.186.182:81/tv8/index.m3u8
+
 #EXTINF:-1 group-title="Talianske",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 group-title="Talianske",Bergamo TV
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
-
-#EXTINF:-1 group-title="Talianske",Antenna 2 TV
-https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Talianske",Radio Norba TV
+https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="Talianske",Cusano Italia TV
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Talianske",Company TV
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-
-#EXTINF:-1 group-title="Talianske",Radio Norba TV
-https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 
 
 
@@ -1338,11 +1376,20 @@ https://dash4.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 
 # RAKÚSKE
 
+#EXTINF:-1 group-title="Rakúske",ORF 1
+https://test06.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+
 #EXTINF:-1 group-title="Rakúske",ORF 2
+https://test06.mdn.ors.at/orf/orf2/qxb/manifest.m3u8
+
+#EXTINF:-1 group-title="Rakúske",ORF 2 (Alt.)
 http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="Rakúske",ORF III
-https://raw.githubusercontent.com/pptelevizor2025/ZZZ-ORF-III/main/ORF-III.m3u8
+#EXTINF:-1 group-title="Rakúske",ORF 3
+https://test07.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+
+#EXTINF:-1 group-title="Rakúske",ORF Sport
+https://test07.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
 
 #EXTINF:-1 group-title="Rakúske",RTV
 http://iptv.rtv-ooe.at/stream.m3u8
@@ -1357,17 +1404,47 @@ https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 
 # ANGLIČTINA
 
-#EXTINF:-1 group-title="Angličtina",Newsmax TV
+#EXTINF:-1 group-title="Angličtina",CNN | USA
+http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Angličtina",Newsmax TV | USA
 https://dash4.antik.sk/live/test_newsmax_avc/playlist.m3u8
 
-#EXTINF:-1 group-title="Angličtina",BBC News
+#EXTINF:-1 group-title="Angličtina",CNBC | USA
+http://176.65.153.4:4007/play/a072/index.m3u8
+
+#EXTINF:-1 group-title="Angličtina",BBC News | UK
 https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
+
+#EXTINF:-1 group-title="Angličtina",BBC News | UK (Alt.)
+http://176.65.153.4:4002/play/a06i/index.m3u8
+
+#EXTINF:-1 group-title="Angličtina",BBC First | UK
+http://88.212.15.17/live/bbc_first/index.m3u8
+
+#EXTINF:-1 group-title="Angličtina",BBC One | UK
+http://176.65.153.4:4001/play/a08e/index.m3u8
+
+#EXTINF:-1 group-title="Angličtina",BBC Two | UK
+http://176.65.153.4:4001/play/a08m/index.m3u8
+
+#EXTINF:-1 group-title="Angličtina",BBC CBBC | UK
+http://176.65.153.4:4001/play/a08p/index.m3u8
+
+#EXTINF:-1 group-title="Angličtina",BBC CBeebies | UK
+http://176.65.153.4:4001/play/a08g/index.m3u8
+
+#EXTINF:-1 group-title="Angličtina",Channel 4 | UK
+http://176.65.153.4:4007/play/a074/index.m3u8
+
+#EXTINF:-1 group-title="Angličtina",DMAX | UK
+http://176.65.153.4:4007/play/a06r/index.m3u8
+
+#EXTINF:-1 group-title="Angličtina",Sky News | UK
+https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",Euronews
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-
-#EXTINF:-1 group-title="Angličtina",Sky News
-https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",France24 English
 https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
@@ -2186,9 +2263,6 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Жар-Птица
-https://river-1.rutube.ru/stream/genetta-402.ntv.rutube.ru/gK57jzsFjFOBw8T2dAHEgA/1791219271/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
-
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",Жар-Птица (Alt.)
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=78DjnqGomvZmdvigRa534Q&e=2090614445&scheme=https
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Радио Песни от всей души
@@ -2202,274 +2276,3 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-
-# TEST ------------------------
-
-#EXTINF:-1 group-title="TEST",Warner TV CZ
-http://88.212.15.17/live/warner_tv/index.m3u8
-#EXTINF:-1 group-title="TEST",Food Network HU
-http://88.212.15.17/live/fn_hungary/index.m3u8
-#EXTINF:-1 group-title="TEST",TLC HU
-http://88.212.15.17/live/tlc_hungary/index.m3u8
-
-#EXTINF:-1 group-title="TEST",███████████████████████████
-http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
-
-#EXTINF:-1 group-title="TEST RELAX",SCREENSAVER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210273&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN MEDIEVAL EUROPE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210274&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN WILD ANIMALS
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210275&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN AQUARIUM
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210276&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN FIREPLACE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210277&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN FIREPLACE WINTER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210278&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN CAMPFIRE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210279&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN WINTER WONDERLAND
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210280&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN WINTER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210281&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN WINTER 2
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210282&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN TROPICAL RAIN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210283&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN DUBAI
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210284&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN ISTANBUL
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210285&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN PARIS
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210286&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN NORWAY
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210287&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN NEWYORK
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210288&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN NEW YORK 2
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210289&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN NEWYORK NIGHT
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210290&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN OCEAN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210291&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN THE DRIVE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210292&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",RELAX MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210293&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",RELAX JAZZ MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210294&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",RELAX YOGA MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210295&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",RELAX TO SLEEP
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210296&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",SCREEN CHICKEN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=551441&extension=ts
-#EXTINF:-1 group-title="TEST RELAX",RELAX COFFEE SHOP MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210297&extension=ts
-
-#EXTINF:-1 group-title="TEST",███████████████████████████
-http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
-
-
-#EXTINF:-1 group-title="TEST",ORF1 (02)
-https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF1 (06)
-https://test06.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF1 (13)
-https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF2 (02)
-https://test02.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF2 (06)
-https://test06.mdn.ors.at/orf/orf2/qxb/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF2 (13)
-https://test13.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF3 (02)
-https://test02.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF3 (07)
-https://test07.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF3 (13)
-https://test13.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF3 (16)
-https://test16.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF SPORT (02)
-https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF SPORT (07)
-https://test07.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF SPORT (13)
-https://test13.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
-#EXTINF:-1 group-title="TEST",ORF SPORT (16)
-https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
-
-#EXTINF:-1 group-title="TEST",███████████████████████████
-http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
-
-#EXTINF:-1 group-title="TEST",BBC One London
-http://176.65.153.4:4001/play/a08e/index.m3u8
-#EXTINF:-1 group-title="TEST",BBC Two HD
-http://176.65.153.4:4001/play/a08m/index.m3u8
-#EXTINF:-1 group-title="TEST",CBBC HD
-http://176.65.153.4:4001/play/a08p/index.m3u8
-#EXTINF:-1 group-title="TEST",CBeebies HD
-http://176.65.153.4:4001/play/a08g/index.m3u8
-
-
-#EXTINF:-1 group-title="TEST",BBC NEWS
-http://176.65.153.4:4002/play/a06i/index.m3u8
-
-#EXTINF:-1 group-title="TEST",CNBC HD
-http://176.65.153.4:4007/play/a072/index.m3u8
-#EXTINF:-1 group-title="TEST",Channel 4 HD
-http://176.65.153.4:4007/play/a074/index.m3u8
-#EXTINF:-1 group-title="TEST",DMAX
-http://176.65.153.4:4007/play/a06r/index.m3u8
-
-#EXTINF:-1 group-title="TEST",███████████████████████████
-http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
-
-#EXTINF:-1 group-title="TEST",TV2 Kids
-http://193.33.39.108:8088/tv2kids/index.m3u8
-#EXTINF:-1 group-title="TEST",Super TV 2
-http://193.33.39.108:8088/supertv2/index.m3u8
-#EXTINF:-1 group-title="TEST",JOJ Cinema
-http://193.33.39.108:8088/jojcinema/index.m3u8
-#EXTINF:-1 group-title="TEST",JOJ 24
-http://193.33.39.108:8088/joj24/index.m3u8
-#EXTINF:-1 group-title="TEST",RTVS 24
-http://193.33.39.108:8088/rtvs24/index.m3u8
-#EXTINF:-1 group-title="TEST",Nova Sport 6
-http://193.33.39.108:8088/novasport6/index.m3u8
-#EXTINF:-1 group-title="TEST",Prima Zoom
-http://193.33.39.108:8088/primazoom/index.m3u8
-#EXTINF:-1 group-title="TEST",Nova Fun
-http://193.33.39.108:8088/novafun/index.m3u8
-#EXTINF:-1 group-title="TEST",Nova Action
-http://193.33.39.108:8088/novaaction/index.m3u8
-#EXTINF:-1 group-title="TEST",TLC
-http://193.33.39.108:8088/tlc/index.m3u8
-#EXTINF:-1 group-title="TEST",RTL
-http://193.33.39.108:8088/RTL/index.m3u8
-#EXTINF:-1 group-title="TEST",Spektrum Home
-http://193.33.39.108:8088/spektrumhome/index.m3u8
-#EXTINF:-1 group-title="TEST",Nova Sport 2
-http://193.33.39.108:8088/novasport2/index.m3u8
-#EXTINF:-1 group-title="TEST",Nickelodeon
-http://193.33.39.108:8088/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="TEST",M1 HD
-http://193.33.39.108:8088/m1hd/index.m3u8
-#EXTINF:-1 group-title="TEST",Jednotka
-http://193.33.39.108:8088/jednotka/index.m3u8
-#EXTINF:-1 group-title="TEST",Dvojka
-http://193.33.39.108:8088/dvojka/index.m3u8
-#EXTINF:-1 group-title="TEST",Dajto
-http://193.33.39.108:8088/dajto/index.m3u8
-#EXTINF:-1 group-title="TEST",Real Time
-http://102.129.186.182:81/realtime/index.m3u8
-#EXTINF:-1 group-title="TEST",Top Crime
-http://102.129.186.182:81/topcrime/index.m3u8
-#EXTINF:-1 group-title="TEST",La7d
-http://102.129.186.182:81/la7d/index.m3u8
-#EXTINF:-1 group-title="TEST",Rai Storia
-http://102.129.186.182:81/raistoria/index.m3u8
-#EXTINF:-1 group-title="TEST",Rai Movie
-http://102.129.186.182:81/raimovie/index.m3u8
-#EXTINF:-1 group-title="TEST",Rai 5
-http://102.129.186.182:81/rai5/index.m3u8
-#EXTINF:-1 group-title="TEST",Rai 4
-http://102.129.186.182:81/rai4/index.m3u8
-#EXTINF:-1 group-title="TEST",TV8
-http://102.129.186.182:81/tv8/index.m3u8
-#EXTINF:-1 group-title="TEST",Rai 3
-http://102.129.186.182:81/rai3/index.m3u8
-#EXTINF:-1 group-title="TEST",Rai 2
-http://102.129.186.182:81/rai2/index.m3u8
-#EXTINF:-1 group-title="TEST",Rai 1
-http://102.129.186.182:81/rai1/index.m3u8
-#EXTINF:-1 group-title="TEST",Nick
-http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:-1 group-title="TEST",La7
-http://102.129.186.182:81/la7/index.m3u8
-#EXTINF:-1 group-title="TEST",La5
-http://102.129.186.182:81/la5/index.m3u8
-#EXTINF:-1 group-title="TEST",Iris
-http://102.129.186.182:81/iris/index.m3u8
-#EXTINF:-1 group-title="TEST",Inter
-http://102.129.186.182:81/inter/index.m3u8
-#EXTINF:-1 group-title="TEST",Giallo
-http://102.129.186.182:81/giallo/index.m3u8
-#EXTINF:-1 group-title="TEST",DMAX
-http://102.129.186.182:81/dmax/index.m3u8
-#EXTINF:-1 group-title="TEST",Discovery
-http://102.129.186.182:81/discovery/index.m3u8
-#EXTINF:-1 group-title="TEST",Comedy
-http://102.129.186.182:81/comedy/index.m3u8
-
-#EXTINF:-1 group-title="TEST",███████████████████████████
-http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
-
-#EXTINF:-1 group-title="TEST",La 1 HD
-http://79.117.45.86:9981/stream/channelid/653904225?profile=pass
-#EXTINF:-1 group-title="TEST",La 2 HD
-http://79.117.45.86:9981/stream/channelid/1151209014?profile=pass
-#EXTINF:-1 group-title="TEST",Antena 3 HD
-http://79.117.45.86:9981/stream/channelid/313693113?profile=pass
-#EXTINF:-1 group-title="TEST",Cuatro HD
-http://79.117.45.86:9981/stream/channelid/93020629?profile=pass
-#EXTINF:-1 group-title="TEST",Telecinco HD
-http://79.117.45.86:9981/stream/channelid/1485177987?profile=pass
-#EXTINF:-1 group-title="TEST",laSexta HD
-http://79.117.45.86:9981/stream/channelid/1609733889?profile=pass
-#EXTINF:-1 group-title="TEST",7 RM HD
-http://79.117.45.86:9981/stream/channelid/424787031?profile=pass
-#EXTINF:-1 group-title="TEST",DMAX
-http://79.117.45.86:9981/stream/channelid/591668496?profile=pass
-#EXTINF:-1 group-title="TEST",Nova
-http://79.117.45.86:9981/stream/channelid/294723304?profile=pass
-#EXTINF:-1 group-title="TEST",TEN
-http://79.117.45.86:9981/stream/channelid/1749054364?profile=pass
-#EXTINF:-1 group-title="TEST",DKISS
-http://79.117.45.86:9981/stream/channelid/1480586394?profile=pass
-#EXTINF:-1 group-title="TEST",Clan HD
-http://79.117.45.86:9981/stream/channelid/1296453505?profile=pass
-#EXTINF:-1 group-title="TEST",TRECE
-http://79.117.45.86:9981/stream/channelid/226705410?profile=pass
-#EXTINF:-1 group-title="TEST",Divinity
-http://79.117.45.86:9981/stream/channelid/1096381642?profile=pass
-#EXTINF:-1 group-title="TEST",Neox
-http://79.117.45.86:9981/stream/channelid/619595270?profile=pass
-#EXTINF:-1 group-title="TEST",Mega
-http://79.117.45.86:9981/stream/channelid/1893973620?profile=pass
-#EXTINF:-1 group-title="TEST",FDF
-http://79.117.45.86:9981/stream/channelid/122457611?profile=pass
-#EXTINF:-1 group-title="TEST",Paramount Network
-http://79.117.45.86:9981/stream/channelid/680284698?profile=pass
-#EXTINF:-1 group-title="TEST",Boing
-http://79.117.45.86:9981/stream/channelid/767636423?profile=pass
-#EXTINF:-1 group-title="TEST",Energy
-http://79.117.45.86:9981/stream/channelid/1667804020?profile=pass
-#EXTINF:-1 group-title="TEST",Disney Channel
-http://79.117.45.86:9981/stream/channelid/1955407327?profile=pass
-#EXTINF:-1 group-title="TEST",Atreseries HD
-http://79.117.45.86:9981/stream/channelid/1910335831?profile=pass
-#EXTINF:-1 group-title="TEST",TBN España
-http://79.117.45.86:9981/stream/channelid/1743625969?profile=pass
-#EXTINF:-1 group-title="TEST",24h HD
-http://79.117.45.86:9981/stream/channelid/146878021?profile=pass
-#EXTINF:-1 group-title="TEST",BOM Cine
-http://79.117.45.86:9981/stream/channelid/1642516146?profile=pass
-#EXTINF:-1 group-title="TEST",Popular TV
-http://79.117.45.86:9981/stream/channelid/2134935779?profile=pass
-#EXTINF:-1 group-title="TEST",TV Murciana
-http://79.117.45.86:9981/stream/channelid/1854624156?profile=pass
-#EXTINF:-1 group-title="TEST",La Opinión TV
-http://79.117.45.86:9981/stream/channelid/447540219?profile=pass
-#EXTINF:-1 group-title="TEST",GTM TV
-http://79.117.45.86:9981/stream/channelid/1366779137?profile=pass
-#EXTINF:-1 group-title="TEST",TDP HD
-http://79.117.45.86:9981/stream/channelid/222363745?profile=pass
-#EXTINF:-1 group-title="TEST",GOL
-http://79.117.45.86:9981/stream/channelid/1029785408?profile=pass
-#EXTINF:-1 group-title="TEST",BeMad TV HD
-http://79.117.45.86:9981/stream/channelid/1743578243?profile=pass
-#EXTINF:-1 group-title="TEST",RealMadrid TV HD
-http://79.117.45.86:9981/stream/channelid/590070805?profile=pass
