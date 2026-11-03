@@ -1268,18 +1268,27 @@ http://90.183.52.46:4000/play/a04a/index.m3u8
 # Talianske kanály
 
 #EXTINF:-1 group-title="Talianske",Rai 1
-http://5.180.164.197:8080/RAI1/index.m3u8
+http://102.129.186.182:81/rai1/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 1 (Alt.)
+http://5.180.164.197:8080/RAI1/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",Rai 1 (Alt.2)
 https://dash4.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 2
+http://102.129.186.182:81/rai2/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",Rai 2 (Alt.)
 http://5.180.164.197:8080/RAI2/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 3
-http://5.180.164.197:8080/RAI3/index.m3u8
+http://102.129.186.182:81/rai3/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 3 (Alt.)
+http://5.180.164.197:8080/RAI3/index.m3u8
+
+#EXTINF:-1 group-title="Talianske",Rai 3 (Alt.2)
 https://dash4.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 4
@@ -1310,7 +1319,7 @@ https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rain
 http://102.129.186.182:81/la5/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",La 7
-https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+http://102.129.186.182:81/la7/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",La 7 d
 http://102.129.186.182:81/la7d/index.m3u8
@@ -1707,12 +1716,8 @@ https://dash4.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",Balikpapan TV
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Indonézske",Biznet Adventure
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-#EXTINF:-1 group-title="Indonézske",dTVi
-https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 group-title="Indonézske",Efarina TV
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 group-title="Indonézske",Garuda TV
@@ -1721,8 +1726,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 group-title="Indonézske",Jambi TV
 https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
-#EXTINF:-1 group-title="Indonézske",Jawa Pos TV Jakarta
-http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",JTV Surabaya
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",JTV Kediri HD
@@ -1830,9 +1833,6 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 
 #EXTINF:-1 group-title="RÔZNE 1",Bosna: Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-
-#EXTINF:-1 group-title="RÔZNE 1",Bosna: Televizija M
-https://live.tv-m.net/hls/stream.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Singapur: Channel 8 (Čínsky)
 https://cdn.qd.je/163189/ch8
