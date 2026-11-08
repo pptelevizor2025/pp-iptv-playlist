@@ -929,9 +929,6 @@ https://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/Playlist.m
 #EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO San Diego: Sovy
 https://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/Playlist.m3u8
 
-#EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO Houston: Slony
-https://ams-28635.antmedia.cloud:5443/live/streams/elephant-yard-cam.m3u8
-
 #EXTINF:-1 group-title="5 - Kamery:  ZOO",ZOO Houston: Žirafy
 https://ams-28635.antmedia.cloud:5443/live/streams/giraffe-platform-cam.m3u8
 
@@ -1480,14 +1477,23 @@ https://dash4.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Rakúske",ORF 1
 https://test06.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 
+#EXTINF:-1 group-title="Rakúske",ORF 1 (Alt.)
+http://5.175.174.49:1234/stream/maxtvhr/orf1/master.m3u8
+
 #EXTINF:-1 group-title="Rakúske",ORF 2
 https://test02.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
 
 #EXTINF:-1 group-title="Rakúske",ORF 2 (Alt.)
+http://5.175.174.49:1234/stream/maxtvhr/orf2/master.m3u8
+
+#EXTINF:-1 group-title="Rakúske",ORF 2 (Alt.2)
 http://88.212.15.30/live/test_orf_zwei_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Rakúske",ORF 3
 https://test07.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+
+#EXTINF:-1 group-title="Rakúske",ORF 3 (Alt.)
+http://5.175.174.49:1234/stream/maxtvhr/orf3/master.m3u8
 
 #EXTINF:-1 group-title="Rakúske",ORF Sport
 https://test07.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
@@ -2020,9 +2026,6 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="Ruské federálne",Россия 24
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
 
-#EXTINF:-1 tvg-id="rossia-24" group-title="Ruské federálne",Россия 24 (Alt.)
-http://77.232.131.211/Rossiya24/index.m3u8
-
 #EXTINF:-1 tvg-id="kultura" group-title="Ruské federálne",Россия К
 https://raw.githubusercontent.com/pptelevizor2025/ZZZ-Rossiya-K/main/Rossiya-K.m3u8
 
@@ -2205,8 +2208,8 @@ http://stream.mcquack.net/236/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Мосфильм Золотая коллекция
 http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",viju TV1000 русское
-https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",viju TV1000 русское ❌
+https://s.tivix.co/l4AMbTaT2gvL0hN_Ys0vSA/139/1794181377/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Ruské tematické FILMY A SERIÁLY",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
@@ -2235,7 +2238,7 @@ http://stream.mcquack.net/133/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Кинопоказ
 http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Наше Новое Кино
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Наше Новое Кино ❌
 https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Родное кино
@@ -2407,12 +2410,9 @@ https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Ruské tematické RÔZNE",Travel+Adventure
-http://77.232.131.211/TravelAdventureHD/index.m3u8
-
-#EXTINF:-1 tvg-id="travel-adventure" group-title="Ruské tematické RÔZNE",Travel+Adventure (Alt.)
 http://stream.mcquack.net/206/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",Победа
+#EXTINF:-1 group-title="Ruské tematické RÔZNE",Победа ❌
 https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",viju+ sport
