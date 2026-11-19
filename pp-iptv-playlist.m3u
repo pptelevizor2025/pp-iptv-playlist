@@ -543,6 +543,23 @@ http://88.212.15.30/live/tanecnesutaze/index.m3u8
 #EXTINF:-1 group-title="2 - Slovenské",NR SR
 https://dash4.antik.sk/live/test_nrsr/playlist.m3u8
 
+#EXTINF:-1 group-title="2 - Slovenské",Canal+ Sport 1 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="2 - Slovenské",Canal+ Sport 2 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="2 - Slovenské",Canal+ Sport 3 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="2 - Slovenské",Canal+ Sport 4 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="2 - Slovenské",Canal+ Sport 5 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="2 - Slovenské",Canal+ Sport 6 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="2 - Slovenské",Canal+ Sport 7 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="2 - Slovenské",Canal+ Sport 8 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+
 
 
 # 3 - České kanály
@@ -703,7 +720,7 @@ http://185.188.188.237:5000/live/novasport3/playlist.m3u8
 http://185.188.188.237:5000/live/novasport4/playlist.m3u8
 #EXTINF:-1 group-title="3 - České",Nova Sport 5
 http://185.188.188.237:5000/live/novasport5/playlist.m3u8
-#EXTINF:-1 group-title="3 - České",Nova Sport 6
+#EXTINF:-1 group-title="3 - České",Nova Sport 6 ❌
 http://193.33.39.108:8088/novasport6/index.m3u8
 #EXTINF:-1 group-title="3 - České",Óčko
 http://88.212.15.30/live/test_ocko/playlist.m3u8
@@ -1226,10 +1243,10 @@ http://88.212.15.30/live/zenebutik/index.m3u8
 # Španielske kanály
 
 #EXTINF:-1 group-title="Španielske",La 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 group-title="Španielske",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 group-title="Španielske",RTVE 24h
 http://90.183.52.46:4000/play/a04i/index.m3u8
@@ -1245,6 +1262,14 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
 #EXTINF:-1 group-title="Španielske",CGTN Spanish | China
 https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Španielske",AXN
+http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
+
+#EXTINF:-1 group-title="Španielske",Comedy Central
+http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
+
+
 
 # Španielske latinskoamerické kanály
 
@@ -1268,24 +1293,15 @@ http://90.183.52.46:4000/play/a04a/index.m3u8
 http://102.129.186.182:81/rai1/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 1 (Alt.)
-http://5.180.164.197:8080/RAI1/index.m3u8
-
-#EXTINF:-1 group-title="Talianske",Rai 1 (Alt.2)
 https://dash4.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 2
 http://102.129.186.182:81/rai2/index.m3u8
 
-#EXTINF:-1 group-title="Talianske",Rai 2 (Alt.)
-http://5.180.164.197:8080/RAI2/index.m3u8
-
 #EXTINF:-1 group-title="Talianske",Rai 3
 http://102.129.186.182:81/rai3/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 3 (Alt.)
-http://5.180.164.197:8080/RAI3/index.m3u8
-
-#EXTINF:-1 group-title="Talianske",Rai 3 (Alt.2)
 https://dash4.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai 4
@@ -1294,23 +1310,23 @@ http://102.129.186.182:81/rai4/index.m3u8
 #EXTINF:-1 group-title="Talianske",Rai 5
 http://102.129.186.182:81/rai5/index.m3u8
 
+#EXTINF:-1 group-title="Talianske",Rai Italia
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+
+#EXTINF:-1 group-title="Talianske",Rai World Premium
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+
 #EXTINF:-1 group-title="Talianske",Rai Movie
 http://102.129.186.182:81/raimovie/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",Rai Storia
 http://102.129.186.182:81/raistoria/index.m3u8
 
-#EXTINF:-1 group-title="Talianske",Rai Storia (Alt.)
-http://5.180.164.197:8080/RAISTORIA/index.m3u8
-
 #EXTINF:-1 group-title="Talianske",Rai Scuola
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 
-#EXTINF:-1 group-title="Talianske",Rai Gulp
-http://5.180.164.197:8080/RAIGULP/index.m3u8
-
 #EXTINF:-1 group-title="Talianske",Rai News 24
-https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 
 #EXTINF:-1 group-title="Talianske",La 5
 http://102.129.186.182:81/la5/index.m3u8
@@ -1318,7 +1334,10 @@ http://102.129.186.182:81/la5/index.m3u8
 #EXTINF:-1 group-title="Talianske",La 7
 http://102.129.186.182:81/la7/index.m3u8
 
-#EXTINF:-1 group-title="Talianske",La 7 d
+#EXTINF:-1 group-title="Talianske",La 7 (Alt.)
+https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+
+#EXTINF:-1 group-title="Talianske",La 7 Cinema
 http://102.129.186.182:81/la7d/index.m3u8
 
 #EXTINF:-1 group-title="Talianske",TV 8
@@ -1338,37 +1357,37 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 # FRANCÚZSKE
 
 #EXTINF:-1 group-title="Francúzske",TF1
-http://5.180.164.197:8080/TF1/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Francúzske",TF1 Séries Films
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
 
 #EXTINF:-1 group-title="Francúzske",France 2
-http://5.180.164.197:8080/FRANCE2/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 
-#EXTINF:-1 group-title="Francúzske",France 3 Lorraine
-http://5.180.164.197:8080/FRANCE3/index.m3u8
+#EXTINF:-1 group-title="Francúzske",France 3
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
 
 #EXTINF:-1 group-title="Francúzske",France 5
-http://149.62.177.107:9999/France_5/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
 
 #EXTINF:-1 group-title="Francúzske",France 4 (detský)
-http://5.180.164.197:8080/FRANCE4/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 
 #EXTINF:-1 group-title="Francúzske",Gulli (detský)
 http://99.27.51.147:8080/Gulli/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",M6
-http://5.180.164.197:8080/M6/index.m3u8
+http://99.27.51.147:8080/M6/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",W9
-http://5.180.164.197:8080/W9/index.m3u8
+http://99.27.51.147:8080/W9/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",TMC
-http://5.180.164.197:8080/TMC/index.m3u8
-
-#EXTINF:-1 group-title="Francúzske",ARTE
-http://5.180.164.197:8080/ARTEFR/index.m3u8
+http://99.27.51.147:8080/TMC/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",TV5 Monde Europe
-http://5.180.164.197:8080/TV5MONDE/index.m3u8
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 
 #EXTINF:-1 group-title="Francúzske",France24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
@@ -1377,10 +1396,7 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 
 #EXTINF:-1 group-title="Francúzske",LCI
-http://5.180.164.197:8080/LCI/index.m3u8
-
-#EXTINF:-1 group-title="Francúzske",CNEWS
-http://5.180.164.197:8080/CNEWS/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
 
 #EXTINF:-1 group-title="Francúzske",RMC Découverte
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
@@ -1401,20 +1417,17 @@ https://raw.githubusercontent.com/pptelevizor2025/ZZZ-KTO-FR/main/KTO-FR.m3u8
 #EXTINF:-1 group-title="Nemecké",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 
-#EXTINF:-1 group-title="Nemecké",ZDFneo
-http://5.180.164.197:8080/ZDFNEO/index.m3u8
-
 #EXTINF:-1 group-title="Nemecké",Das Erste (ARD)
 https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",RTL
-http://5.180.164.197:8080/RTL/index.m3u8
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",RTL 2
-http://5.180.164.197:8080/RTL2/index.m3u8
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",RTL Nitro
-http://5.180.164.197:8080/RTLNITRO/index.m3u8
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",SAT.1
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
@@ -1424,9 +1437,6 @@ https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Nemecké",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-
-#EXTINF:-1 group-title="Nemecké",ProSieben MAXX
-http://5.180.164.197:8080/PRO7MAXX/index.m3u8
 
 #EXTINF:-1 group-title="Nemecké",Kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
@@ -1464,9 +1474,6 @@ https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Nemecké",SAT.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="Nemecké",DMAX
-http://5.180.164.197:8080/DMAX/index.m3u8
-
 #EXTINF:-1 group-title="Nemecké",EWTN Katholisches TV Deutschland
 https://dash4.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 
@@ -1477,23 +1484,14 @@ https://dash4.antik.sk/live/test_ewtn_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Rakúske",ORF 1
 https://test06.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 
-#EXTINF:-1 group-title="Rakúske",ORF 1 (Alt.)
-http://5.175.174.49:1234/stream/maxtvhr/orf1/master.m3u8
-
 #EXTINF:-1 group-title="Rakúske",ORF 2
 https://test02.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
-
-#EXTINF:-1 group-title="Rakúske",ORF 2 (Alt.)
-http://5.175.174.49:1234/stream/maxtvhr/orf2/master.m3u8
 
 #EXTINF:-1 group-title="Rakúske",ORF 2 (Alt.2)
 http://88.212.15.30/live/test_orf_zwei_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Rakúske",ORF 3
 https://test07.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
-
-#EXTINF:-1 group-title="Rakúske",ORF 3 (Alt.)
-http://5.175.174.49:1234/stream/maxtvhr/orf3/master.m3u8
 
 #EXTINF:-1 group-title="Rakúske",ORF Sport
 https://test07.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
@@ -1523,17 +1521,8 @@ https://dash4.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:-1 group-title="Angličtina",CNBC | USA
 http://176.65.153.4:4007/play/a072/index.m3u8
 
-#EXTINF:-1 group-title="Angličtina",CNBC | USA (Alt.)
-http://5.180.164.197:8080/CNBC/index.m3u8
-
-#EXTINF:-1 group-title="Angličtina",Bloomberg Europe | USA
-http://5.180.164.197:8080/BLOOMBERG/index.m3u8
-
 #EXTINF:-1 group-title="Angličtina",Sky News | UK
 https://dash4.antik.sk/live/test_skynews/playlist.m3u8
-
-#EXTINF:-1 group-title="Angličtina",Sky News | UK (Alt.)
-http://5.180.164.197:8080/SKYNEWS/index.m3u8
 
 #EXTINF:-1 group-title="Angličtina",BBC News | UK
 https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
@@ -1567,9 +1556,6 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
 #EXTINF:-1 group-title="Angličtina",France 24 English | France
 https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
-
-#EXTINF:-1 group-title="Angličtina",France 24 English | France (Alt.)
-http://5.180.164.197:8080/FRANCE24EN/index.m3u8
 
 #EXTINF:-1 group-title="Angličtina",DW English | Germany
 http://90.183.52.46:4000/play/a048/index.m3u8
@@ -1720,10 +1706,14 @@ https://dash4.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonézske",Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",Balikpapan TV
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTINF:-1 group-title="Indonézske",CNN Indonesia
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Indonézske",Efarina TV
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 group-title="Indonézske",Garuda TV
@@ -1742,6 +1732,8 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 group-title="Indonézske",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w486454319_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="Indonézske",Nabawi TV
+http://202.150.161.117:8000/play/NabawiTV
 #EXTINF:-1 group-title="Indonézske",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 group-title="Indonézske",Salam TV
@@ -1765,70 +1757,6 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10001-mp4a_960
 
 
 
-# INDONÉZSKE 2
-
-#EXTINF:-1 group-title="Indonézske 2",Indosiar
-http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",SCTV
-http://202.150.165.66:8088/play/808-SCTV/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",RCTI
-http://202.150.165.66:8088/play/811-RCTI/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",MNCTV
-http://202.150.165.66:8088/play/812-MNCTV/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",TRANS7
-http://202.150.165.66:8088/play/801-Trans7/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",TRANS TV
-http://202.150.165.66:8088/play/800-TransTV/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",ANTV
-http://202.150.165.66:8088/play/807-ANTV/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",Metro TV
-http://202.150.165.66:8088/play/805-MetroTV/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",Garuda TV
-http://202.150.165.66:8088/play/824-GarudaTV/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",CNN INDONESIA
-http://202.150.165.66:8088/play/802-CNNIndonesia/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",HBO
-http://202.150.165.66:8088/play/100-HBO/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",HBO Family
-http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",HBO Hits
-http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",HBO Signature
-http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",Musik Indonesia
-http://202.150.165.66:8088/play/328-MusikIndonesia/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",TV9 Nusantara
-http://202.150.165.66:8088/play/703-TV9/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",Al Quran Al Kareem
-http://202.150.165.66:8088/play/700-AlQuran/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",TVMu
-http://202.150.165.66:8088/play/702-TVMu/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",Nabawi TV
-http://202.150.165.66:8088/play/707-Nabawi/index.m3u8
-
-#EXTINF:-1 group-title="Indonézske 2",Al Wafa Tareem
-http://202.150.165.66:8088/play/708-AlwafaTareem/index.m3u8
-
-
-
 # RÔZNE 1
 
 #EXTINF:-1 group-title="RÔZNE 1",Krb: TV Piánko
@@ -1840,8 +1768,29 @@ http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
 #EXTINF:-1 group-title="RÔZNE 1",Bosna: Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 
-#EXTINF:-1 group-title="RÔZNE 1",Singapur: Channel 8 (Čínsky)
-https://cdn.qd.je/163189/ch8
+#EXTINF:-1 group-title="RÔZNE 1",Srbsko: RTS 1
+http://109.206.96.209:80/rts1_72h/index.m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Srbsko: Nova S
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Srbsko: N1
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Srbsko: PRVA
+http://109.206.96.209/prva_72h/index.m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Srbsko: RTS 2
+http://109.206.96.209:80/rts2_72h/index.m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Srbsko: HAPPY
+http://109.206.96.209:80/happy_72h/index.m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Srbsko: Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Srbsko: K1
+https://edge-rs-03.maksnet.tv/minacordmedia-secure/k1studio/index.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Slovinsko: TV SLO 1
 https://dash4.antik.sk/live/test_slo1_tizen/playlist.m3u8
@@ -1866,6 +1815,9 @@ http://90.183.52.46:4000/play/a04t/index.m3u8
 
 #EXTINF:-1 group-title="RÔZNE 1",Balkánsky: Kitchen TV
 https://dash4.antik.sk/live/test_kitchen_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="RÔZNE 1",Singapur: Channel 8 (Čínsky)
+https://cdn.qd.je/163189/ch8
 
 #EXTINF:-1 group-title="RÔZNE 1",Music Box Classic
 http://88.212.15.30/live/mb_classic/index.m3u8
@@ -1989,8 +1941,14 @@ https://dash4.antik.sk/live/test_locall/playlist.m3u8
 
 # Bieloruské kanály
 
-#EXTINF:-1 tvg-id="pervy-info-by" group-title="Bieloruské",Первый информационный
-https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Bieloruské",НТВ Беларусь
+http://cdntv.online/hls/k9nmfxjv5wyr/779.m3u8
+
+#EXTINF:-1 group-title="Bieloruské",ОНТ
+http://cdntv.online/hls/k9nmfxjv5wyr/871.m3u8
+
+#EXTINF:-1 tvg-id="stv-by" group-title="Bieloruské",СТВ Беларусь
+https://edge51.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="belarus1" group-title="Bieloruské",Беларусь 1
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
@@ -2010,8 +1968,8 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_b26
 #EXTINF:-1 tvg-id="belarus24" group-title="Bieloruské",Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="stv-by" group-title="Bieloruské",СТВ Беларусь
-https://edge51.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="pervy-info-by" group-title="Bieloruské",Первый информационный
+https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 
 
 
@@ -2033,12 +1991,18 @@ https://raw.githubusercontent.com/pptelevizor2025/ZZZ-Rossiya-K/main/Rossiya-K.m
 http://stream.mcquack.net/229/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 tvg-id="pervy" group-title="Ruské federálne",Первый канал
-http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/tracks-v1a1l1/mono.ts.m3u8
+http://cdntv.online/hls/k9nmfxjv5wyr/29.m3u8
 
 #EXTINF:-1 tvg-id="pervy" group-title="Ruské federálne",Первый канал (Alt.)
+http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/tracks-v1a1l1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="pervy" group-title="Ruské federálne",Первый канал (Alt.2)
 http://178.217.49.7/1/index.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Ruské federálne",Пятый канал
+http://cdntv.online/hls/k9nmfxjv5wyr/2293.m3u8
+
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Ruské federálne",Пятый канал (Alt.)
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/tracks-v1a1l1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Ruské federálne",Пятый канал International
@@ -2069,10 +2033,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="Ruské federálne",ТВ Центр
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8
+http://cdntv.online/hls/k9nmfxjv5wyr/2076.m3u8
 
 #EXTINF:-1 group-title="Ruské federálne",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Ruské federálne",Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Ruské federálne",Пятница!
 http://stream.mcquack.net/181/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
@@ -2168,6 +2135,18 @@ https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ruské regionálne",Грозный
 https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 
+#EXTINF:-1 group-title="Ruské regionálne",Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské regionálne",Ингушетия
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské regionálne",Наша Сибирь
+http://cdntv.online/hls/k9nmfxjv5wyr/230.m3u8
+
+#EXTINF:-1 group-title="Ruské regionálne",Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+
 
 
 # Ruské kanály - tematické - FILMY A SERIÁLY
@@ -2179,6 +2158,9 @@ http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",А2
+http://cdntv.online/hls/k9nmfxjv5wyr/402.m3u8
+
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",А2 (Alt.)
 https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Ruské tematické FILMY A SERIÁLY",viju+ Премьера
@@ -2208,8 +2190,11 @@ http://stream.mcquack.net/236/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Мосфильм Золотая коллекция
 http://stream.mcquack.net/369/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",viju TV1000 русское ❌
-https://s.tivix.co/l4AMbTaT2gvL0hN_Ys0vSA/139/1794181377/index.m3u8
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",viju TV1000 русское
+http://cdntv.online/hls/k9nmfxjv5wyr/411.m3u8
+
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",viju TV1000 русское (Alt.)
+http://46.53.200.153:7777/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Ruské tematické FILMY A SERIÁLY",НТВ Сериал
 https://cdn.ntv.ru/th_serial/playlist.m3u8
@@ -2238,8 +2223,8 @@ http://stream.mcquack.net/133/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Кинопоказ
 http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
-#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Наше Новое Кино ❌
-https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Наше Новое Кино
+http://cdntv.online/hls/k9nmfxjv5wyr/132.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Родное кино
 http://stream.mcquack.net/242/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
@@ -2270,6 +2255,9 @@ http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Индийское кино
 http://stream.mcquack.net/104/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+
+#EXTINF:-1 group-title="Ruské tematické FILMY A SERIÁLY",Болливуд
+http://cdntv.online/hls/k9nmfxjv5wyr/418.m3u8
 
 #EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="Ruské tematické FILMY A SERIÁLY",Наше Мужское
 http://stream.mcquack.net/362/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
@@ -2412,8 +2400,8 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Ruské tematické RÔZNE",Travel+Adventure
 http://stream.mcquack.net/206/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",Победа ❌
-https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Ruské tematické RÔZNE",Победа
+http://cdntv.online/hls/k9nmfxjv5wyr/379.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",viju+ sport
 http://stream.mcquack.net/333/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
@@ -2439,11 +2427,20 @@ http://stream.mcquack.net/319/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Жара
 http://stream.mcquack.net/386/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
+#EXTINF:-1 group-title="Ruské tematické RÔZNE",Страна ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Ruské tematické RÔZNE",Bridge TV Русский хит
+http://cdntv.online/hls/k9nmfxjv5wyr/65.m3u8
+
+#EXTINF:-1 group-title="Ruské tematické RÔZNE",Bridge TV Шлягер
+http://cdntv.online/hls/k9nmfxjv5wyr/1152.m3u8
+
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 
-#EXTINF:-1 group-title="Ruské tematické RÔZNE",Страна ТВ
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Ruské tematické RÔZNE",Жар Птица
+http://cdntv.online/hls/k9nmfxjv5wyr/470.m3u8
 
 #EXTINF:-1 group-title="Ruské tematické RÔZNE",Радио Песни от всей души
 https://hls-01-povd.hostingradio.ru/povd/160/playlist.m3u8
